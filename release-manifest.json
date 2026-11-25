@@ -6,7 +6,7 @@
   "host": "hejiu.org",
   "siteUrl": "https://hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T10:32:41.455Z",
+  "generatedAt": "2026-11-25T11:23:36.531Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -21,7 +21,7 @@
   },
   "contentCommits": null,
   "contentCommitNote": "G2 local workspace has no remote commits yet; content identity is the file SHA256 tree below.",
-  "contentTreeSha256": "e0e4cc76bca0730c9e8189dd04f1a84f035482f1593bc9b57d32246b9f73e5f4",
+  "contentTreeSha256": "19102b81c2ad785865517e03fdfc0111de4fc2c0cccca7e0e5fdfce373e0d2d6",
   "contentFiles": [
     {
       "repository": "world-alcohol-encyclopedia/atlas",
@@ -8769,6 +8769,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/gulin.md",
+      "sha256": "c69d8ad36d413e5551bdd18ab2ae1d41b4a5ed305edad561a3233a49e0651e7f",
+      "id": "region:gulin",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/haut-medoc.md",
       "sha256": "33be3454273f25f25e00217010f83a7ce9ec0a1e6b3b228fc43f3064b85b5149",
       "id": "region:haut-medoc",
@@ -9068,6 +9076,14 @@
       "path": "en/region/mendoza.md",
       "sha256": "9567c70fb20e98503aad9827a9f399da95fe7b07615d9cc22106dc5570748b64",
       "id": "region:mendoza",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/mianzhu.md",
+      "sha256": "d861632aa4a4a2c7173a92233810f11eee4c87ea84b126d78b85899b5893f7e2",
+      "id": "region:mianzhu",
       "lang": "en",
       "status": "reviewed"
     },
@@ -9644,6 +9660,14 @@
       "path": "en/region/xinjiang.md",
       "sha256": "ed62d930e72543c08ceac6f42d2e8ba621abf1a6c0006be61ae3c802381435df",
       "id": "region:xinjiang",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/xishui.md",
+      "sha256": "8b07925de1e416c5f20bc4597f5651eef530bcbc76e985e1a307e7918ea6426e",
+      "id": "region:xishui",
       "lang": "en",
       "status": "reviewed"
     },
@@ -15049,6 +15073,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/gulin.md",
+      "sha256": "8d216959ef18a7c717b7b904b151ab95131f9acca1987e6856e72b2ba53614cb",
+      "id": "region:gulin",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/haut-medoc.md",
       "sha256": "6058e0cc87b86a127ce0a9a9b756397200a20bd00692114811f65c6154d67882",
       "id": "region:haut-medoc",
@@ -15348,6 +15380,14 @@
       "path": "zh/region/mendoza.md",
       "sha256": "8493b1c09e8b07eeb73b26965cba99e779e11c638db4039ee79c6592c747847c",
       "id": "region:mendoza",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/mianzhu.md",
+      "sha256": "acce3ddb90c7572fc7fed362319bcbd8f22e372a62ac3cef0fb063a31ccfbe72",
+      "id": "region:mianzhu",
       "lang": "zh",
       "status": "reviewed"
     },
@@ -15924,6 +15964,14 @@
       "path": "zh/region/xinjiang.md",
       "sha256": "df805598c1b261914c6b5bdd15382c94730d11cdb66ef4ff0dbd63a9f8fd0a7f",
       "id": "region:xinjiang",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/xishui.md",
+      "sha256": "80bf94cf54416bff8c4a8d262ca0f010cec6be8cb1806e83e43e66cfa4b2446b",
+      "id": "region:xishui",
       "lang": "zh",
       "status": "reviewed"
     },
@@ -24745,7 +24793,7 @@
     "aggregateSource": ".hejiu/published/main.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "40f71fdf65c128cf60fcfb110fd3c7fe8fa5238d2c8fcf538c6cbc5d6205b44e",
+  "distTreeSha256ExcludingManifest": "fdd440126dd5609593b22a07c9f73a070fe9e25f4f010937fed14177bc65a220",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",

@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T10:32:38.501Z",
-  "contentTreeSha256": "e0e4cc76bca0730c9e8189dd04f1a84f035482f1593bc9b57d32246b9f73e5f4",
+  "generatedAt": "2026-11-25T11:23:34.059Z",
+  "contentTreeSha256": "19102b81c2ad785865517e03fdfc0111de4fc2c0cccca7e0e5fdfce373e0d2d6",
   "counts": {
-    "records": 2852,
-    "entities": 1426,
-    "publishedPages": 2852,
+    "records": 2858,
+    "entities": 1429,
+    "publishedPages": 2858,
     "previewPages": 0,
-    "sourceRecords": 2854,
-    "sourceEntities": 1427
+    "sourceRecords": 2860,
+    "sourceEntities": 1430
   },
   "entities": [
     {
@@ -31242,6 +31242,36 @@
       }
     },
     {
+      "id": "region:gulin",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "gulin",
+          "path": "/regions/gulin/",
+          "url": "https://beverages.hejiu.org/regions/gulin/",
+          "title": "古蔺县",
+          "summary": "四川盆地南缘、赤水河左岸的县，郎酒与二郎镇所在；从河谷地形、酱香工艺与跨省边界理解这个“嵌入黔北”的四川产区。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "gulin",
+          "path": "/en/regions/gulin/",
+          "url": "https://beverages.hejiu.org/en/regions/gulin/",
+          "title": "Gulin County",
+          "summary": "A county on the left bank of the Chishui River at the southern edge of the Sichuan Basin, home to Langjiu and Erlang Town; a production area best understood through river-valley geography, sauce-aroma craft and the provincial border.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "region:haut-medoc",
       "type": "region",
       "siteKey": "beverages",
@@ -32375,6 +32405,36 @@
           "url": "https://beverages.hejiu.org/en/regions/mendoza/",
           "title": "Mendoza",
           "summary": "A wine region in Mendoza Province, Argentina, on the eastern foothills of the Andes, with about 146,815 hectares of vineyards in the 2021 INV count, 75.8% of the national total; a dry climate with about 220 mm of rain and Andean snowmelt irrigation, and vineyards from about 650 to 1,500 metres; Malbec covers about 39,248 hectares, 26.7% of the province and 20.2% of the national Malbec area; five sub-regions, the Valle de Uco, Primera Zona and the northern, eastern and southern oases, with DOCs Luján de Cuyo and San Rafael and IGs such as Agrelo and Paraje Altamira.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "region:mianzhu",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "mianzhu",
+          "path": "/regions/mianzhu/",
+          "url": "https://beverages.hejiu.org/regions/mianzhu/",
+          "title": "绵竹市",
+          "summary": "四川盆地西北缘、龙门山前的县级市，剑南春的产地；把“名酒之乡”与年画、山地和震后记忆放在同一条城市线上理解。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mianzhu",
+          "path": "/en/regions/mianzhu/",
+          "url": "https://beverages.hejiu.org/en/regions/mianzhu/",
+          "title": "Mianzhu",
+          "summary": "A county-level city at the northwestern edge of the Sichuan Basin and the foothills of the Longmen Mountains, home to Jiannanchun; a place to read the “hometown of famous liquor” alongside New Year prints, mountain geography and the memory of the 2008 earthquake.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -34535,6 +34595,36 @@
           "url": "https://beverages.hejiu.org/en/regions/xinjiang/",
           "title": "Xinjiang",
           "summary": "A wine region in north-western China centred on the northern Tianshan foothills, the Ili valley and the Yanqi basin; a temperate continental arid climate brings strong sun and wide day-night swings, and gravelly soils with drip irrigation and winter vine burial define local viticulture, with Cabernet Sauvignon and other international varieties dominant in China's key grape base.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "region:xishui",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "xishui",
+          "path": "/regions/xishui/",
+          "url": "https://beverages.hejiu.org/regions/xishui/",
+          "title": "习水县",
+          "summary": "贵州遵义西北部、赤水河中游的县，习酒与习酒镇所在；从“四渡赤水”的历史现场、河谷酱香与跨省交通理解这片黔北产区。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "xishui",
+          "path": "/en/regions/xishui/",
+          "url": "https://beverages.hejiu.org/en/regions/xishui/",
+          "title": "Xishui County",
+          "summary": "A county in northwestern Zunyi, Guizhou, on the middle Chishui River and home to Xijiu and Xijiu Town; a production area to read through the Four Crossings of the Chishui, valley sauce aroma and cross-provincial transport.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
