@@ -6,7 +6,7 @@
   "host": "hejiu.org",
   "siteUrl": "https://hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T11:23:36.531Z",
+  "generatedAt": "2026-11-25T11:40:49.599Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -21,7 +21,7 @@
   },
   "contentCommits": null,
   "contentCommitNote": "G2 local workspace has no remote commits yet; content identity is the file SHA256 tree below.",
-  "contentTreeSha256": "19102b81c2ad785865517e03fdfc0111de4fc2c0cccca7e0e5fdfce373e0d2d6",
+  "contentTreeSha256": "9477cfa12ad72f4a1ede2c48abb4543cbf3be3e597a5104afa933ad2bcff8449",
   "contentFiles": [
     {
       "repository": "world-alcohol-encyclopedia/atlas",
@@ -21290,7 +21290,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/guide/food-pairing.md",
-      "sha256": "ec9ab092b47f145237815d1ddcf4f4a60288052842fd7fd1010d5bc5e5deea93",
+      "sha256": "6a2134f90fa4cab5b13de65746563060abe13501fa2a04f59860e0588b1d115c",
       "id": "guide:food-pairing",
       "lang": "en",
       "status": "reviewed"
@@ -21402,7 +21402,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/pairing/japanese-sake.md",
-      "sha256": "78f081c32f2daed3ce547bd2827846a6f6faf93793a0a1beeac9505ad0aa3a86",
+      "sha256": "e58176fa08ce27b9693c94cd5db8026d0609aa4165e24f6c572953cc4caf6ffd",
       "id": "pairing:japanese-sake",
       "lang": "en",
       "status": "reviewed"
@@ -24793,7 +24793,7 @@
     "aggregateSource": ".hejiu/published/main.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "fdd440126dd5609593b22a07c9f73a070fe9e25f4f010937fed14177bc65a220",
+  "distTreeSha256ExcludingManifest": "48fd0145a998df2e4e792ca93caf640b4c1ab85a5cb38532315a8b03e1ea276c",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
