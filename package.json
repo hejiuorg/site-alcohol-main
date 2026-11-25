@@ -1,0 +1,10 @@
+{
+  "name": "site-alcohol-main",
+  "version": "0.1.0",
+  "private": true,
+  "description": "喝酒去 hejiu.org 主站",
+  "scripts": {
+    "dev": "npm run dev -w @hejiu/site-main",
+    "build": "npm run build -w @hejiu/site-main"
+  }
+}
