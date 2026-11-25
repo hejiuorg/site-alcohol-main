@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T07:25:12.483Z",
-  "contentTreeSha256": "f7eea959c1ae1981ea3e43110a430e7d378a136630c7db38e2bfed9816d550fa",
+  "generatedAt": "2026-11-25T08:58:56.055Z",
+  "contentTreeSha256": "53a0bc9c38b34bde2fad35c8371124e205b0069d6deae2c5e18bd2b5bf7b4c0b",
   "counts": {
     "records": 2844,
     "entities": 1422,
@@ -1504,7 +1504,7 @@
           "path": "/en/brands/fenjiu/",
           "url": "https://beverages.hejiu.org/en/brands/fenjiu/",
           "title": "Fenjiu",
-          "summary": "A light-aroma baijiu brand within the Shanxi Xinghuacun Fenjiu Group system, with series including Qinghua, Laobaifen and Bofen. This page covers brand structure, not the product page's flavour detail.",
+          "summary": "A light-aroma baijiu brand within the Shanxi Xinghuacun Fenjiu Group system, with series including Qinghua, Laobaifen and Bofen. This brand covers brand structure, not the product page's flavour detail.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -2134,7 +2134,7 @@
           "path": "/en/brands/wuliangye/",
           "url": "https://beverages.hejiu.org/en/brands/wuliangye/",
           "title": "Wuliangye",
-          "summary": "A strong-aroma baijiu brand under Sichuan Yibin Wuliangye Group, named for five grains such as sorghum, rice, glutinous rice, wheat and corn. This page covers brand structure, not the product page's flavour detail.",
+          "summary": "A strong-aroma baijiu brand under Sichuan Yibin Wuliangye Group, named for five grains such as sorghum, rice, glutinous rice, wheat and corn. This brand covers brand structure, not the product page's flavour detail.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -3904,7 +3904,7 @@
           "path": "/en/articles/baijiu-aroma-systems/",
           "url": "https://culture.hejiu.org/en/articles/baijiu-aroma-systems/",
           "title": "Baijiu aroma systems: how to read strong, light, sauce and rice aromas",
-          "summary": "Aroma type is the baijiu trade's vocabulary for describing a style of aroma and a tradition of craft, not a ranking of quality. This article explains where the idea came from, which processes and compounds shape it, and what to read on a label.",
+          "summary": "Aroma type is the baijiu trade's vocabulary for describing a style of aroma and a tradition of craft, not a ranking of quality. This essay explains where the idea came from, which processes and compounds shape it, and what to read on a label.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -3934,7 +3934,7 @@
           "path": "/en/articles/beyond-the-pub/",
           "url": "https://culture.hejiu.org/en/articles/beyond-the-pub/",
           "title": "Beyond the bar: following a drink to where it is made",
-          "summary": "Beyond the bar lies the place of production. Visits to breweries, distilleries and wine estates break flavour down into raw materials, equipment, time and human choices. This article explains what each kind of visit shows, what to ask, and which claims not to trust.",
+          "summary": "Beyond the bar lies the place of production. Visits to breweries, distilleries and wine estates break flavour down into raw materials, equipment, time and human choices. This essay explains what each kind of visit shows, what to ask, and which claims not to trust.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -4144,7 +4144,7 @@
           "path": "/en/articles/hops-and-bitterness/",
           "url": "https://culture.hejiu.org/en/articles/hops-and-bitterness/",
           "title": "Hops and bitterness: what IBU can and cannot tell you",
-          "summary": "Hops bring bitterness, aroma and keeping quality, and IBU is a measure of iso-alpha-acid concentration. This article explains how bitterness arises, how IBU is measured, and why “higher IBU means more bitter” is unreliable.",
+          "summary": "Hops bring bitterness, aroma and keeping quality, and IBU is a measure of iso-alpha-acid concentration. This essay explains how bitterness arises, how IBU is measured, and why “higher IBU means more bitter” is unreliable.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -4264,7 +4264,7 @@
           "path": "/en/articles/sake-and-shochu/",
           "url": "https://culture.hejiu.org/en/articles/sake-and-shochu/",
           "title": "Sake and shochu: both Japanese, but different crafts",
-          "summary": "Sake is a brewed drink and shochu is a distilled one, yet Chinese-language readers often treat them as the same. This article explains their raw materials, fermentation, distillation, categories and drinking styles, and decodes common label terms.",
+          "summary": "Sake is a brewed drink and shochu is a distilled one, yet Chinese-language readers often treat them as the same. This essay explains their raw materials, fermentation, distillation, categories and drinking styles, and decodes common label terms.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -4504,7 +4504,7 @@
           "path": "/en/customs/birthday-wine/",
           "url": "https://culture.hejiu.org/en/customs/birthday-wine/",
           "title": "Birthday wine",
-          "summary": "Birthday wine is the honouring drink at birthday and milestone banquets, combining blessing, thanks and family gathering. This page covers timing, ritual sequence, documentary sources and modern change, with notes on urging drink and health.",
+          "summary": "Birthday wine is the honouring drink at birthday and milestone banquets, combining blessing, thanks and family gathering. This entry covers timing, ritual sequence, documentary sources and modern change, with notes on urging drink and health.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -4534,7 +4534,7 @@
           "path": "/en/customs/cold-food-festival-wine/",
           "url": "https://culture.hejiu.org/en/customs/cold-food-festival-wine/",
           "title": "Cold Food Festival and wine",
-          "summary": "The Cold Food Festival falls a day or two before Qingming and centres on a fire ban, cold food and tomb visits; wine plays the role of a libation and a family-meal drink rather than a fixed seasonal recipe. This page covers timing, origins, vessels, food, modern practice and health limits.",
+          "summary": "The Cold Food Festival falls a day or two before Qingming and centres on a fire ban, cold food and tomb visits; wine plays the role of a libation and a family-meal drink rather than a fixed seasonal recipe. This entry covers timing, origins, vessels, food, modern practice and health limits.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -4564,7 +4564,7 @@
           "path": "/en/customs/double-ninth-chrysanthemum-wine/",
           "url": "https://culture.hejiu.org/en/customs/double-ninth-chrysanthemum-wine/",
           "title": "Double Ninth chrysanthemum wine",
-          "summary": "Chrysanthemum wine at Double Ninth goes with climbing heights, wearing zhuyu and honouring elders. This page covers the two documented methods, regional variation, the layered history, and the limits of health claims and home brewing.",
+          "summary": "Chrysanthemum wine at Double Ninth goes with climbing heights, wearing zhuyu and honouring elders. This entry covers the two documented methods, regional variation, the layered history, and the limits of health claims and home brewing.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -4594,7 +4594,7 @@
           "path": "/en/customs/dragon-boat-realgar-wine/",
           "url": "https://culture.hejiu.org/en/customs/dragon-boat-realgar-wine/",
           "title": "Dragon Boat realgar wine",
-          "summary": "Drinking realgar wine, sprinkling realgar water and painting a character on children’s foreheads are documented Han festival customs. Realgar contains arsenic and heating produces an even more toxic compound; this page separates origins and symbolism from the safety boundary and offers safer substitutes.",
+          "summary": "Drinking realgar wine, sprinkling realgar water and painting a character on children’s foreheads are documented Han festival customs. Realgar contains arsenic and heating produces an even more toxic compound; this entry separates origins and symbolism from the safety boundary and offers safer substitutes.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -4624,7 +4624,7 @@
           "path": "/en/customs/full-moon-feast/",
           "url": "https://culture.hejiu.org/en/customs/full-moon-feast/",
           "title": "Full-moon feast",
-          "summary": "The full-moon feast marks a baby's first month with announcement, thanks, naming and social exchange. This page links the Song “baby-washing gathering” to later banquets, compares regional customs, and sets out infant-safety and breastfeeding boundaries.",
+          "summary": "The full-moon feast marks a baby's first month with announcement, thanks, naming and social exchange. This entry links the Song “baby-washing gathering” to later banquets, compares regional customs, and sets out infant-safety and breastfeeding boundaries.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -4654,7 +4654,7 @@
           "path": "/en/customs/harvest-wine/",
           "url": "https://culture.hejiu.org/en/customs/harvest-wine/",
           "title": "Harvest wine and grape-harvest customs",
-          "summary": "Harvest wine is the drink of thanksgiving, new-taste tasting and village meals after the autumn harvest; in European vineyard regions the same impulse continues as the grape harvest festival. This page compares Chinese and European forms of harvest drinking, their timing, vessels, food and modern tourist packaging.",
+          "summary": "Harvest wine is the drink of thanksgiving, new-taste tasting and village meals after the autumn harvest; in European vineyard regions the same impulse continues as the grape harvest festival. This entry compares Chinese and European forms of harvest drinking, their timing, vessels, food and modern tourist packaging.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -4774,7 +4774,7 @@
           "path": "/en/customs/sacrificial-wine/",
           "url": "https://culture.hejiu.org/en/customs/sacrificial-wine/",
           "title": "Sacrificial wine",
-          "summary": "Sacrificial wine is offered to ancestors, spirits and sages, with stress on purity, vessels and order. This page compares household, grave and public sacrifices, explains the three offerings and libation, and discusses modern disputes and the double meaning of the term.",
+          "summary": "Sacrificial wine is offered to ancestors, spirits and sages, with stress on purity, vessels and order. This entry compares household, grave and public sacrifices, explains the three offerings and libation, and discusses modern disputes and the double meaning of the term.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -9214,7 +9214,7 @@
           "path": "/en/drinks/crystal-jiannanchun/",
           "url": "https://beverages.hejiu.org/en/drinks/crystal-jiannanchun/",
           "title": "Crystal Jiannanchun",
-          "summary": "The core strong-aroma product of Jiannanchun, commonly called Crystal Sword in the market; usually 52% ABV in 500 mL and made in Mianzhu, Sichuan. This page covers raw materials, process, specification and buying at product level.",
+          "summary": "The core strong-aroma product of Jiannanchun, commonly called Crystal Sword in the market; usually 52% ABV in 500 mL and made in Mianzhu, Sichuan. This entry covers raw materials, process, specification and buying at product level.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -10774,7 +10774,7 @@
           "path": "/en/drinks/france-moet/",
           "url": "https://beverages.hejiu.org/en/drinks/france-moet/",
           "title": "Moët & Chandon",
-          "summary": "A Champagne house founded in Épernay in 1743, known for the non-vintage Brut Impérial, about 1,300 hectares of vineyards and more than 28 kilometres of cellars; this page explains why its style is built for consistency, easy drinking and large-scale hospitality.",
+          "summary": "A Champagne house founded in Épernay in 1743, known for the non-vintage Brut Impérial, about 1,300 hectares of vineyards and more than 28 kilometres of cellars; this entry explains why its style is built for consistency, easy drinking and large-scale hospitality.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -11524,7 +11524,7 @@
           "path": "/en/drinks/france-veuve-clicquot/",
           "url": "https://beverages.hejiu.org/en/drinks/france-veuve-clicquot/",
           "title": "Veuve Clicquot",
-          "summary": "A Champagne house founded in Reims in 1772, taken over in 1805 by the twenty-seven-year-old widow Barbe-Nicole Ponsardin and known for perfecting the riddling table in 1816; this page explains the Yellow Label blend, La Grande Dame and the house's Pinot Noir frame.",
+          "summary": "A Champagne house founded in Reims in 1772, taken over in 1805 by the twenty-seven-year-old widow Barbe-Nicole Ponsardin and known for perfecting the riddling table in 1816; this entry explains the Yellow Label blend, La Grande Dame and the house's Pinot Noir frame.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -12934,7 +12934,7 @@
           "path": "/en/drinks/scotland-chivas-regal-18/",
           "url": "https://beverages.hejiu.org/en/drinks/scotland-chivas-regal-18/",
           "title": "Chivas Regal 18 Year Old",
-          "summary": "An 18-year-old blended Scotch from Chivas Regal, launched in 1997 by Colin Scott and named Gold Signature in 2004; commonly 40% ABV, with Strathisla malt at its core and notes of dried fruit, dark chocolate and cinnamon.",
+          "summary": "An 18-year-old blended Scotch from Chivas Regal, launched in 1997 by Colin Scott and named Gold Signature in 2004; commonly 40% ABV, with Strathisla malt at heart and notes of dried fruit, dark chocolate and cinnamon.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -13624,7 +13624,7 @@
           "path": "/en/drinks/usa-opus-one/",
           "url": "https://beverages.hejiu.org/en/drinks/usa-opus-one/",
           "title": "Opus One",
-          "summary": "Opus One is a Bordeaux-style dry red made in Oakville, Napa Valley, founded in 1979 by Robert Mondavi and Baron Philippe de Rothschild; the first vintage was 1979, released in 1984, and this page explains the 1982 renaming, the four parcels, the 2023 blend, Overture and the auction record.",
+          "summary": "Opus One is a Bordeaux-style dry red made in Oakville, Napa Valley, founded in 1979 by Robert Mondavi and Baron Philippe de Rothschild; the first vintage was 1979, released in 1984, and this entry explains the 1982 renaming, the four parcels, the 2023 blend, Overture and the auction record.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -13654,7 +13654,7 @@
           "path": "/en/drinks/wuliangye-puwu/",
           "url": "https://beverages.hejiu.org/en/drinks/wuliangye-puwu/",
           "title": "Wuliangye Puwu",
-          "summary": "The market nickname for Wuliangye's core product, usually the eighth-generation Wuliangye. It is strong aroma, commonly 52% ABV in 500 mL; this page covers specification, process and buying at product level.",
+          "summary": "The market nickname for Wuliangye's core product, usually the eighth-generation Wuliangye. It is strong aroma, commonly 52% ABV in 500 mL; this entry covers specification, process and buying at product level.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -13834,7 +13834,7 @@
           "path": "/en/events/bordeaux-cite-du-vin-50-wine-regions-2026/",
           "url": "https://atlas.hejiu.org/en/events/bordeaux-cite-du-vin-50-wine-regions-2026/",
           "title": "Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026",
-          "summary": "To mark its tenth anniversary, La Cité du Vin in Bordeaux is running a free photo exhibition, “Around the World in 50 Wine Regions”, from 13 February to 31 December 2026 on its ground and first floors, with images chosen by its partner wine regions. The exhibition is still running; this page records the arrangements, venue and limits.",
+          "summary": "To mark its tenth anniversary, La Cité du Vin in Bordeaux is running a free photo exhibition, “Around the World in 50 Wine Regions”, from 13 February to 31 December 2026 on its ground and first floors, with images chosen by its partner wine regions. The exhibition is still running; this event records the arrangements, venue and limits.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -13864,7 +13864,7 @@
           "path": "/en/events/caffe-florian-sogni-veneziani-2026/",
           "url": "https://atlas.hejiu.org/en/events/caffe-florian-sogni-veneziani-2026/",
           "title": "Sogni Veneziani: a glass exhibition at Caffè Florian in 2026",
-          "summary": "From 12 September to 18 October 2026 Caffè Florian's historic rooms hosted Pierpaolo Seguso's glass sculpture exhibition “Sogni Veneziani”, free and without reservation, open with the café daily from 9:00 to 23:00. The event has ended; this page records that edition's arrangements and rules.",
+          "summary": "From 12 September to 18 October 2026 Caffè Florian's historic rooms hosted Pierpaolo Seguso's glass sculpture exhibition “Sogni Veneziani”, free and without reservation, open with the café daily from 9:00 to 23:00. The event has ended; this event records that edition's arrangements and rules.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -13894,7 +13894,7 @@
           "path": "/en/events/caffe-florian-venice-carnival-2026/",
           "url": "https://atlas.hejiu.org/en/events/caffe-florian-venice-carnival-2026/",
           "title": "Caffè Florian during the Venice Carnival 2026",
-          "summary": "From 31 January to 17 February 2026 the Venice Carnival ran under the theme “Olympus – The Origins of the Game”; Caffè Florian stayed open as usual, served traditional Carnival pastries and used its arcade and terrace as seats for watching the masks and crowds. The event has ended; this page records that edition's arrangements and limits.",
+          "summary": "From 31 January to 17 February 2026 the Venice Carnival ran under the theme “Olympus – The Origins of the Game”; Caffè Florian stayed open as usual, served traditional Carnival pastries and used its arcade and terrace as seats for watching the masks and crowds. The event has ended; this event records that edition's arrangements and limits.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -13954,7 +13954,7 @@
           "path": "/en/events/feis-ile-2026/",
           "url": "https://atlas.hejiu.org/en/events/feis-ile-2026/",
           "title": "Fèis Ìle 2026: The Islay Festival's 40th Edition",
-          "summary": "The 40th Fèis Ìle ran from 22 to 31 May 2026 on Islay, Scotland, expanded to ten full days for the first time; Lagavulin, Laphroaig and Ardbeg held their open days on 23, 26 and 30 May respectively. The festival has ended; this page records that edition's programme, venues and rules.",
+          "summary": "The 40th Fèis Ìle ran from 22 to 31 May 2026 on Islay, Scotland, expanded to ten full days for the first time; Lagavulin, Laphroaig and Ardbeg held their open days on 23, 26 and 30 May respectively. The festival has ended; this event records that edition's programme, venues and rules.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14014,7 +14014,7 @@
           "path": "/en/events/florian-bocelli-2026/",
           "url": "https://atlas.hejiu.org/en/events/florian-bocelli-2026/",
           "title": "Andrea Bocelli in Piazza San Marco: a Caffè Florian concert in 2026",
-          "summary": "On the evening of 27 June 2026 Andrea Bocelli performed in Piazza San Marco in Venice, with Caffè Florian opening its terrace and arcade seats at 200 euros per person. The performance has ended; this page records that edition's arrangements, cancellation rules and verification limits.",
+          "summary": "On the evening of 27 June 2026 Andrea Bocelli performed in Piazza San Marco in Venice, with Caffè Florian opening its terrace and arcade seats at 200 euros per person. The performance has ended; this event records that edition's arrangements, cancellation rules and verification limits.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14074,7 +14074,7 @@
           "path": "/en/events/meursault-paulee-2026/",
           "url": "https://atlas.hejiu.org/en/events/meursault-paulee-2026/",
           "title": "The Paulée de Meursault 2026: Burgundy's Harvest Lunch at Château de Meursault",
-          "summary": "On Monday 16 November 2026 the Paulée de Meursault returns to the vat room of Château de Meursault as the closing lunch of Burgundy's Trois Glorieuses, with guests bringing their own bottles to share and the Paulée literary prize awarded at the table. The event is still to come; this page records the date, venue, history and limits.",
+          "summary": "On Monday 16 November 2026 the Paulée de Meursault returns to the vat room of Château de Meursault as the closing lunch of Burgundy's Trois Glorieuses, with guests bringing their own bottles to share and the Paulée literary prize awarded at the table. The event is still to come; this event records the date, venue, history and limits.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14164,7 +14164,7 @@
           "path": "/en/events/raffles-long-bar-singapore-sling-day-2026/",
           "url": "https://atlas.hejiu.org/en/events/raffles-long-bar-singapore-sling-day-2026/",
           "title": "Singapore Sling Day 2026 at Raffles Long Bar",
-          "summary": "On 27 June 2026 Raffles Hotel Singapore's Long Bar held its annual Singapore Sling Day, coinciding with International Pineapple Day: the first 100 guests bringing a whole pineapple could exchange it for a complimentary Singapore Sling, and the alcohol-free Singapore Sling Zero was launched the same day. The event has ended; this page records that edition's arrangements and rules.",
+          "summary": "On 27 June 2026 Raffles Hotel Singapore's Long Bar held its annual Singapore Sling Day, coinciding with International Pineapple Day: the first 100 guests bringing a whole pineapple could exchange it for a complimentary Singapore Sling, and the alcohol-free Singapore Sling Zero was launched the same day. The event has ended; this event records that edition's arrangements and rules.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14224,7 +14224,7 @@
           "path": "/en/events/tsingtao-beer-museum-beer-festival-2026/",
           "url": "https://atlas.hejiu.org/en/events/tsingtao-beer-museum-beer-festival-2026/",
           "title": "Tsingtao Beer Museum during the 2026 Qingdao International Beer Festival",
-          "summary": "The 36th Qingdao International Beer Festival ran from 17 July to 15 August 2026; during that period the Tsingtao Beer Museum followed its summer opening hours and ran the “Golden Wonder Night” night tour. The event has ended; this page records that edition's hours, ticketing and limits.",
+          "summary": "The 36th Qingdao International Beer Festival ran from 17 July to 15 August 2026; during that period the Tsingtao Beer Museum followed its summer opening hours and ran the “Golden Wonder Night” night tour. The event has ended; this event records that edition's hours, ticketing and limits.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14794,7 +14794,7 @@
           "path": "/en/history/1963-national-wine-evaluation/",
           "url": "https://culture.hejiu.org/en/history/1963-national-wine-evaluation/",
           "title": "The 1963 second national wine evaluation",
-          "summary": "The second national wine evaluation, held in Beijing in October 1963 and organised jointly by the Ministry of Light Industry and the Ministry of Commerce, selected 18 national famous wines and created a separate national quality award for the first time. This page explains the method, the changes in the list and what the meeting meant institutionally.",
+          "summary": "The second national wine evaluation, held in Beijing in October 1963 and organised jointly by the Ministry of Light Industry and the Ministry of Commerce, selected 18 national famous wines and created a separate national quality award for the first time. This essay explains the method, the changes in the list and what the meeting meant institutionally.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14854,7 +14854,7 @@
           "path": "/en/history/1979-national-wine-evaluation/",
           "url": "https://culture.hejiu.org/en/history/1979-national-wine-evaluation/",
           "title": "The 1979 third national wine evaluation: blind judging and aroma groups",
-          "summary": "The third national wine evaluation, held in Dalian, Liaoning, in 1979, introduced coded blind judging, examiner qualification and comparison by aroma type, saccharifying agent and alcohol strength, and selected 18 national famous wines. This page explains the methodological turning point and its effect on the famous-wine list.",
+          "summary": "The third national wine evaluation, held in Dalian, Liaoning, in 1979, introduced coded blind judging, examiner qualification and comparison by aroma type, saccharifying agent and alcohol strength, and selected 18 national famous wines. This essay explains the methodological turning point and its effect on the famous-wine list.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14884,7 +14884,7 @@
           "path": "/en/history/1984-national-wine-evaluation/",
           "url": "https://culture.hejiu.org/en/history/1984-national-wine-evaluation/",
           "title": "The 1984 fourth national wine evaluation: the thirteen famous wines",
-          "summary": "The fourth national wine evaluation, held in Taiyuan, Shanxi, in 1984 and organised by the China Food Industry Association, selected 26 national famous wines, 13 of them baijiu, later known as the thirteen famous wines. This page explains the background, the expansion of the list and the disputes.",
+          "summary": "The fourth national wine evaluation, held in Taiyuan, Shanxi, in 1984 and organised by the China Food Industry Association, selected 26 national famous wines, 13 of them baijiu, later known as the thirteen famous wines. This essay explains the background, the expansion of the list and the disputes.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14914,7 +14914,7 @@
           "path": "/en/history/1989-national-wine-evaluation/",
           "url": "https://culture.hejiu.org/en/history/1989-national-wine-evaluation/",
           "title": "The 1989 fifth national wine evaluation: seventeen famous wines and the end of the system",
-          "summary": "The fifth national wine evaluation, held in Hefei, Anhui, in January 1989 and organised by the China Food Industry Association, selected 17 national famous wines, all baijiu; national evaluations were discontinued afterwards. This page explains the list, the background and why the system ended.",
+          "summary": "The fifth national wine evaluation, held in Hefei, Anhui, in January 1989 and organised by the China Food Industry Association, selected 17 national famous wines, all baijiu; national evaluations were discontinued afterwards. This essay explains the list, the background and why the system ended.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15004,7 +15004,7 @@
           "path": "/en/history/austerity-consumption-restriction-2013/",
           "url": "https://culture.hejiu.org/en/history/austerity-consumption-restriction-2013/",
           "title": "The 2013 restrictions on official consumption and the baijiu adjustment",
-          "summary": "After the Central Committee's eight-point rules of late 2012, official spending and receptions were tightened in 2013, and official banquets and premium baijiu consumption contracted sharply. This page explains the policy background, the industry response and the structural changes of the adjustment period.",
+          "summary": "After the Central Committee's eight-point rules of late 2012, official spending and receptions were tightened in 2013, and official banquets and premium baijiu consumption contracted sharply. This essay explains the policy background, the industry response and the structural changes of the adjustment period.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15244,7 +15244,7 @@
           "path": "/en/history/craft-beer-rise-2015/",
           "url": "https://culture.hejiu.org/en/history/craft-beer-rise-2015/",
           "title": "The rise of Chinese craft beer around 2015",
-          "summary": "Around 2015 Chinese craft beer expanded from small bars and breweries in first-tier cities to more cities, with taprooms, beer festivals and domestic brands multiplying. This page explains the background, the forms, the regulatory conditions and the dispute over scale.",
+          "summary": "Around 2015 Chinese craft beer expanded from small bars and breweries in first-tier cities to more cities, with taprooms, beer festivals and domestic brands multiplying. This essay explains the background, the forms, the regulatory conditions and the dispute over scale.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15304,7 +15304,7 @@
           "path": "/en/history/du-kang-wine-legend/",
           "url": "https://culture.hejiu.org/en/history/du-kang-wine-legend/",
           "title": "The Dukang Wine Legend: How a Person Became a Synonym for Wine",
-          "summary": "The Eastern Han Shuowen Jiezi records that 'Dukang made shu wine' and adds that 'Shaokang is Dukang'; Cao Cao's line 'what relieves sorrow? Only Dukang' turned the name into a synonym for wine. At least four accounts of Dukang's era, identity and brewing place circulate in texts and local traditions; this page separates sources, scholarly views and legend.",
+          "summary": "The Eastern Han Shuowen Jiezi records that 'Dukang made shu wine' and adds that 'Shaokang is Dukang'; Cao Cao's line 'what relieves sorrow? Only Dukang' turned the name into a synonym for wine. At least four accounts of Dukang's era, identity and brewing place circulate in texts and local traditions; this essay separates sources, scholarly views and legend.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15334,7 +15334,7 @@
           "path": "/en/history/famous-wine-price-liberalization-1988/",
           "url": "https://culture.hejiu.org/en/history/famous-wine-price-liberalization-1988/",
           "title": "The 1988 liberalisation of famous-wine prices",
-          "summary": "In July 1988 the state liberalised the prices of famous cigarettes and famous wines, moving famous wines from planned pricing to market pricing. This page explains the scope, the background, the price surge and the channel changes, and the long-term effect on the identity of famous wines.",
+          "summary": "In July 1988 the state liberalised the prices of famous cigarettes and famous wines, moving famous wines from planned pricing to market pricing. This essay explains the scope, the background, the price surge and the channel changes, and the long-term effect on the identity of famous wines.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15604,7 +15604,7 @@
           "path": "/en/history/panama-pacific-exposition-1915/",
           "url": "https://culture.hejiu.org/en/history/panama-pacific-exposition-1915/",
           "title": "The 1915 Panama-Pacific International Exposition",
-          "summary": "The Panama-Pacific International Exposition, held in San Francisco in 1915, was a major international showcase for Chinese goods, and its wine exhibits and award claims entered the narrative of Chinese alcohol history. This page sets out the dates, background, participation and award disputes, separating participation from the later gold-medal legend.",
+          "summary": "The Panama-Pacific International Exposition, held in San Francisco in 1915, was a major international showcase for Chinese goods, and its wine exhibits and award claims entered the narrative of Chinese alcohol history. This essay sets out the dates, background, participation and award disputes, separating participation from the later gold-medal legend.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15664,7 +15664,7 @@
           "path": "/en/history/plasticizer-scandal-2012/",
           "url": "https://culture.hejiu.org/en/history/plasticizer-scandal-2012/",
           "title": "The 2012 baijiu plasticiser incident",
-          "summary": "In November 2012 a sample of Jiugui liquor was found to contain 1.08 mg/kg of the plasticiser dibutyl phthalate (DBP), above the 0.3 mg/kg reference limit then applied, triggering a crisis of trust and nationwide checks across the baijiu industry. This page explains the course, the standards gap, the remediation and the longer effects.",
+          "summary": "In November 2012 a sample of Jiugui liquor was found to contain 1.08 mg/kg of the plasticiser dibutyl phthalate (DBP), above the 0.3 mg/kg reference limit then applied, triggering a crisis of trust and nationwide checks across the baijiu industry. This essay explains the course, the standards gap, the remediation and the longer effects.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15874,7 +15874,7 @@
           "path": "/en/history/shang-zhou-wine-ritual/",
           "url": "https://culture.hejiu.org/en/history/shang-zhou-wine-ritual/",
           "title": "Shang and Zhou Wine Ritual: Bronze Vessels, the Wine Officer and the Jiugao",
-          "summary": "Drinking in the Shang and Zhou periods was embedded in sacrifice, banqueting and hierarchy. Bronze wine-vessel sets, the duties of Zhou officials such as the wine officer, and the limits on drinking in the Book of Documents' Jiugao together make up what 'wine ritual' meant. This page sets out what each line of evidence can prove, and why the Rites of Zhou and the Jiugao need to be read with caution.",
+          "summary": "Drinking in the Shang and Zhou periods was embedded in sacrifice, banqueting and hierarchy. Bronze wine-vessel sets, the duties of Zhou officials such as the wine officer, and the limits on drinking in the Book of Documents' Jiugao together make up what 'wine ritual' meant. This essay sets out what each line of evidence can prove, and why the Rites of Zhou and the Jiugao need to be read with caution.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15934,7 +15934,7 @@
           "path": "/en/history/state-owned-distilleries-1949/",
           "url": "https://culture.hejiu.org/en/history/state-owned-distilleries-1949/",
           "title": "State-owned distilleries and the alcohol monopoly after 1949",
-          "summary": "After 1949 private distilleries were taken over, merged and gradually converted into state-owned or joint state-private plants, while alcohol was brought under a monopoly system. This page explains the timing, the institutional arrangements and the effect on the structure of the industry.",
+          "summary": "After 1949 private distilleries were taken over, merged and gradually converted into state-owned or joint state-private plants, while alcohol was brought under a monopoly system. This essay explains the timing, the institutional arrangements and the effect on the structure of the industry.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -16054,7 +16054,7 @@
           "path": "/en/history/yi-di-wine-legend/",
           "url": "https://culture.hejiu.org/en/history/yi-di-wine-legend/",
           "title": "The Yi Di Wine Legend: 'First to Make Jiu Lao', in Texts of Uncertain Date",
-          "summary": "Several texts from the Warring States period to the Eastern Han credit Yi Di with 'making wine' or 'making jiu lao', adding the story that Yu drank it, found it sweet, and then distanced himself from Yi Di. These texts were written long after the era the legend describes, and Yi Di's person, identity, and location cannot be verified; this page treats the story as an ancient explanation of how brewing began.",
+          "summary": "Several texts from the Warring States period to the Eastern Han credit Yi Di with 'making wine' or 'making jiu lao', adding the story that Yu drank it, found it sweet, and then distanced himself from Yi Di. These texts were written long after the era the legend describes, and Yi Di's person, identity, and location cannot be verified; this essay treats the story as an ancient explanation of how brewing began.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -28504,7 +28504,7 @@
           "path": "/en/producers/fenjiu-group/",
           "url": "https://beverages.hejiu.org/en/producers/fenjiu-group/",
           "title": "Shanxi Xinghuacun Fenjiu Group Co., Ltd.",
-          "summary": "A wholly state-owned company in Xinghuacun, Fenyang, Shanxi, restructured in March 2002. Its listed arm is Shanxi Xinghuacun Fenjiu Distillery Co., Ltd. (600809). This page separates group, listed company and brand.",
+          "summary": "A wholly state-owned company in Xinghuacun, Fenyang, Shanxi, restructured in March 2002. Its listed arm is Shanxi Xinghuacun Fenjiu Distillery Co., Ltd. (600809). This producer separates group, listed company and brand.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -28564,7 +28564,7 @@
           "path": "/en/producers/gujing-distillery/",
           "url": "https://beverages.hejiu.org/en/producers/gujing-distillery/",
           "title": "Anhui Gujing Distillery Co., Ltd.",
-          "summary": "A baijiu producer based in Gujing Town, Bozhou, Anhui, and the production entity behind the Gujing Gongjiu brand. This page separates company identity, brand and specific products.",
+          "summary": "A baijiu producer based in Gujing Town, Bozhou, Anhui, and the production entity behind the Gujing Gongjiu brand. This producer separates company identity, brand and specific products.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29074,7 +29074,7 @@
           "path": "/en/producers/wuliangye-group/",
           "url": "https://beverages.hejiu.org/en/producers/wuliangye-group/",
           "title": "Sichuan Yibin Wuliangye Group Co., Ltd.",
-          "summary": "A baijiu group based in Yibin, Sichuan, formed in 1998 from the Yibin Wuliangye Distillery. Its listed arm is Yibin Wuliangye Co., Ltd. This page separates group, listed company, brand and product.",
+          "summary": "A baijiu group based in Yibin, Sichuan, formed in 1998 from the Yibin Wuliangye Distillery. Its listed arm is Yibin Wuliangye Co., Ltd. This producer separates group, listed company, brand and product.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29224,7 +29224,7 @@
           "path": "/en/recipes/aperol-spritz/",
           "url": "https://hejiu.org/en/recipes/aperol-spritz/",
           "title": "Aperol Spritz recipe (IBA-approved version)",
-          "summary": "90 ml Prosecco, 60 ml Aperol and 30 ml soda water built over ice in a large stemmed glass and garnished with an orange slice; this page covers the 1919 origin, the pouring order, what the soda actually does and the low-alcohol trap.",
+          "summary": "90 ml Prosecco, 60 ml Aperol and 30 ml soda water built over ice in a large stemmed glass and garnished with an orange slice; this recipe covers the 1919 origin, the pouring order, what the soda actually does and the low-alcohol trap.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29254,7 +29254,7 @@
           "path": "/en/recipes/cosmopolitan/",
           "url": "https://hejiu.org/en/recipes/cosmopolitan/",
           "title": "Cosmopolitan recipe (IBA version)",
-          "summary": "40 ml citron vodka, 15 ml Cointreau, 15 ml fresh lime juice and 30 ml cranberry juice make the four-part Cosmopolitan ratio; this page explains the 1980s pink vogue, the sweetness and acid of cranberry juice, shaking and straining, and the lemon-peel aroma.",
+          "summary": "40 ml citron vodka, 15 ml Cointreau, 15 ml fresh lime juice and 30 ml cranberry juice make the four-part Cosmopolitan ratio; this recipe explains the 1980s pink vogue, the sweetness and acid of cranberry juice, shaking and straining, and the lemon-peel aroma.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29284,7 +29284,7 @@
           "path": "/en/recipes/daiquiri/",
           "url": "https://hejiu.org/en/recipes/daiquiri/",
           "title": "Daiquiri recipe (IBA version)",
-          "summary": "60 ml Cuban white rum, 20 ml fresh lime juice and two bar spoons of fine sugar, stirred to dissolve the sugar and then shaken with ice, strained into a chilled cocktail glass with no garnish in the IBA version; this page explains each step of a very simple structure.",
+          "summary": "60 ml Cuban white rum, 20 ml fresh lime juice and two bar spoons of fine sugar, stirred to dissolve the sugar and then shaken with ice, strained into a chilled cocktail glass with no garnish in the IBA version; this recipe explains each step of a very simple structure.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29314,7 +29314,7 @@
           "path": "/en/recipes/dry-martini/",
           "url": "https://hejiu.org/en/recipes/dry-martini/",
           "title": "Dry Martini recipe (IBA version)",
-          "summary": "60 ml gin and 10 ml dry vermouth stirred over ice and strained into a chilled martini glass, garnished with lemon peel or a green olive; this page explains how dryness, stirring, ice and glass shape decide the result.",
+          "summary": "60 ml gin and 10 ml dry vermouth stirred over ice and strained into a chilled martini glass, garnished with lemon peel or a green olive; this recipe explains how dryness, stirring, ice and glass shape decide the result.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29344,7 +29344,7 @@
           "path": "/en/recipes/gin-fizz/",
           "url": "https://hejiu.org/en/recipes/gin-fizz/",
           "title": "Gin Fizz recipe (IBA version)",
-          "summary": "45 ml gin, 30 ml fresh lemon juice and 10 ml sugar syrup are shaken and strained before a splash of soda water goes in; this page explains why soda comes last, the dry 45:30:10 frame, the egg-white Silver Fizz and the ways carbonation is lost.",
+          "summary": "45 ml gin, 30 ml fresh lemon juice and 10 ml sugar syrup are shaken and strained before a splash of soda water goes in; this recipe explains why soda comes last, the dry 45:30:10 frame, the egg-white Silver Fizz and the ways carbonation is lost.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29374,7 +29374,7 @@
           "path": "/en/recipes/mai-tai/",
           "url": "https://hejiu.org/en/recipes/mai-tai/",
           "title": "Mai Tai recipe (IBA version)",
-          "summary": "30 ml amber Jamaican rum plus 30 ml Martinique molasses rum, with 15 ml orange curaçao, 15 ml orgeat, 30 ml lime juice and 7.5 ml sugar syrup; this page covers the two-rum division of labour, the tiki background and the pour-with-ice method.",
+          "summary": "30 ml amber Jamaican rum plus 30 ml Martinique molasses rum, with 15 ml orange curaçao, 15 ml orgeat, 30 ml lime juice and 7.5 ml sugar syrup; this recipe covers the two-rum division of labour, the tiki background and the pour-with-ice method.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29404,7 +29404,7 @@
           "path": "/en/recipes/manhattan/",
           "url": "https://hejiu.org/en/recipes/manhattan/",
           "title": "Manhattan recipe (IBA version)",
-          "summary": "50 ml rye whiskey, 20 ml sweet vermouth and 1 dash of Angostura bitters, stirred and strained into a chilled cocktail glass; this page covers the 5:2 frame, what a single dash does, why the drink is stirred and how dilution and vermouth freshness decide the result.",
+          "summary": "50 ml rye whiskey, 20 ml sweet vermouth and 1 dash of Angostura bitters, stirred and strained into a chilled cocktail glass; this recipe covers the 5:2 frame, what a single dash does, why the drink is stirred and how dilution and vermouth freshness decide the result.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29434,7 +29434,7 @@
           "path": "/en/recipes/margarita/",
           "url": "https://hejiu.org/en/recipes/margarita/",
           "title": "Margarita recipe (IBA version)",
-          "summary": "50 ml 100% agave tequila, 20 ml orange liqueur and 15 ml fresh lime juice, shaken and strained into a chilled glass with an optional half salt rim; this page explains how the sweet-sour balance, the salt rim and dilution decide the drink.",
+          "summary": "50 ml 100% agave tequila, 20 ml orange liqueur and 15 ml fresh lime juice, shaken and strained into a chilled glass with an optional half salt rim; this recipe explains how the sweet-sour balance, the salt rim and dilution decide the drink.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29464,7 +29464,7 @@
           "path": "/en/recipes/mint-julep/",
           "url": "https://hejiu.org/en/recipes/mint-julep/",
           "title": "Mint Julep recipe (IBA version)",
-          "summary": "60 ml bourbon, 4 fresh mint sprigs, 1 tsp powdered sugar and 2 tsp water, gently pressed in the cup and stirred with crushed ice until the cup frosts; this page covers why crushed ice is the body, the pressing technique, the frost signal and the racing tradition.",
+          "summary": "60 ml bourbon, 4 fresh mint sprigs, 1 tsp powdered sugar and 2 tsp water, gently pressed in the cup and stirred with crushed ice until the cup frosts; this recipe covers why crushed ice is the body, the pressing technique, the frost signal and the racing tradition.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29494,7 +29494,7 @@
           "path": "/en/recipes/mojito/",
           "url": "https://hejiu.org/en/recipes/mojito/",
           "title": "Mojito recipe (IBA version)",
-          "summary": "45 ml Cuban white rum, 20 ml fresh lime juice, six mint sprigs, two teaspoons of white cane sugar and soda water, built in the glass and garnished with mint and lime; this page explains the order of pressing, dissolving, ice and bubbles.",
+          "summary": "45 ml Cuban white rum, 20 ml fresh lime juice, six mint sprigs, two teaspoons of white cane sugar and soda water, built in the glass and garnished with mint and lime; this recipe explains the order of pressing, dissolving, ice and bubbles.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29524,7 +29524,7 @@
           "path": "/en/recipes/negroni/",
           "url": "https://hejiu.org/en/recipes/negroni/",
           "title": "Negroni recipe (IBA version)",
-          "summary": "30 ml each of gin, Campari and sweet vermouth, stirred and strained into a rocks glass over ice, garnished with orange peel; this page explains ratio, technique, equipment and substitution limits.",
+          "summary": "30 ml each of gin, Campari and sweet vermouth, stirred and strained into a rocks glass over ice, garnished with orange peel; this recipe explains ratio, technique, equipment and substitution limits.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29554,7 +29554,7 @@
           "path": "/en/recipes/old-fashioned/",
           "url": "https://hejiu.org/en/recipes/old-fashioned/",
           "title": "Old Fashioned recipe (IBA version)",
-          "summary": "45 ml bourbon or rye whisky, one sugar cube, a couple of dashes of Angostura bitters and a little water, built in a rocks glass and garnished with orange peel or a slice and a cocktail cherry; this page explains the ratio, the method and the limits of substitution.",
+          "summary": "45 ml bourbon or rye whisky, one sugar cube, a couple of dashes of Angostura bitters and a little water, built in a rocks glass and garnished with orange peel or a slice and a cocktail cherry; this recipe explains the ratio, the method and the limits of substitution.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29584,7 +29584,7 @@
           "path": "/en/recipes/sazerac/",
           "url": "https://hejiu.org/en/recipes/sazerac/",
           "title": "Sazerac recipe (IBA cognac version)",
-          "summary": "50 ml cognac, 10 ml absinthe for the rinse, 1 sugar cube and 2 dashes of Peychaud's bitters, stirred and strained into a chilled rocks glass with lemon peel; this page explains the rinse, the sugar work, the frozen glass and the choice of bitters.",
+          "summary": "50 ml cognac, 10 ml absinthe for the rinse, 1 sugar cube and 2 dashes of Peychaud's bitters, stirred and strained into a chilled rocks glass with lemon peel; this recipe explains the rinse, the sugar work, the frozen glass and the choice of bitters.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29644,7 +29644,7 @@
           "path": "/en/recipes/whiskey-sour/",
           "url": "https://hejiu.org/en/recipes/whiskey-sour/",
           "title": "Whiskey Sour recipe (IBA version)",
-          "summary": "The Whiskey Sour is built on 45 ml bourbon, 25 ml fresh lemon juice and 20 ml sugar syrup, with egg white optional; this page covers the dry shake, the aroma of fresh lemon, how far to shake, glass and ice, and the departures common at the bar.",
+          "summary": "The Whiskey Sour is built on 45 ml bourbon, 25 ml fresh lemon juice and 20 ml sugar syrup, with egg white optional; this recipe covers the dry shake, the aroma of fresh lemon, how far to shake, glass and ice, and the departures common at the bar.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -29674,7 +29674,7 @@
           "path": "/en/recipes/zombie/",
           "url": "https://hejiu.org/en/recipes/zombie/",
           "title": "Zombie recipe (IBA version)",
-          "summary": "45 ml Jamaican dark rum, 45 ml gold Puerto Rican rum and 30 ml demerara rum with lime juice, falernum, Donn's Mix, grenadine, bitters and pastis, shaken with crushed ice and poured into a highball; this page explains the three-rum split, the two-per-customer legend and the crushed-ice trade-off.",
+          "summary": "45 ml Jamaican dark rum, 45 ml gold Puerto Rican rum and 30 ml demerara rum with lime juice, falernum, Donn's Mix, grenadine, bitters and pastis, shaken with crushed ice and poured into a highball; this recipe explains the three-rum split, the two-per-customer legend and the crushed-ice trade-off.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -34174,7 +34174,7 @@
           "path": "/en/regions/united-kingdom/",
           "url": "https://beverages.hejiu.org/en/regions/united-kingdom/",
           "title": "United Kingdom",
-          "summary": "An island country made up of England, Wales, Scotland and Northern Ireland; this page focuses on wine, gin, beer and cider in England, Wales and Northern Ireland, while Scotch whisky is covered on the Scotland page.",
+          "summary": "An island country made up of England, Wales, Scotland and Northern Ireland; this region focuses on wine, gin, beer and cider in England, Wales and Northern Ireland, while Scotch whisky is covered on the Scotland page.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
