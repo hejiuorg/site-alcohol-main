@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T08:58:56.055Z",
-  "contentTreeSha256": "53a0bc9c38b34bde2fad35c8371124e205b0069d6deae2c5e18bd2b5bf7b4c0b",
+  "generatedAt": "2026-11-25T10:32:38.501Z",
+  "contentTreeSha256": "e0e4cc76bca0730c9e8189dd04f1a84f035482f1593bc9b57d32246b9f73e5f4",
   "counts": {
-    "records": 2844,
-    "entities": 1422,
-    "publishedPages": 2844,
+    "records": 2852,
+    "entities": 1426,
+    "publishedPages": 2852,
     "previewPages": 0,
-    "sourceRecords": 2846,
-    "sourceEntities": 1423
+    "sourceRecords": 2854,
+    "sourceEntities": 1427
   },
   "entities": [
     {
@@ -30972,6 +30972,36 @@
       }
     },
     {
+      "id": "region:fenyang",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "fenyang",
+          "path": "/regions/fenyang/",
+          "url": "https://beverages.hejiu.org/regions/fenyang/",
+          "title": "汾阳市",
+          "summary": "山西省吕梁市下辖的县级市，杏花村汾酒产地；清香型白酒的核心产区，适合把地缸发酵、杏花村历史与酒厂参访放在一条线上理解。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "fenyang",
+          "path": "/en/regions/fenyang/",
+          "url": "https://beverages.hejiu.org/en/regions/fenyang/",
+          "title": "Fenyang",
+          "summary": "A county-level city under Lüliang in Shanxi and the home of Xinghuacun Fenjiu; a core area of light-aroma baijiu where earthen-jar fermentation, Fenjiu history and distillery visits can be understood together.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "region:finger-lakes",
       "type": "region",
       "siteKey": "beverages",
@@ -32015,6 +32045,36 @@
           "url": "https://beverages.hejiu.org/en/regions/lowland/",
           "title": "Lowland",
           "summary": "One of the five protected Scotch whisky regions, lying south of a line between Dundee and Greenock; often summarised as grassy, citrusy and creamy, yet home both to old triple-distilling sites and to farm-scale newcomers, so lightness is a starting point rather than a rule.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "region:luzhou",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "luzhou",
+          "path": "/regions/luzhou/",
+          "url": "https://beverages.hejiu.org/regions/luzhou/",
+          "title": "泸州市",
+          "summary": "长江与沱江交汇处的川南城市，泸州老窖与浓香型白酒的核心产地；适合观察老窖池、江运与城市酒业如何相互塑造。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "luzhou",
+          "path": "/en/regions/luzhou/",
+          "url": "https://beverages.hejiu.org/en/regions/luzhou/",
+          "title": "Luzhou",
+          "summary": "A city at the meeting of the Yangtze and Tuo rivers in southern Sichuan and a core area of Luzhou Laojiao and strong-aroma baijiu; a place to see old cellars, river transport and urban liquor production together.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -34542,6 +34602,36 @@
       }
     },
     {
+      "id": "region:yibin",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "yibin",
+          "path": "/regions/yibin/",
+          "url": "https://beverages.hejiu.org/regions/yibin/",
+          "title": "宜宾市",
+          "summary": "四川省南部、金沙江与岷江汇合处的城市，五粮液的核心产地；适合把浓香型白酒的产业、江河地理与酒厂参访放在同一条线上理解。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "yibin",
+          "path": "/en/regions/yibin/",
+          "url": "https://beverages.hejiu.org/en/regions/yibin/",
+          "title": "Yibin",
+          "summary": "A city at the confluence of the Jinsha and Min rivers in southern Sichuan and the home of Wuliangye; a useful place to connect strong-aroma baijiu, river geography and distillery visits.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "region:yunnan",
       "type": "region",
       "siteKey": "beverages",
@@ -34595,6 +34685,36 @@
           "url": "https://beverages.hejiu.org/en/regions/zhejiang/",
           "title": "Zhejiang Province",
           "summary": "An eastern coastal province and the core yellow wine region of China; Shaoxing wine combines glutinous rice, wheat qu and Jian Lake water, with tanfan, linfan and weifan rice-handling routes and jiafan-style products, while Jinhua and Huzhou keep traditions of their own.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "region:zunyi",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "zunyi",
+          "path": "/regions/zunyi/",
+          "url": "https://beverages.hejiu.org/regions/zunyi/",
+          "title": "遵义市",
+          "summary": "贵州省北部的地级市，赤水河与茅台镇所在；酱香型白酒的核心产区，适合把河谷气候、制曲下沙节律与酒厂参访连起来理解。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "zunyi",
+          "path": "/en/regions/zunyi/",
+          "url": "https://beverages.hejiu.org/en/regions/zunyi/",
+          "title": "Zunyi",
+          "summary": "A prefecture-level city in northern Guizhou, home to the Chishui River and Maotai Town; a core area of sauce-aroma baijiu where valley climate, qu making and distillery visits can be connected.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"

@@ -6,7 +6,7 @@
   "host": "hejiu.org",
   "siteUrl": "https://hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T08:58:58.551Z",
+  "generatedAt": "2026-11-25T10:32:41.455Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -17,11 +17,11 @@
   "toolVersions": {
     "astro": "7.4.4",
     "pagefind": "1.5.2",
-    "node": "v22.23.5"
+    "node": "v24.16.0"
   },
   "contentCommits": null,
   "contentCommitNote": "G2 local workspace has no remote commits yet; content identity is the file SHA256 tree below.",
-  "contentTreeSha256": "53a0bc9c38b34bde2fad35c8371124e205b0069d6deae2c5e18bd2b5bf7b4c0b",
+  "contentTreeSha256": "e0e4cc76bca0730c9e8189dd04f1a84f035482f1593bc9b57d32246b9f73e5f4",
   "contentFiles": [
     {
       "repository": "world-alcohol-encyclopedia/atlas",
@@ -8697,6 +8697,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/fenyang.md",
+      "sha256": "ebbfafb9b0a64798b3fac56d816edd821bf50893eed7414b14209d9b078b6580",
+      "id": "region:fenyang",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/finger-lakes.md",
       "sha256": "0b9fe57886a239b3999a25c32cd6886b93e326947ec216b9097e16a5a4b9af64",
       "id": "region:finger-lakes",
@@ -8972,6 +8980,14 @@
       "path": "en/region/lowland.md",
       "sha256": "280fcb2cdeb34d18747efeabd014363e73d44be5b97b37bc85c4ff6229f04032",
       "id": "region:lowland",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/luzhou.md",
+      "sha256": "d88c5ef9bffdd41e7ab32eccba4cc83c2927c6dfae78096927d734a8e86c62d2",
+      "id": "region:luzhou",
       "lang": "en",
       "status": "reviewed"
     },
@@ -9649,6 +9665,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/yibin.md",
+      "sha256": "03c93893a8bcb8c970cdb25008e753f94b03cc60a0eb1bd89ba5a50f4bf86c52",
+      "id": "region:yibin",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/yunnan.md",
       "sha256": "4a48e03d6ad3a67305e3030ed2b9ff9f8bb0fdd4b80439b4540c027e73ff2c77",
       "id": "region:yunnan",
@@ -9660,6 +9684,14 @@
       "path": "en/region/zhejiang.md",
       "sha256": "f8188511fcbc3d110f5a15388db6105dccc72c8783b3db1a7634c4426b749035",
       "id": "region:zhejiang",
+      "lang": "en",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "en/region/zunyi.md",
+      "sha256": "8c8fc351cfc0c8fba84d8b42826a8968e3306e8fa3755cace620cdb7c51281f3",
+      "id": "region:zunyi",
       "lang": "en",
       "status": "reviewed"
     },
@@ -14945,6 +14977,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/fenyang.md",
+      "sha256": "2454b27b4ed53f6fe11d96cf3f241158f2a7b6a389160647a28d0d544649c8dc",
+      "id": "region:fenyang",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/finger-lakes.md",
       "sha256": "4e64fb44350502ea448a6994e85e8a470ba1b0b12d551f91af0e8c2da0c207c5",
       "id": "region:finger-lakes",
@@ -15220,6 +15260,14 @@
       "path": "zh/region/lowland.md",
       "sha256": "771329066ad8d4f55ecd4e5d49b2c9b3fae4742b716fd4560f46c7bf79b6a285",
       "id": "region:lowland",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/luzhou.md",
+      "sha256": "b383cc31af0c75c08968bd88c9bd9c68d979b94332d6a89e9f36542f581854ac",
+      "id": "region:luzhou",
       "lang": "zh",
       "status": "reviewed"
     },
@@ -15897,6 +15945,14 @@
     },
     {
       "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/yibin.md",
+      "sha256": "0a95c95d63187363bb1549650e70906e8b372a944b9cbcbefeebe2ef46c4a6ee",
+      "id": "region:yibin",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/yunnan.md",
       "sha256": "f527bf8c21c84e351e3bfb706867a972f38a4283c82c6181218b64c8e9a0cb66",
       "id": "region:yunnan",
@@ -15908,6 +15964,14 @@
       "path": "zh/region/zhejiang.md",
       "sha256": "8bf49d9d5afa072cad6ccee29b67dfb1952939d10610e479f3edce41cd882cb7",
       "id": "region:zhejiang",
+      "lang": "zh",
+      "status": "reviewed"
+    },
+    {
+      "repository": "world-alcohol-encyclopedia/beverages",
+      "path": "zh/region/zunyi.md",
+      "sha256": "a3882c428c4674b358541f6d125fcee9c91e633555f398b00fff0dc56ed7ca70",
+      "id": "region:zunyi",
       "lang": "zh",
       "status": "reviewed"
     },
@@ -21290,7 +21354,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/pairing/japanese-sake.md",
-      "sha256": "a8b0625711d71f9d7c5025016fad3ac74b08befa9e78acf69d3e68cded3eabd2",
+      "sha256": "78f081c32f2daed3ce547bd2827846a6f6faf93793a0a1beeac9505ad0aa3a86",
       "id": "pairing:japanese-sake",
       "lang": "en",
       "status": "reviewed"
@@ -22122,7 +22186,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "zh/pairing/japanese-sake.md",
-      "sha256": "f64cfa967fb1e7f524214f4baf7ee39d4223af09e407702bc388634b62d10855",
+      "sha256": "12ec35e3cec17fb286e289bdb8d4dce4f57237a1a27311e6ebfcb04864b17d6e",
       "id": "pairing:japanese-sake",
       "lang": "zh",
       "status": "reviewed"
@@ -24681,7 +24745,7 @@
     "aggregateSource": ".hejiu/published/main.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "ffa4b3deba343fcce5e489d39116c87433ade9172344b468fd3595da1438556d",
+  "distTreeSha256ExcludingManifest": "40f71fdf65c128cf60fcfb110fd3c7fe8fa5238d2c8fcf538c6cbc5d6205b44e",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
