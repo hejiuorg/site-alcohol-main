@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /search/
 Disallow: /en/search/
-Sitemap: https://guide.hejiu.org/sitemap.xml
+Sitemap: https://hejiu.org/sitemap.xml

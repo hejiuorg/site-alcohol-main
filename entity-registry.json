@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T11:40:47.067Z",
-  "contentTreeSha256": "9477cfa12ad72f4a1ede2c48abb4543cbf3be3e597a5104afa933ad2bcff8449",
+  "generatedAt": "2026-11-25T15:57:50.852Z",
+  "contentTreeSha256": "4f376d2f2460b755ca298b1ec94a935daeb95f838dbd086a398858abb9781492",
   "counts": {
-    "records": 2858,
-    "entities": 1429,
-    "publishedPages": 2858,
+    "records": 2924,
+    "entities": 1462,
+    "publishedPages": 2924,
     "previewPages": 0,
-    "sourceRecords": 2860,
-    "sourceEntities": 1430
+    "sourceRecords": 2926,
+    "sourceEntities": 1463
   },
   "entities": [
     {
@@ -14292,6 +14292,66 @@
       }
     },
     {
+      "id": "guide:baijiu-gift-300-800",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "baijiu-gift-300-800",
+          "path": "/guides/baijiu-gift-300-800/",
+          "url": "https://hejiu.org/guides/baijiu-gift-300-800/",
+          "title": "白酒送礼 300–800 元怎么选",
+          "summary": "把 300–800 元白酒送礼拆成场景、香型、规格、包装与渠道五个判断：先确定收礼人喝不喝、几个人喝、要不要礼盒，再把预算分配到酒体而不是盒子；附常见坑与验真步骤。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "baijiu-gift-300-800",
+          "path": "/en/guides/baijiu-gift-300-800/",
+          "url": "https://hejiu.org/en/guides/baijiu-gift-300-800/",
+          "title": "Choosing a 300–800 RMB Baijiu Gift",
+          "summary": "Break a 300–800 RMB baijiu gift into five decisions: occasion, aroma, bottle size, packaging and channel. Decide whether the recipient drinks, how many people will share it and whether a gift box is needed, then put the budget into the liquor rather than the box, with common pitfalls and verification steps.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:baijiu-regions-map",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "baijiu-regions-map",
+          "path": "/guides/baijiu-regions-map/",
+          "url": "https://hejiu.org/guides/baijiu-regions-map/",
+          "title": "中国白酒产区地图：从赤水河到黄淮",
+          "summary": "把中国白酒的主产区放回地理：赤水河、宜宾—泸州、绵竹—古蔺、习水、宿迁、汾阳、亳州各自的水、粮、气候与工艺，决定了香型与风格的差异；附 8 条产区路线的读图方法。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "baijiu-regions-map",
+          "path": "/en/guides/baijiu-regions-map/",
+          "url": "https://hejiu.org/en/guides/baijiu-regions-map/",
+          "title": "A Map of Chinese Baijiu Regions",
+          "summary": "Put China’s main baijiu regions back on the map: the Chishui River, Yibin–Luzhou, Mianzhu–Gulin, Xishui, Suqian, Fenyang and Bozhou each combine water, grain, climate and technique differently, shaping aroma and style. A reading guide to eight regional routes.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:beer-tasting-intro",
       "type": "guide",
       "siteKey": "main",
@@ -14375,6 +14435,36 @@
           "url": "https://hejiu.org/en/guides/cocktail-basics/",
           "title": "A cocktail is another way in",
           "summary": "Start with base spirit, sweet, sour, bitter, dilution and ice; be able to reproduce a drink before you start inventing one.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:craft-beer-freshness",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "craft-beer-freshness",
+          "path": "/guides/craft-beer-freshness/",
+          "url": "https://hejiu.org/guides/craft-beer-freshness/",
+          "title": "精酿啤酒的新鲜度怎么看",
+          "summary": "精酿的新鲜度不是只看“生产日期”：还要看风格、酒花、包装、冷链与货架。按“日期—风格—储存—开瓶—品尝”的顺序判断，比背“三个月黄金期”更可靠。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "craft-beer-freshness",
+          "path": "/en/guides/craft-beer-freshness/",
+          "url": "https://hejiu.org/en/guides/craft-beer-freshness/",
+          "title": "How to Judge Craft Beer Freshness",
+          "summary": "Craft-beer freshness is not only a production date: style, hops, packaging, cold chain and shelf matter. Judge in the order date, style, storage, opening and taste; that is more reliable than memorising a “three-month golden rule”.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14502,6 +14592,96 @@
       }
     },
     {
+      "id": "guide:home-wine-cabinet",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "home-wine-cabinet",
+          "path": "/guides/home-wine-cabinet/",
+          "url": "https://hejiu.org/guides/home-wine-cabinet/",
+          "title": "家庭酒柜怎么搭",
+          "summary": "家庭酒柜不是越贵越好，而是按“喝什么、几个人、多久喝完、放哪里”搭：先定用途与容量，再解决温度、湿度、避光与开瓶后管理；最后用一张清单控制品类与预算。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "home-wine-cabinet",
+          "path": "/en/guides/home-wine-cabinet/",
+          "url": "https://hejiu.org/en/guides/home-wine-cabinet/",
+          "title": "Building a Home Wine Cabinet",
+          "summary": "A home wine cabinet is not about spending more but about matching what you drink, how many share, how fast you finish and where you store it. Set purpose and capacity first, then solve temperature, humidity, light and opened-bottle management; finish with a list that controls categories and budget.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:huangjiu-gift-and-self",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "huangjiu-gift-and-self",
+          "path": "/guides/huangjiu-gift-and-self/",
+          "url": "https://hejiu.org/guides/huangjiu-gift-and-self/",
+          "title": "黄酒送礼与自饮怎么选",
+          "summary": "把黄酒的送礼与自饮分开：送礼看类型、年份、规格与包装，自饮看甜度、容量、开瓶后保存与配餐；先弄清干型、半干、半甜、甜型与加饭、花雕、香雪的关系，再决定买哪一瓶。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "huangjiu-gift-and-self",
+          "path": "/en/guides/huangjiu-gift-and-self/",
+          "url": "https://hejiu.org/en/guides/huangjiu-gift-and-self/",
+          "title": "Yellow Wine for Gifts and for Yourself",
+          "summary": "Separate yellow-wine gifts from everyday drinking: gifts depend on type, age, size and packaging; self-drinking depends on sweetness, bottle size, storage after opening and food pairing. Understand dry, semi-dry, semi-sweet and sweet, and the relations among Jiafan, Huadiao and Xiangxue before choosing a bottle.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:huangjiu-jiangnan-table",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "huangjiu-jiangnan-table",
+          "path": "/guides/huangjiu-jiangnan-table/",
+          "url": "https://hejiu.org/guides/huangjiu-jiangnan-table/",
+          "title": "黄酒与江南餐桌",
+          "summary": "把黄酒放回江南餐桌：从绍兴、苏州、上海的家常菜与节气，解释干型、半干、半甜、甜型怎么配；再看温饮、杯型、酒馆与产区路线，形成一张“菜—酒—温度”的对照。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "huangjiu-jiangnan-table",
+          "path": "/en/guides/huangjiu-jiangnan-table/",
+          "url": "https://hejiu.org/en/guides/huangjiu-jiangnan-table/",
+          "title": "Yellow Wine at the Jiangnan Table",
+          "summary": "Put yellow wine back at the Jiangnan table: from Shaoxing, Suzhou and Shanghai home cooking and seasonal rhythms, explain how dry, semi-dry, semi-sweet and sweet types pair; then cover warming, vessels, wine houses and regional routes in a dish–wine–temperature map.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:ice-and-temperature",
       "type": "guide",
       "siteKey": "main",
@@ -14532,6 +14712,66 @@
       }
     },
     {
+      "id": "guide:liquor-gift-box",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "liquor-gift-box",
+          "path": "/guides/liquor-gift-box/",
+          "url": "https://hejiu.org/guides/liquor-gift-box/",
+          "title": "酒礼盒避坑指南",
+          "summary": "酒礼盒的坑集中在“盒子大、酒体小、来源不清、附赠品虚高”。按“酒体—规格—包装—来源—运输”五步检查，先把预算留给能喝的部分，再决定要不要为盒子付费。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "liquor-gift-box",
+          "path": "/en/guides/liquor-gift-box/",
+          "url": "https://hejiu.org/en/guides/liquor-gift-box/",
+          "title": "A Practical Guide to Liquor Gift Boxes",
+          "summary": "Liquor gift-box pitfalls cluster around a big box, a small bottle, an unclear source and inflated extras. Check in five steps—liquor, size, packaging, source and shipping—and put the budget into what can be drunk before paying for the box.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:low-alcohol",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "low-alcohol",
+          "path": "/guides/low-alcohol/",
+          "url": "https://hejiu.org/guides/low-alcohol/",
+          "title": "低醇与无醇怎么选",
+          "summary": "低醇、无醇、脱醇与“0.0”不是同一件事：先看标签上的酒精含量与工艺，再按场景、风味与安全选择；低醇不等于无醇，无醇也不等于可以无限饮用。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "low-alcohol",
+          "path": "/en/guides/low-alcohol/",
+          "url": "https://hejiu.org/en/guides/low-alcohol/",
+          "title": "Choosing Low- and No-Alcohol Drinks",
+          "summary": "Low-alcohol, no-alcohol, dealcoholised and “0.0” are not the same thing. Read the label’s alcohol content and process first, then choose by occasion, flavour and safety. Low-alcohol is not no-alcohol, and no-alcohol does not mean unlimited drinking.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:read-a-label",
       "type": "guide",
       "siteKey": "main",
@@ -14555,6 +14795,36 @@
           "url": "https://hejiu.org/en/guides/read-a-label/",
           "title": "A small label, plenty of clues",
           "summary": "A label first tells you category, ingredients, alcohol content and volume; marketing words are not facts, regulated fields are the checkable information.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:restaurant-wine-ordering",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "restaurant-wine-ordering",
+          "path": "/guides/restaurant-wine-ordering/",
+          "url": "https://hejiu.org/guides/restaurant-wine-ordering/",
+          "title": "在餐厅怎么点葡萄酒",
+          "summary": "把餐厅点酒拆成预算、酒单结构、试酒、配餐与结账五步：先定一瓶酒的角色，再按杯或按瓶选择；不必背产区，只要会看酒单、会试温度、会拒绝坏酒。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "restaurant-wine-ordering",
+          "path": "/en/guides/restaurant-wine-ordering/",
+          "url": "https://hejiu.org/en/guides/restaurant-wine-ordering/",
+          "title": "How to Order Wine in a Restaurant",
+          "summary": "Break restaurant wine ordering into five steps: budget, wine-list structure, tasting, pairing and the bill. Decide the bottle’s role first, then choose by glass or bottle; you do not need to memorise regions, only to read a list, check temperature and send back a faulty bottle.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -14622,6 +14892,66 @@
       }
     },
     {
+      "id": "guide:sake-kura-visit",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "sake-kura-visit",
+          "path": "/guides/sake-kura-visit/",
+          "url": "https://hejiu.org/guides/sake-kura-visit/",
+          "title": "清酒酒藏参观怎么预约",
+          "summary": "清酒酒藏参观不是随时能进的景点：先分清博物馆、酒藏见学与品鉴活动，再查预约、交通、语言与试饮安排；按“预约—到达—看什么—买什么—怎么回”的顺序准备，避免白跑。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "sake-kura-visit",
+          "path": "/en/guides/sake-kura-visit/",
+          "url": "https://hejiu.org/en/guides/sake-kura-visit/",
+          "title": "Visiting a Sake Brewery: Booking and Etiquette",
+          "summary": "A sake brewery visit is not a walk-in attraction: distinguish a museum, a brewery tour and a tasting event, then check booking, access, language and tasting arrangements. Prepare in the order booking, arrival, what to see, what to buy and how to return, so you do not make a wasted trip.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:single-malt-vs-blend",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "single-malt-vs-blend",
+          "path": "/guides/single-malt-vs-blend/",
+          "url": "https://hejiu.org/guides/single-malt-vs-blend/",
+          "title": "单一麦芽还是调和威士忌",
+          "summary": "把单一麦芽与调和威士忌放回定义、风味结构、价格与场景里比较：单一麦芽强调一家酒厂的个性，调和强调稳定与平衡；没有高下，只有你想要的体验与预算。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "single-malt-vs-blend",
+          "path": "/en/guides/single-malt-vs-blend/",
+          "url": "https://hejiu.org/en/guides/single-malt-vs-blend/",
+          "title": "Single Malt or Blended Whisky",
+          "summary": "Compare single malt and blended whisky through definition, flavour structure, price and occasion. Single malt highlights one distillery’s character; a blend aims for consistency and balance. Neither is inherently better; the choice depends on the experience and budget you want.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:tequila-mezcal-intro",
       "type": "guide",
       "siteKey": "main",
@@ -14652,6 +14982,66 @@
       }
     },
     {
+      "id": "guide:travel-bottle-check",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "travel-bottle-check",
+          "path": "/guides/travel-bottle-check/",
+          "url": "https://hejiu.org/guides/travel-bottle-check/",
+          "title": "旅行带酒与托运怎么查",
+          "summary": "带酒旅行先查承运人，再查海关，最后才是包装：随身与托运的液体规则不同，免税限量与申报义务也不同；玻璃瓶要防震、防漏、防压，别让一瓶酒毁掉整段行程。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "travel-bottle-check",
+          "path": "/en/guides/travel-bottle-check/",
+          "url": "https://hejiu.org/en/guides/travel-bottle-check/",
+          "title": "Travelling with Bottles: Baggage and Customs Checks",
+          "summary": "For travelling with bottles, check the carrier first, customs second and packaging last: carry-on and checked-liquid rules differ, as do duty-free allowances and declaration duties. Glass needs shock, leak and pressure protection so one bottle does not ruin the trip.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:whisky-distillery-travel",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "whisky-distillery-travel",
+          "path": "/guides/whisky-distillery-travel/",
+          "url": "https://hejiu.org/guides/whisky-distillery-travel/",
+          "title": "世界威士忌酒厂旅行怎么排",
+          "summary": "把威士忌酒厂旅行按“产区—交通—预约—参观—品鉴—买酒”排：苏格兰岛屿与高地、日本山崎与余市、美国与爱尔兰各有节奏；先定一条主线，再排酒厂，不要用地图直线距离做行程。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "whisky-distillery-travel",
+          "path": "/en/guides/whisky-distillery-travel/",
+          "url": "https://hejiu.org/en/guides/whisky-distillery-travel/",
+          "title": "Planning a Whisky Distillery Trip",
+          "summary": "Plan a whisky distillery trip in the order region, transport, booking, tour, tasting and buying. Scotland’s islands and Highlands, Japan’s Yamazaki and Yoichi, the US and Ireland each have their own rhythm. Choose one main line, then add distilleries; do not plan from straight-line map distance.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:whisky-intro",
       "type": "guide",
       "siteKey": "main",
@@ -14675,6 +15065,36 @@
           "url": "https://hejiu.org/en/guides/whisky-intro/",
           "title": "Whisky for beginners",
           "summary": "A beginner's route into whisky, starting with single malt versus blended Scotch, a decision table for a first bottle, and notes on age, strength, serving and common myths.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:wine-region-budget",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "wine-region-budget",
+          "path": "/guides/wine-region-budget/",
+          "url": "https://hejiu.org/guides/wine-region-budget/",
+          "title": "葡萄酒产区旅行预算怎么定",
+          "summary": "把葡萄酒产区旅行拆成交通、住宿、品鉴费、餐饮、买酒与保险六块：先定产区与季节，再按“每天 2 家、留半天机动”排；预算要从总花费倒推，不要只算机票。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "wine-region-budget",
+          "path": "/en/guides/wine-region-budget/",
+          "url": "https://hejiu.org/en/guides/wine-region-budget/",
+          "title": "Budgeting a Wine-Region Trip",
+          "summary": "Split a wine-region trip into transport, lodging, tasting fees, food, wine purchases and insurance. Choose region and season first, then plan around two visits a day with a half-day buffer; budget backwards from the total, not just airfare.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -23022,6 +23442,36 @@
       }
     },
     {
+      "id": "place:erlang-town",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "erlang-town",
+          "path": "/places/erlang-town/",
+          "url": "https://atlas.hejiu.org/places/erlang-town/",
+          "title": "二郎镇（古蔺）",
+          "summary": "四川古蔺县二郎镇，赤水河左岸的酱香酒镇，郎酒庄园与郎酒生产厂区所在；它不是一个独立的“古镇景区”，而是酒厂、河谷、场镇与跨省通道叠在一起的生活空间，适合作为川黔酒旅的中转站。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "erlang-town",
+          "path": "/en/places/erlang-town/",
+          "url": "https://atlas.hejiu.org/en/places/erlang-town/",
+          "title": "Erlang Town (Gulin)",
+          "summary": "Erlang Town in Gulin County, Sichuan, is a sauce-aroma liquor town on the left bank of the Chishui River and the home of Langjiu Estate and the Langjiu plant. It is not a stand-alone “old-town attraction” but a living space of factories, valley, market town and cross-province routes, useful as a stop on a Sichuan–Guizhou liquor trip.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "place:eyrie-vineyards",
       "type": "place",
       "siteKey": "atlas",
@@ -23555,6 +24005,36 @@
           "url": "https://atlas.hejiu.org/en/places/guinness-storehouse/",
           "title": "Guinness Storehouse: Telling the Black Stuff at St. James's Gate",
           "summary": "Dublin's Guinness Storehouse occupies an old fermentation building and uses seven floors, an advertising archive and the Gravity Bar to tell the story of Guinness stout; it is a visitor centre, not a working-brewery tour.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "place:gujing-town",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "gujing-town",
+          "path": "/places/gujing-town/",
+          "url": "https://atlas.hejiu.org/places/gujing-town/",
+          "title": "古井镇（亳州）",
+          "summary": "安徽亳州谯城区古井镇，古井贡酒厂区与古井酒文化博览园所在；它把浓香型白酒、古井水系与药都亳州放在一起，适合与亳州老城、药材市场串成皖北酒旅。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "gujing-town",
+          "path": "/en/places/gujing-town/",
+          "url": "https://atlas.hejiu.org/en/places/gujing-town/",
+          "title": "Gujing Town (Bozhou)",
+          "summary": "Gujing Town in Qiao District, Bozhou, Anhui, is home to the Gujing Gongjiu plant and the Gujing Wine Culture Park. It combines strong-aroma baijiu, the Gujing water system and the medicinal capital of Bozhou, and pairs with Bozhou’s old town and herb markets for northern Anhui liquor travel.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -24162,6 +24642,36 @@
       }
     },
     {
+      "id": "place:jiannanchun-cellars",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "jiannanchun-cellars",
+          "path": "/places/jiannanchun-cellars/",
+          "url": "https://atlas.hejiu.org/places/jiannanchun-cellars/",
+          "title": "剑南春酒坊遗址（天益老号）",
+          "summary": "绵竹剑南春厂区内的酒坊遗址与“天益老号”古窖作坊，是理解剑南春与传统浓香型白酒工艺的现场；遗址、生产厂区与展陈空间不是同一个入口，参观要按官方预约和现场边界安排。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "jiannanchun-cellars",
+          "path": "/en/places/jiannanchun-cellars/",
+          "url": "https://atlas.hejiu.org/en/places/jiannanchun-cellars/",
+          "title": "Jiannanchun Workshop Site (Tianyi Laohao)",
+          "summary": "The workshop site and Tianyi Laohao ancient pit workshop inside the Jiannanchun campus in Mianzhu are the place to understand Jiannanchun and traditional strong-aroma baijiu. The heritage site, working plant and exhibition space are not one entrance; visits follow official booking and on-site boundaries.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "place:jordan-vineyard",
       "type": "place",
       "siteKey": "atlas",
@@ -24642,6 +25152,36 @@
       }
     },
     {
+      "id": "place:langjiu-estate",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "langjiu-estate",
+          "path": "/places/langjiu-estate/",
+          "url": "https://atlas.hejiu.org/places/langjiu-estate/",
+          "title": "郎酒庄园（二郎镇）",
+          "summary": "古蔺二郎镇赤水河左岸的郎酒庄园，把酱香型白酒的酿造、洞藏、品鉴与住宿放在一片山谷里；庄园、生产厂区与天宝洞等地藏空间不是同一个自由入口，参观、品鉴与住宿要分别预约。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "langjiu-estate",
+          "path": "/en/places/langjiu-estate/",
+          "url": "https://atlas.hejiu.org/en/places/langjiu-estate/",
+          "title": "Langjiu Estate (Erlang Town)",
+          "summary": "Langjiu Estate on the left bank of the Chishui River in Erlang, Gulin, combines sauce-aroma baijiu production, cave storage, tasting and lodging in one valley. The estate, working plant and cave-storage sites such as Tianbao Cave are not one free entrance; visits, tastings and lodging are booked separately.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "place:laphroaig-distillery",
       "type": "place",
       "siteKey": "atlas",
@@ -24822,6 +25362,36 @@
       }
     },
     {
+      "id": "place:luzhou-laojiao-museum",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "luzhou-laojiao-museum",
+          "path": "/places/luzhou-laojiao-museum/",
+          "url": "https://atlas.hejiu.org/places/luzhou-laojiao-museum/",
+          "title": "泸州老窖博物馆（国窖广场）",
+          "summary": "泸州国窖广场一带集中展示泸州老窖的窖池遗产、浓香型白酒工艺与酒城记忆；它与 1573 国宝窖池群、明清酿酒作坊共同构成参访线路，展馆与生产区、品鉴区要分开安排。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "luzhou-laojiao-museum",
+          "path": "/en/places/luzhou-laojiao-museum/",
+          "url": "https://atlas.hejiu.org/en/places/luzhou-laojiao-museum/",
+          "title": "Luzhou Laojiao Museum (Guojiao Square)",
+          "summary": "The Guojiao Square area in Luzhou presents Luzhou Laojiao’s pit heritage, strong-aroma baijiu craft and the memory of a liquor city. It forms a visiting route with the 1573 national treasure pits and Ming–Qing workshops; museum, production areas and tasting need separate planning.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "place:makers-mark-distillery",
       "type": "place",
       "siteKey": "atlas",
@@ -24995,6 +25565,36 @@
           "url": "https://atlas.hejiu.org/en/places/mezcaloteca/",
           "title": "Mezcaloteca: A Tasting Archive in Central Oaxaca",
           "summary": "A tasting room opened in 2010 at Reforma 506 in Oaxaca de Juárez; it makes no spirit, curating a cross-state, cross-variety collection for comparative tastings and serving as an urban entry point to traditional mezcal and NOM-070.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "place:mianzhu-nianhua-village",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "mianzhu-nianhua-village",
+          "path": "/places/mianzhu-nianhua-village/",
+          "url": "https://atlas.hejiu.org/places/mianzhu-nianhua-village/",
+          "title": "绵竹年画村（孝德镇）",
+          "summary": "绵竹孝德镇的绵竹年画村，以绵竹木版年画的作坊、展陈与体验为核心；它不是一条全是商铺的古镇街，而是“年画生产—展示—体验—销售”叠在一起的乡村文化空间，适合与剑南春酒坊遗址串成绵竹一日。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mianzhu-nianhua-village",
+          "path": "/en/places/mianzhu-nianhua-village/",
+          "url": "https://atlas.hejiu.org/en/places/mianzhu-nianhua-village/",
+          "title": "Mianzhu New Year Picture Village (Xiaode)",
+          "summary": "Mianzhu New Year Picture Village in Xiaode is centred on workshops, displays and hands-on experiences for Mianzhu woodblock New Year pictures. It is not an old street of shops but a rural cultural space where production, exhibition, experience and sales overlap, and pairs well with the Jiannanchun workshop site for a Mianzhu day.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -25752,6 +26352,36 @@
       }
     },
     {
+      "id": "place:shuanggou-distillery",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "shuanggou-distillery",
+          "path": "/places/shuanggou-distillery/",
+          "url": "https://atlas.hejiu.org/places/shuanggou-distillery/",
+          "title": "双沟酒业（双沟镇）",
+          "summary": "江苏泗洪县双沟镇的双沟酒业厂区，位于淮河与洪泽湖之间的湿地水乡；它把浓香型白酒的酿造、老窖与酒镇生活放在一起，适合与洋河、泗洪湿地串成苏北酒旅。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "shuanggou-distillery",
+          "path": "/en/places/shuanggou-distillery/",
+          "url": "https://atlas.hejiu.org/en/places/shuanggou-distillery/",
+          "title": "Shuanggou Distillery (Shuanggou Town)",
+          "summary": "The Shuanggou distillery in Shuanggou Town, Sihong County, Jiangsu, sits in the wetland water country between the Huai River and Hongze Lake. It combines strong-aroma brewing, old pits and liquor-town life, and pairs with Yanghe and Sihong wetlands for northern Jiangsu liquor travel.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "place:shuijingfang-museum",
       "type": "place",
       "siteKey": "atlas",
@@ -26202,6 +26832,36 @@
       }
     },
     {
+      "id": "place:tucheng-town",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "tucheng-town",
+          "path": "/places/tucheng-town/",
+          "url": "https://atlas.hejiu.org/places/tucheng-town/",
+          "title": "土城古镇（习水）",
+          "summary": "贵州习水县土城镇，赤水河畔的古镇与四渡赤水纪念地叠在一起；它既有盐运码头、老街与吊脚楼，也有纪念馆、渡口与长征叙事，适合与习酒镇串成习水两天。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "tucheng-town",
+          "path": "/en/places/tucheng-town/",
+          "url": "https://atlas.hejiu.org/en/places/tucheng-town/",
+          "title": "Tucheng Old Town (Xishui)",
+          "summary": "Tucheng in Xishui County, Guizhou, layers a Chishui River old town with the memory of the Four Crossings of the Chishui. It has salt wharves, old streets and stilt houses as well as a memorial, ferry points and Long March history, and pairs with Xijiu for two days in Xishui.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "place:u-fleku",
       "type": "place",
       "siteKey": "atlas",
@@ -26532,6 +27192,36 @@
       }
     },
     {
+      "id": "place:wuliangye-estate",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "wuliangye-estate",
+          "path": "/places/wuliangye-estate/",
+          "url": "https://atlas.hejiu.org/places/wuliangye-estate/",
+          "title": "五粮液酒厂（十里酒城）",
+          "summary": "宜宾翠屏区岷江西路 150 号的五粮液生产厂区，常被称作“十里酒城”；它与厂区内的五粮液酒文化博览馆共同构成宜宾白酒参访的核心，但生产区不是自由景区，参观与品鉴要按官方预约和门禁走。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "wuliangye-estate",
+          "path": "/en/places/wuliangye-estate/",
+          "url": "https://atlas.hejiu.org/en/places/wuliangye-estate/",
+          "title": "Wuliangye Distillery (Ten-Li Liquor City)",
+          "summary": "The Wuliangye production plant at 150 Minjiang West Road in Cuiping, Yibin, commonly called “Ten-Li Liquor City”. Together with the Wuliangye Wine Culture Museum on the same campus it forms the core of Yibin baijiu visiting, but the working plant is not a free-access park: visits and tastings follow official booking and gate rules.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "place:wuliangye-wine-museum",
       "type": "place",
       "siteKey": "atlas",
@@ -26585,6 +27275,66 @@
           "url": "https://atlas.hejiu.org/en/places/xianheng-hotel/",
           "title": "Xianheng Hotel",
           "summary": "A historic hotel and restaurant at 179 Lu Xun Middle Road in Shaoxing, opened in 1894 (the twentieth year of the Guangxu reign) and made famous by Lu Xun's stories, especially \"Kong Yiji\"; the present complex was rebuilt in 1981 and expanded after 2007, and its old-style dining hall still serves yellow wine and fava beans.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "place:xijiu-distillery",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "xijiu-distillery",
+          "path": "/places/xijiu-distillery/",
+          "url": "https://atlas.hejiu.org/places/xijiu-distillery/",
+          "title": "习酒厂区（习酒镇）",
+          "summary": "贵州习水县习酒镇的贵州习酒生产厂区，位于赤水河中游，是理解酱香型白酒河谷生产与习水酒旅的核心点位；厂区、展陈与习酒镇生活空间不是同一个入口，参观与品鉴按官方预约。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "xijiu-distillery",
+          "path": "/en/places/xijiu-distillery/",
+          "url": "https://atlas.hejiu.org/en/places/xijiu-distillery/",
+          "title": "Xijiu Distillery (Xijiu Town)",
+          "summary": "The Guizhou Xijiu production plant in Xijiu Town, Xishui County, sits on the middle Chishui River and anchors sauce-aroma valley production and Xishui liquor travel. Plant, exhibition and town life are not one entrance; visits and tastings follow official booking.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "place:xinghua-village",
+      "type": "place",
+      "siteKey": "atlas",
+      "typePath": "places",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "xinghua-village",
+          "path": "/places/xinghua-village/",
+          "url": "https://atlas.hejiu.org/places/xinghua-village/",
+          "title": "杏花村镇（汾阳）",
+          "summary": "山西汾阳杏花村镇，汾酒厂区、汾酒老作坊与杏花村遗址共同构成清香型白酒的核心参访地；它不是单一“杏花村景区”，而是酒厂、遗址、村镇与酒文化展陈叠在一起，参观要分开预约。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "xinghua-village",
+          "path": "/en/places/xinghua-village/",
+          "url": "https://atlas.hejiu.org/en/places/xinghua-village/",
+          "title": "Xinghua Village (Fenyang)",
+          "summary": "Xinghua Village in Fenyang, Shanxi, brings together the Fenjiu plant, the old Fenjiu workshop and the Xinghua Village site as the core of light-aroma baijiu visiting. It is not a single “Xinghua Village scenic spot” but a stack of plant, heritage site, village and liquor-culture displays, booked separately.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -35022,6 +35772,36 @@
       }
     },
     {
+      "id": "route:bozhou-gujing",
+      "type": "route",
+      "siteKey": "atlas",
+      "typePath": "routes",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "bozhou-gujing",
+          "path": "/routes/bozhou-gujing/",
+          "url": "https://atlas.hejiu.org/routes/bozhou-gujing/",
+          "title": "亳州路线：古井与药都",
+          "summary": "在亳州用一天把酒镇与药都分开看：上午到古井酒文化博览园与古井镇看浓香型白酒的制曲、窖池与陈放，下午回亳州老城与药材市场；博览园、厂区与药市各有入口，品鉴后不开车。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "bozhou-gujing",
+          "path": "/en/routes/bozhou-gujing/",
+          "url": "https://atlas.hejiu.org/en/routes/bozhou-gujing/",
+          "title": "Bozhou Route: Gujing and the Medicine Capital",
+          "summary": "One day in Bozhou separating liquor town and medicine capital: morning at the Gujing Wine Culture Park and Gujing Town for strong-aroma starter culture, pits and storage, afternoon in Bozhou’s old town and herb market. Park, plant and herb market have separate entrances, and no driving after tasting.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "route:burgundy-grands-crus-drive",
       "type": "route",
       "siteKey": "atlas",
@@ -35195,6 +35975,66 @@
           "url": "https://atlas.hejiu.org/en/routes/dublin-pub-trail/",
           "title": "Dublin pub trail: from Lower Bridge Street to St James's Gate",
           "summary": "Start at the Brazen Head on the south bank of the Liffey and walk west to the Guinness Storehouse. One stop is an everyday pub pouring stout from the tap; the other is a brand exhibition in an old fermentation building. Half a day shows how Dublin sells and explains the same dark beer.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "route:fenyang-xinghua",
+      "type": "route",
+      "siteKey": "atlas",
+      "typePath": "routes",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "fenyang-xinghua",
+          "path": "/routes/fenyang-xinghua/",
+          "url": "https://atlas.hejiu.org/routes/fenyang-xinghua/",
+          "title": "汾阳路线：汾酒与杏花村",
+          "summary": "在汾阳用一天读清香型白酒与诗酒杏花村：上午到汾酒博物馆与老作坊看地缸、制曲与蒸馏，下午到杏花村镇看展陈、碑刻与镇区；厂区、老作坊与展陈分别确认，品鉴后不开车。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "fenyang-xinghua",
+          "path": "/en/routes/fenyang-xinghua/",
+          "url": "https://atlas.hejiu.org/en/routes/fenyang-xinghua/",
+          "title": "Fenyang Route: Fenjiu and Xinghua Village",
+          "summary": "One day in Fenyang for light-aroma baijiu and the poetry of Xinghua Village: morning at the Fenjiu Museum and old workshop for jars, starter culture and distillation, afternoon in Xinghua Village for displays, inscriptions and town. Confirm plant, old workshop and displays separately, and do not drive after tasting.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "route:gulin-langjiu",
+      "type": "route",
+      "siteKey": "atlas",
+      "typePath": "routes",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "gulin-langjiu",
+          "path": "/routes/gulin-langjiu/",
+          "url": "https://atlas.hejiu.org/routes/gulin-langjiu/",
+          "title": "古蔺二郎路线：郎酒庄园与赤水河谷",
+          "summary": "在古蔺二郎镇用一天读酱香型白酒与赤水河左岸：上午进郎酒庄园看酿造、洞藏与品鉴，下午到二郎镇看场镇、河谷与跨省通道；庄园、厂区与洞藏分别预约，山路与住宿要留足时间。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "gulin-langjiu",
+          "path": "/en/routes/gulin-langjiu/",
+          "url": "https://atlas.hejiu.org/en/routes/gulin-langjiu/",
+          "title": "Gulin Erlang Route: Langjiu Estate and the Chishui Valley",
+          "summary": "One day in Erlang, Gulin, for sauce-aroma baijiu and the left bank of the Chishui: morning at Langjiu Estate for brewing, cave storage and tasting, afternoon in Erlang Town for the market town, valley and cross-province routes. Book estate, plant and caves separately, and allow time for mountain roads and lodging.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -35502,6 +36342,36 @@
       }
     },
     {
+      "id": "route:luzhou-laojiao",
+      "type": "route",
+      "siteKey": "atlas",
+      "typePath": "routes",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "luzhou-laojiao",
+          "path": "/routes/luzhou-laojiao/",
+          "url": "https://atlas.hejiu.org/routes/luzhou-laojiao/",
+          "title": "泸州老窖路线：国窖广场到活态窖池",
+          "summary": "在泸州用一天读泸州老窖：上午看国窖广场与博物馆，建立浓香型白酒的窖池、窖泥与作坊框架；下午到 1573 国宝窖池群与明清酿酒作坊看活态遗产，最后回到老城与长江边收尾。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "luzhou-laojiao",
+          "path": "/en/routes/luzhou-laojiao/",
+          "url": "https://atlas.hejiu.org/en/routes/luzhou-laojiao/",
+          "title": "Luzhou Laojiao Route: Guojiao Square to Living Pits",
+          "summary": "One day of Luzhou Laojiao: spend the morning at Guojiao Square and the museum building a framework of pits, mud and workshops, then visit the 1573 national treasure pits and Ming–Qing workshops in the afternoon, finishing in the old town and by the Yangtze.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "route:madeira-wine-route",
       "type": "route",
       "siteKey": "atlas",
@@ -35705,6 +36575,36 @@
           "url": "https://atlas.hejiu.org/en/routes/mexico-tequila-trail/",
           "title": "Mexico Tequila Trail",
           "summary": "From Casa Herradura at Amatitlán to Fortaleza in Tequila town, two stops in the volcanic lowlands and their Blue Weber agave core. The first combines estate scale, brick dome ovens, wild yeast and modern milling; the second keeps a tahona, wooden vats and two old copper stills for small batches. The route also frames the CRT and NOM-006 rules.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "route:mianzhu-jiannanchun",
+      "type": "route",
+      "siteKey": "atlas",
+      "typePath": "routes",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "mianzhu-jiannanchun",
+          "path": "/routes/mianzhu-jiannanchun/",
+          "url": "https://atlas.hejiu.org/routes/mianzhu-jiannanchun/",
+          "title": "绵竹路线：剑南春酒坊与年画村",
+          "summary": "在绵竹用一天把酒与年画分开看：上午到剑南春酒坊遗址与天益老号看浓香型窖池与作坊，下午到孝德镇年画村看木版年画的刻版、套印与手绘；两处各有入口与预约规则，品鉴、买酒与买画分开处理。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "mianzhu-jiannanchun",
+          "path": "/en/routes/mianzhu-jiannanchun/",
+          "url": "https://atlas.hejiu.org/en/routes/mianzhu-jiannanchun/",
+          "title": "Mianzhu Route: Jiannanchun Workshop and New Year Pictures",
+          "summary": "One day in Mianzhu separating liquor and pictures: morning at the Jiannanchun workshop site and Tianyi Laohao for strong-aroma pits and workshops, afternoon at Xiaode’s New Year Picture Village for block carving, printing and hand painting. Each has its own entrance and booking rules; keep tasting, liquor buying and print buying apart.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -36192,6 +37092,36 @@
       }
     },
     {
+      "id": "route:suqian-yanghe",
+      "type": "route",
+      "siteKey": "atlas",
+      "typePath": "routes",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "suqian-yanghe",
+          "path": "/routes/suqian-yanghe/",
+          "url": "https://atlas.hejiu.org/routes/suqian-yanghe/",
+          "title": "宿迁路线：洋河与双沟",
+          "summary": "在宿迁用一天串起洋河与双沟两座酒镇：上午到洋河酒厂文化旅游区看浓香型白酒的窖池、展陈与厂区，下午到双沟酒业与镇区看老窖与水乡湿地；两处分别预约，品鉴后不开车。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "suqian-yanghe",
+          "path": "/en/routes/suqian-yanghe/",
+          "url": "https://atlas.hejiu.org/en/routes/suqian-yanghe/",
+          "title": "Suqian Route: Yanghe and Shuanggou",
+          "summary": "One day linking Suqian’s two liquor towns: morning at the Yanghe distillery culture tourism area for strong-aroma pits, displays and plant, afternoon at Shuanggou distillery and town for old pits and wetland water country. Book both separately and do not drive after tasting.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "route:tennessee-whiskey-trail",
       "type": "route",
       "siteKey": "atlas",
@@ -36395,6 +37325,66 @@
           "url": "https://atlas.hejiu.org/en/routes/willamette-valley-wine-route/",
           "title": "Willamette Valley Wine Route",
           "summary": "South from Portland into the Willamette Valley, anchored by Domaine Drouhin Oregon and The Eyrie Vineyards in the Dundee Hills; a day of 1960s–70s pioneer planting, Burgundian Pinot Noir, old vines and organic farming, and the Oregon Wine Board’s regional story.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "route:xishui-xijiu",
+      "type": "route",
+      "siteKey": "atlas",
+      "typePath": "routes",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "xishui-xijiu",
+          "path": "/routes/xishui-xijiu/",
+          "url": "https://atlas.hejiu.org/routes/xishui-xijiu/",
+          "title": "习水路线：习酒厂区与土城古镇",
+          "summary": "在贵州习水用一天串起酱香型白酒与赤水河历史：上午到习酒镇看厂区与河谷，理解赤水河中游的酱香生产；下午到土城看四渡赤水纪念馆、老街与渡口；厂区按预约，古镇按单向动线，品鉴后不开车。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "xishui-xijiu",
+          "path": "/en/routes/xishui-xijiu/",
+          "url": "https://atlas.hejiu.org/en/routes/xishui-xijiu/",
+          "title": "Xishui Route: Xijiu Plant and Tucheng Old Town",
+          "summary": "One day in Xishui, Guizhou, linking sauce-aroma baijiu and Chishui River history: morning in Xijiu Town for the plant and valley, understanding middle-Chishui production; afternoon in Tucheng for the Four Crossings memorial, old street and ferry. Book the plant, walk the old town one way, and do not drive after tasting.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "route:yibin-wuliangye",
+      "type": "route",
+      "siteKey": "atlas",
+      "typePath": "routes",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "yibin-wuliangye",
+          "path": "/routes/yibin-wuliangye/",
+          "url": "https://atlas.hejiu.org/routes/yibin-wuliangye/",
+          "title": "宜宾五粮液路线：从酒文化博览馆到十里酒城",
+          "summary": "在宜宾用一天读浓香型白酒：上午到五粮液酒文化博览馆建立原料、窖池、制曲与勾调框架，下午沿十里酒城的公共道路看厂区尺度与江岸空间；生产区只走官方预约线路，品鉴与买酒分开。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "yibin-wuliangye",
+          "path": "/en/routes/yibin-wuliangye/",
+          "url": "https://atlas.hejiu.org/en/routes/yibin-wuliangye/",
+          "title": "Yibin Wuliangye Route: Museum to Ten-Li Liquor City",
+          "summary": "One day of strong-aroma baijiu in Yibin: spend the morning at the Wuliangye Wine Culture Museum building a framework of grains, pits, starter culture and blending, then follow the public roads of Ten-Li Liquor City in the afternoon for plant scale and riverfront space. Enter production only on official booked routes, and keep tasting separate from buying.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
