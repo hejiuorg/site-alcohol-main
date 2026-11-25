@@ -2,11 +2,11 @@
   "manifestSchemaVersion": 1,
   "siteKey": "main",
   "siteRepository": "site-alcohol-main",
-  "siteCommit": "b3a9b32b8c0ab6acb7ed0f22c31cf546a277dd99",
+  "siteCommit": "0705cf6259872956e6c955290f5d1d26d3a0ceaf",
   "host": "hejiu.org",
   "siteUrl": "https://hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T04:18:52.236Z",
+  "generatedAt": "2026-11-25T06:38:46.212Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -24681,7 +24681,7 @@
     "aggregateSource": ".hejiu/published/main.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "96b069e519f145a6d8f720e74a0a437a3baefcc154239cebc34599c95e53035b",
+  "distTreeSha256ExcludingManifest": "d21bf421bc47368e5f28cd6d1101e90084c91f75301d7332e5df02964fa582ec",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
