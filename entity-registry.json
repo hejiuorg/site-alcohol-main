@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T07:09:07.103Z",
-  "contentTreeSha256": "f9c80967ba57bfa045d20aaa9e9bbae46b850609297f83ab911cf3bc9fccd3b4",
+  "generatedAt": "2026-11-26T11:27:57.026Z",
+  "contentTreeSha256": "7dfa2b6aad77e68c89563b370e3ae9d20e23601b6521057b9ebc290ff50c0016",
   "counts": {
-    "records": 2936,
-    "entities": 1468,
-    "publishedPages": 2936,
+    "records": 2960,
+    "entities": 1480,
+    "publishedPages": 2960,
     "previewPages": 0,
-    "sourceRecords": 2938,
-    "sourceEntities": 1469
+    "sourceRecords": 2962,
+    "sourceEntities": 1481
   },
   "entities": [
     {
@@ -14622,6 +14622,66 @@
       }
     },
     {
+      "id": "guide:fortified-wine-intro",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "fortified-wine-intro",
+          "path": "/guides/fortified-wine-intro/",
+          "url": "https://hejiu.org/guides/fortified-wine-intro/",
+          "title": "加强酒入门：波特、雪利、马德拉怎么喝",
+          "summary": "加强酒不是一种酒，而是在发酵中加入酒精、再经氧化或陈年形成的一类酒。先分波特、雪利、马德拉与马沙拉，再看甜度、氧化风格和开瓶后的寿命。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "fortified-wine-intro",
+          "path": "/en/guides/fortified-wine-intro/",
+          "url": "https://hejiu.org/en/guides/fortified-wine-intro/",
+          "title": "Fortified wine: Port, Sherry and Madeira",
+          "summary": "An introduction to fortified wine by type, sweetness, oxidation, shelf life and pairing, covering Port, Sherry, Madeira and Marsala.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:home-bar-minimum",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "home-bar-minimum",
+          "path": "/guides/home-bar-minimum/",
+          "url": "https://hejiu.org/guides/home-bar-minimum/",
+          "title": "家庭酒吧最小配置：6 瓶酒、8 件工具、1 套冰",
+          "summary": "家庭酒吧不需要整面酒墙。先备 6 瓶基酒与 8 件工具，再补糖浆、苦精、柑橘与冰；按常做的 6 杯酒倒推配置，比按酒单囤货更省钱。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "home-bar-minimum",
+          "path": "/en/guides/home-bar-minimum/",
+          "url": "https://hejiu.org/en/guides/home-bar-minimum/",
+          "title": "A minimum home bar: 6 bottles, 8 tools, 1 set of ice",
+          "summary": "A beginner's minimum home bar built from a short menu: six bottles, eight tools, one ice system, citrus and a staged budget.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:home-wine-cabinet",
       "type": "guide",
       "siteKey": "main",
@@ -15042,6 +15102,36 @@
       }
     },
     {
+      "id": "guide:sake-temperature",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "sake-temperature",
+          "path": "/guides/sake-temperature/",
+          "url": "https://hejiu.org/guides/sake-temperature/",
+          "title": "清酒温度指南：冷酒、常温与温酒怎么选",
+          "summary": "清酒不是只能冰着喝。温度会改变香气、甜感、酸度与酒精刺激；先看酒型与精米步合，再选冷酒、常温或温酒，别用微波炉加热。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "sake-temperature",
+          "path": "/en/guides/sake-temperature/",
+          "url": "https://hejiu.org/en/guides/sake-temperature/",
+          "title": "Sake temperature: from chilled to warm",
+          "summary": "A practical guide to sake temperature bands, style matching, water-bath warming, vessels and food pairing.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:single-malt-vs-blend",
       "type": "guide",
       "siteKey": "main",
@@ -15065,6 +15155,36 @@
           "url": "https://hejiu.org/en/guides/single-malt-vs-blend/",
           "title": "Single Malt or Blended Whisky",
           "summary": "Compare single malt and blended whisky through definition, flavour structure, price and occasion. Single malt highlights one distillery’s character; a blend aims for consistency and balance. Neither is inherently better; the choice depends on the experience and budget you want.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:sparkling-wine-buying",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "sparkling-wine-buying",
+          "path": "/guides/sparkling-wine-buying/",
+          "url": "https://hejiu.org/guides/sparkling-wine-buying/",
+          "title": "起泡酒怎么选：香槟、Cava、Prosecco 与 Crémant",
+          "summary": "起泡酒不是一种酒，而是一类工艺。先按场合和预算选产区与方法，再看甜度、年份和除渣日期；香槟、Cava、Prosecco 与 Crémant 各有自己的价格逻辑。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "sparkling-wine-buying",
+          "path": "/en/guides/sparkling-wine-buying/",
+          "url": "https://hejiu.org/en/guides/sparkling-wine-buying/",
+          "title": "How to choose sparkling wine: Champagne, Cava, Prosecco and Crémant",
+          "summary": "A buyer's guide to sparkling wine by category, budget, sweetness, vintage and label, with opening, pouring and pairing notes.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15222,6 +15342,36 @@
       }
     },
     {
+      "id": "guide:whisky-water-and-ice",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "whisky-water-and-ice",
+          "path": "/guides/whisky-water-and-ice/",
+          "url": "https://hejiu.org/guides/whisky-water-and-ice/",
+          "title": "威士忌加水加冰：多少水、什么冰、顺序怎么排",
+          "summary": "加水不是稀释，而是打开香气；加冰不是装样子，而是降温与稀释同时发生。先看酒精度与酒体，再决定几滴水、一块冰还是不加。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "whisky-water-and-ice",
+          "path": "/en/guides/whisky-water-and-ice/",
+          "url": "https://hejiu.org/en/guides/whisky-water-and-ice/",
+          "title": "Whisky with water and ice: small, staged, comparative",
+          "summary": "How water and ice change whisky aroma, texture and alcohol heat, with strength bands, mizuwari, highball and a tasting order.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:wine-gift-budget",
       "type": "guide",
       "siteKey": "main",
@@ -15305,6 +15455,36 @@
           "url": "https://hejiu.org/en/guides/wine-storage/",
           "title": "Wine Storage: Temperature, Humidity, Light and Vibration",
           "summary": "The core of wine storage is stability; temperature, humidity, light, vibration and air all change a wine's condition, and short-term keeping, opened-bottle storage and long-term ageing should be handled differently by wine type and intention.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:wine-vintage-drinking-window",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "wine-vintage-drinking-window",
+          "path": "/guides/wine-vintage-drinking-window/",
+          "url": "https://hejiu.org/guides/wine-vintage-drinking-window/",
+          "title": "葡萄酒年份与适饮期：什么时候喝，什么时候别再等",
+          "summary": "年份不是质量分数，而是气候与酿造共同留下的年份特征。先分产区、酒种与酒体，再判断适饮窗口；不是所有酒都值得陈年，也不是所有老酒都更好喝。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "wine-vintage-drinking-window",
+          "path": "/en/guides/wine-vintage-drinking-window/",
+          "url": "https://hejiu.org/en/guides/wine-vintage-drinking-window/",
+          "title": "Vintage and drinking window: beyond the year on the label",
+          "summary": "How vintage records weather and winemaking choices, and how to judge a drinking window by wine type, structure, condition and storage.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -32142,6 +32322,66 @@
       }
     },
     {
+      "id": "region:guangdong",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "guangdong",
+          "path": "/regions/guangdong/",
+          "url": "https://beverages.hejiu.org/regions/guangdong/",
+          "title": "广东省",
+          "summary": "珠江三角洲与粤东山地共同构成的华南省份，豉香型玉冰烧、米香型九江双蒸与客家娘酒并存，是理解中国米酒与低度酒传统的关键产区。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "guangdong",
+          "path": "/en/regions/guangdong/",
+          "url": "https://beverages.hejiu.org/en/regions/guangdong/",
+          "title": "Guangdong",
+          "summary": "A rice-based southern province of soy-aroma baijiu, rice-aroma rice wine and Hakka sweet yellow rice wine, with a dense Pearl River Delta food and trade network.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "region:guangxi",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "guangxi",
+          "path": "/regions/guangxi/",
+          "url": "https://beverages.hejiu.org/regions/guangxi/",
+          "title": "广西壮族自治区",
+          "summary": "岭南西部的壮族自治区，桂林三花酒与米香型白酒的核心产区；漓江、稻作与湿热气候共同塑造了清、甜、爽的米酒传统。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "guangxi",
+          "path": "/en/regions/guangxi/",
+          "url": "https://beverages.hejiu.org/en/regions/guangxi/",
+          "title": "Guangxi",
+          "summary": "A karst-and-rice province centred on rice-aroma baijiu, especially Guilin Sanhua, with everyday rice wine and sweet glutinous rice wine alongside.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "region:guizhou",
       "type": "region",
       "siteKey": "beverages",
@@ -32292,6 +32532,36 @@
       }
     },
     {
+      "id": "region:henan",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "henan",
+          "path": "/regions/henan/",
+          "url": "https://beverages.hejiu.org/regions/henan/",
+          "title": "河南省",
+          "summary": "黄河中下游的中原省份，豫酒以浓香为主，也有清香、酱香与地方特色酒；小麦、高粱、玉米与便利的水陆交通，共同塑造了河南白酒的产业底色。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "henan",
+          "path": "/en/regions/henan/",
+          "url": "https://beverages.hejiu.org/en/regions/henan/",
+          "title": "Henan",
+          "summary": "A Central Plain province on the middle Yellow River where strong-aroma baijiu leads, with light, sauce and local styles, and where wheat, sorghum, maize and water shape the base.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "region:hermitage",
       "type": "region",
       "siteKey": "beverages",
@@ -32412,6 +32682,36 @@
       }
     },
     {
+      "id": "region:hunan",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "hunan",
+          "path": "/regions/hunan/",
+          "url": "https://beverages.hejiu.org/regions/hunan/",
+          "title": "湖南省",
+          "summary": "洞庭湖以南的华中省份，湿润多山的地理环境孕育了馥郁香、酱香与米酒并存的湘酒版图；酒鬼酒、武陵酒与湘泉是理解湖南白酒的三条线索。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "hunan",
+          "path": "/en/regions/hunan/",
+          "url": "https://beverages.hejiu.org/en/regions/hunan/",
+          "title": "Hunan",
+          "summary": "A wet, mountainous province where fuyu and sauce-aroma baijiu coexist with rice wine and yellow rice wine, shaped by the Dongting plain, western valleys and rice farming.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "region:hunter-valley",
       "type": "region",
       "siteKey": "beverages",
@@ -32495,6 +32795,36 @@
           "url": "https://beverages.hejiu.org/en/regions/india/",
           "title": "India",
           "summary": "The national Indian whisky category, among the world’s largest by volume; materials include molasses neutral spirit, grain and malt, with styles from mass-market blends to single malts, and a tropical climate that ages whisky very fast.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "region:inner-mongolia",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "inner-mongolia",
+          "path": "/regions/inner-mongolia/",
+          "url": "https://beverages.hejiu.org/regions/inner-mongolia/",
+          "title": "内蒙古自治区",
+          "summary": "中国北方的草原自治区，河套平原的粮食白酒与草原马奶酒并存；河套王、蒙古王与 airag 构成两条完全不同的饮酒传统。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "inner-mongolia",
+          "path": "/en/regions/inner-mongolia/",
+          "url": "https://beverages.hejiu.org/en/regions/inner-mongolia/",
+          "title": "Inner Mongolia",
+          "summary": "A northern province of Hetao grain baijiu and grassland fermented mare's-milk wine, with strong aroma on the plain and airag in pastoral life.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -32795,6 +33125,36 @@
           "url": "https://beverages.hejiu.org/en/regions/jiangsu/",
           "title": "Jiangsu Province",
           "summary": "An eastern coastal province and one of China's important yellow wine regions; Danyang sealed-jar wine uses glutinous rice and wheat qu with sealed ageing for a sweet style, and Wuxi has traditions such as Huiquan wine.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "region:jiangxi",
+      "type": "region",
+      "siteKey": "beverages",
+      "typePath": "regions",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "jiangxi",
+          "path": "/regions/jiangxi/",
+          "url": "https://beverages.hejiu.org/regions/jiangxi/",
+          "title": "江西省",
+          "summary": "鄱阳湖与赣江流域构成的华东省份，四特酒与特香型是江西白酒的识别符号；大米、红壤与湿热气候，塑造了浓清酱兼具的复合风格。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "jiangxi",
+          "path": "/en/regions/jiangxi/",
+          "url": "https://beverages.hejiu.org/en/regions/jiangxi/",
+          "title": "Jiangxi",
+          "summary": "A rice-based Jiangnan province defined by te-aroma baijiu, red-stone pits and a composite fragrance, with strong and light aroma also present.",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
