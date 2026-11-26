@@ -2,11 +2,11 @@
   "manifestSchemaVersion": 1,
   "siteKey": "main",
   "siteRepository": "site-alcohol-main",
-  "siteCommit": "0705cf6259872956e6c955290f5d1d26d3a0ceaf",
+  "siteCommit": "642b054415a550d1f90729bc0c7513fe60fcacfc",
   "host": "hejiu.org",
   "siteUrl": "https://hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T15:57:54.033Z",
+  "generatedAt": "2026-11-26T01:23:29.444Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -21,7 +21,7 @@
   },
   "contentCommits": null,
   "contentCommitNote": "G2 local workspace has no remote commits yet; content identity is the file SHA256 tree below.",
-  "contentTreeSha256": "4f376d2f2460b755ca298b1ec94a935daeb95f838dbd086a398858abb9781492",
+  "contentTreeSha256": "2f66438ab55fe1050b1b834717b4ac853d83cd829be9530989d0ac06c77c859e",
   "contentFiles": [
     {
       "repository": "world-alcohol-encyclopedia/atlas",
@@ -130,7 +130,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/event/tsingtao-beer-museum-beer-festival-2026.md",
-      "sha256": "a2f2af1c3023d011605b6b48a930759644ae782294e63736703fe4b389a41019",
+      "sha256": "ec40803ec827d0269ad348e285a0e6bb08a2c82b38197eedc3ecc7274177c7f9",
       "id": "event:tsingtao-beer-museum-beer-festival-2026",
       "lang": "en",
       "status": "reviewed"
@@ -170,7 +170,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/al-bicerin-torino.md",
-      "sha256": "753962feda94c18273034e38cde16a3228a5762ae743ac581637258d14248eda",
+      "sha256": "994c17f5f32abfe8e6d05b8640812f1c36fa37d69783553ad485247aa1782b46",
       "id": "place:al-bicerin-torino",
       "lang": "en",
       "status": "reviewed"
@@ -498,7 +498,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/caffe-san-carlo-torino.md",
-      "sha256": "d357d952310cf90f7579d3e01c23f6c83479a4e4b04c54616ee37e35bbe30949",
+      "sha256": "140ef44d5c4695cda7b722f29a3efb9d4c33656afe8de1cdcdbc3e02292e1d78",
       "id": "place:caffe-san-carlo-torino",
       "lang": "en",
       "status": "reviewed"
@@ -594,7 +594,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/chateau-de-meursault.md",
-      "sha256": "fb4abef434c3451ea21971c89d47cf361a5e0e88adf88f3e1754150b762b890a",
+      "sha256": "4cc979f09bfa7f097541b8dc44416a19d503f93208009ae93e14c16452bfac5d",
       "id": "place:chateau-de-meursault",
       "lang": "en",
       "status": "reviewed"
@@ -650,7 +650,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/chateau-montelena.md",
-      "sha256": "2f940362cc0bbd34b589f7f07da6164b8309acbb0548f2116625c38bec4a693a",
+      "sha256": "fb53595266e8256c3b684c1222f2b6abf5796aacf8fd2ac78aac904376644ea8",
       "id": "place:chateau-montelena",
       "lang": "en",
       "status": "reviewed"
@@ -706,7 +706,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/cloudy-bay.md",
-      "sha256": "59b25d286b692b01d2287f456078484a99b4971375039073a904320b0165ce50",
+      "sha256": "c9d02a159aecc1af7ad2f8682543963d32fa464ca96c10bba762251e4afc1621",
       "id": "place:cloudy-bay",
       "lang": "en",
       "status": "reviewed"
@@ -722,7 +722,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/coulee-de-serrant.md",
-      "sha256": "8119d183bb0d680e800a1cfe56eafe384276be7394745cfab149611a546cc36c",
+      "sha256": "b62db9cd5cfe0f6b120bf26d8e99b874ae5e2bd51a9f4123a9e7ae10a45722e0",
       "id": "place:coulee-de-serrant",
       "lang": "en",
       "status": "reviewed"
@@ -738,7 +738,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/dalwhinnie-distillery.md",
-      "sha256": "b23891693dbf2839c188faa01ae53dfafcdbb9952917c6f191c7bdf17b9c34ae",
+      "sha256": "66303df10bfa2a02ff363c9646105a5b09fb42a1a792ee02cbf0c4d422764a6d",
       "id": "place:dalwhinnie-distillery",
       "lang": "en",
       "status": "reviewed"
@@ -810,7 +810,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/domaine-drouhin-oregon.md",
-      "sha256": "fe3a03c89b23832846fe520de3ddad64eef588cd831d7f6ebe5eb646f6ad1486",
+      "sha256": "be8ce477f8cf48f647e765d4494fff233f40386258f0481d3be97e8cbcf8d2e3",
       "id": "place:domaine-drouhin-oregon",
       "lang": "en",
       "status": "reviewed"
@@ -842,7 +842,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/domaine-weinbach.md",
-      "sha256": "1443fbce0c7ba29fa4ce842b0559eca756d824ae95a4ff6f3151b7dee3f086fc",
+      "sha256": "0158e065566a77d71dd640fa1b467d830a08f349348452ecd9c377f204b56486",
       "id": "place:domaine-weinbach",
       "lang": "en",
       "status": "reviewed"
@@ -882,7 +882,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/egon-muller.md",
-      "sha256": "66f4f1e91082ef98bcb57b79225a79286d2085f4772b6dad9b9d62ceede7ae8e",
+      "sha256": "cc88ea0dd76e7fe466fd2fce3c7deee76eb3fa0cedda78b6c394434f2a36d500",
       "id": "place:egon-muller",
       "lang": "en",
       "status": "reviewed"
@@ -922,7 +922,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/eyrie-vineyards.md",
-      "sha256": "e54dcb48385e7448d5d7f91cf95a41210522ec7eefdb77b60cc63015998345c4",
+      "sha256": "8499588e9b6620633bbcfb20589313499192c803026b4188798042c200fc0497",
       "id": "place:eyrie-vineyards",
       "lang": "en",
       "status": "reviewed"
@@ -930,7 +930,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/fattoria-felsina.md",
-      "sha256": "aa788dbc4d891218157d75adbd3ac68a34f161ec7c6f89757be77fab3ded7a31",
+      "sha256": "04b386f9e24ec5ee20f1db1d2de9474716455e48b9fc17d08015192650201099",
       "id": "place:fattoria-felsina",
       "lang": "en",
       "status": "reviewed"
@@ -938,7 +938,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/fenjiu-museum.md",
-      "sha256": "96b6bafd52cf2985ab25eea967665cc68581bf2d45269c4f27ea5ec162788cd2",
+      "sha256": "bb047db9cacb87eeea235349f296a199a8ee3857f9e0f674fa6e4f867e13e089",
       "id": "place:fenjiu-museum",
       "lang": "en",
       "status": "reviewed"
@@ -1010,7 +1010,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/glenfiddich-distillery.md",
-      "sha256": "6eb9196e603b595385b5eba59ca6d11e03fcb440515c2e08e8417b0b77508845",
+      "sha256": "0c4a0eea802d0da06d96a563bc5c748b840c2b7ac3b70b68a43dba1a2f945b5e",
       "id": "place:glenfiddich-distillery",
       "lang": "en",
       "status": "reviewed"
@@ -1018,7 +1018,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/glenlivet-distillery.md",
-      "sha256": "b8691b8094459dbb05ca143d7e966692297941b1da8b16d0c358ba6e1684e347",
+      "sha256": "c0b162dc81a7f5f93a958a8903e0d186c06a566078a1f44cdad689d20a1c484b",
       "id": "place:glenlivet-distillery",
       "lang": "en",
       "status": "reviewed"
@@ -1114,7 +1114,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/harrys-bar-venice.md",
-      "sha256": "f511e5accd4ab6b94a3ef22a38d6acefbc746ec8555981fce5ab73abe701567c",
+      "sha256": "7dcce83d50bc953b05e29b1b61f6f4a6589f72afc04435d7e8ec78b81be8f1b2",
       "id": "place:harrys-bar-venice",
       "lang": "en",
       "status": "reviewed"
@@ -1194,7 +1194,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/hugel.md",
-      "sha256": "8d1b237c988f3b17f1736e366e60e73d4e28856a5148b51da42fed4c805faa38",
+      "sha256": "2a83fa48124e0f15c39d8c7c44e348619eff635750fc914ddb5da16ad42f8b7f",
       "id": "place:hugel",
       "lang": "en",
       "status": "reviewed"
@@ -1242,7 +1242,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/jordan-vineyard.md",
-      "sha256": "91141babe2aee60563ba6c0872ea857d23ebefc3c7f768b29a03e38ebdcc2c31",
+      "sha256": "599b5d3748e0613ae67caff5a55bf97c1cc87f879ee10c7db12b9f02c97298f1",
       "id": "place:jordan-vineyard",
       "lang": "en",
       "status": "reviewed"
@@ -1322,7 +1322,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/la-bodeguita-del-medio.md",
-      "sha256": "d5d92b6327c0cf1869d208542b46384c0998e45b9d96fb2c124d090172f1b120",
+      "sha256": "b690a26998bf1bd9917551efe136bdd37ef175dd0b8abf658fd754a506a3321b",
       "id": "place:la-bodeguita-del-medio",
       "lang": "en",
       "status": "reviewed"
@@ -1386,7 +1386,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/leeuwin-estate.md",
-      "sha256": "5fc0b011717ea9ea100b3e899471e3db892dcf487b992d442d1ad0b2d343968c",
+      "sha256": "a3a690e1afbeb03efae250f40940ee29b39d607d41d1545034682d071c1f3f4e",
       "id": "place:leeuwin-estate",
       "lang": "en",
       "status": "reviewed"
@@ -1498,7 +1498,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/monastery-of-poblet.md",
-      "sha256": "55b1143b4d191e8b672de527dc492bdf8a2e0742415cc213e0f4c0b1f5af1836",
+      "sha256": "341ce10832493ff59ea48f21f592d32410f3cfd754eb45f1d3fb8139c096c0ee",
       "id": "place:monastery-of-poblet",
       "lang": "en",
       "status": "reviewed"
@@ -1570,7 +1570,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/opus-one-winery.md",
-      "sha256": "648a297f1409167ce80f623619955116df2f005dd20ed37ef9e21182a9374112",
+      "sha256": "d9051385f6574fd7ab2e60e1bd615ce6a73dde6760e211cf6c46668e8c023bf0",
       "id": "place:opus-one-winery",
       "lang": "en",
       "status": "reviewed"
@@ -1618,7 +1618,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/quinta-do-crasto.md",
-      "sha256": "b2bd130706a92387c40683cc6a5cfcd4a2d63f9129a9e6f20cd640280193e785",
+      "sha256": "c8ba52a22dba615294720e9cd4a8f446f9540158c55ab1528322c297c66184e8",
       "id": "place:quinta-do-crasto",
       "lang": "en",
       "status": "reviewed"
@@ -1674,7 +1674,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/schlenkerla.md",
-      "sha256": "30599da3d1db1118af731655cb3525d6bc0b7ff7de3faf172461bb12f0bf6524",
+      "sha256": "f73b7a25a93da3262fb4bef2f9a1bd1a2a19fefe4dd9df6470fa0354d442a0d0",
       "id": "place:schlenkerla",
       "lang": "en",
       "status": "reviewed"
@@ -1794,7 +1794,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/tsingtao-beer-museum.md",
-      "sha256": "dd8a2043fec42319132ac2177be515a8ee5886c33a6fd14ef049a713738e5a44",
+      "sha256": "e93cdcf09f51032c5a1471bb99f3e7a07d953a68a55e3e7a3fa9a707c0539792",
       "id": "place:tsingtao-beer-museum",
       "lang": "en",
       "status": "reviewed"
@@ -1802,7 +1802,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/tsingtao-beer-street.md",
-      "sha256": "864bb61328c92f132b1420db008e3f35907f24e1b1f97f5b1a3d24514769b549",
+      "sha256": "98502d1ed3972f06b41e60288c4b69b29999fdb614e851e429ffff8e2fb0d16e",
       "id": "place:tsingtao-beer-street",
       "lang": "en",
       "status": "reviewed"
@@ -1858,7 +1858,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/vasse-felix.md",
-      "sha256": "7a889e53b24a97c8989568fabf7479c351eefac8dd57465bb80d80f0a1cccce3",
+      "sha256": "1b0b7bf28df220aed84221670d2577f0e24c9f9c79b4c67ec2a7d6cb6932a25e",
       "id": "place:vasse-felix",
       "lang": "en",
       "status": "reviewed"
@@ -1882,7 +1882,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/weihenstephan-brewery.md",
-      "sha256": "989304d8036e8687600ee30ae2e35f4c39a443bcca1c401e904685f5aad2bd16",
+      "sha256": "9ec095a5ab7878282c6c4e61006da93207d7c721cf746c5a0612469a81a15458",
       "id": "place:weihenstephan-brewery",
       "lang": "en",
       "status": "reviewed"
@@ -1898,7 +1898,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/williams-selyem.md",
-      "sha256": "3d47197b7391e917ec76c998d1dc9b33c216ea1ff645a1154fda106f3e4eba90",
+      "sha256": "855b3b86ed5ea7bddcc7870595957e5024f5b22a26a6d2ae88e34ac7bae49746",
       "id": "place:williams-selyem",
       "lang": "en",
       "status": "reviewed"
@@ -1906,7 +1906,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/wirra-wirra.md",
-      "sha256": "e394171e2b1bd72d1eeebba2f9c67d978c7583c9a3434a477f413e5f754e3067",
+      "sha256": "639a5a5af4f0fee978e75e18279984e0e6dfa52456b26f70f2f5c7f127d3f2c8",
       "id": "place:wirra-wirra",
       "lang": "en",
       "status": "reviewed"
@@ -1994,7 +1994,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/place/yealands.md",
-      "sha256": "77b01cf8aa8512577132a029d3d8a583cc7577d8ff23c0575d03d3000ba0ffa6",
+      "sha256": "7d2e8bd985eeda00dcf10a6468ba6cb11e09dc89e4a8373b9cbd1ecb974057df",
       "id": "place:yealands",
       "lang": "en",
       "status": "reviewed"
@@ -2018,7 +2018,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/alsace-grand-cru-trail.md",
-      "sha256": "34a4600b1f15d6be4cde889a186e996156e3fbf577cf897c3ddec1665da9781d",
+      "sha256": "0eecfd339abbc406a0ea015d57e857ad555638da4af71d42eee462d7cdf148d0",
       "id": "route:alsace-grand-cru-trail",
       "lang": "en",
       "status": "reviewed"
@@ -2114,7 +2114,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/cuba-rum-trail.md",
-      "sha256": "452ee585da0fb6b681ef59f02e09c576b28c151553fa2f014e1d68f7b926ca6b",
+      "sha256": "c65e9b7dec71ad8571660acf0fdf52751eed4455d0ac2c7cc69589940852b5b4",
       "id": "route:cuba-rum-trail",
       "lang": "en",
       "status": "reviewed"
@@ -2218,7 +2218,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/london-gin-route.md",
-      "sha256": "7b20af81a65854463fd5f0fbcc7c38523bc578a675805c99c44d330dc624f6cf",
+      "sha256": "ac1ace7d17f649ee88d16494378aec8eed242fbaede245cea834bcf317d9326d",
       "id": "route:london-gin-route",
       "lang": "en",
       "status": "reviewed"
@@ -2250,7 +2250,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/margaret-river-wine-route.md",
-      "sha256": "2c14deb755c4c2eec9239b3a70b9c49d4ad94eb7b27ebab1f53537279983af73",
+      "sha256": "07dd4c52b00c09c31a4232fb98873974e9f6acd125faae5e874b671727854e22",
       "id": "route:margaret-river-wine-route",
       "lang": "en",
       "status": "reviewed"
@@ -2258,7 +2258,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/marlborough-wine-trail.md",
-      "sha256": "bb0ba75737dcaf80d5c1e21b637948892cb881a99d3a7f71463a0f5fd88f6560",
+      "sha256": "3a9dca034c8db21dddaa4cb1ee2bb5c4092e0b5e8c643b080de8ca17b3f4f7d0",
       "id": "route:marlborough-wine-trail",
       "lang": "en",
       "status": "reviewed"
@@ -2266,7 +2266,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/mclaren-vale-wine-route.md",
-      "sha256": "6bb8dd5233a8c69dd5ee8e72f86d9fb31f33a52ee3974d9d198e07affb01d2fa",
+      "sha256": "63a9d4419366149b00d0e8876b033524510d377739361f38fc13616830e0f2fc",
       "id": "route:mclaren-vale-wine-route",
       "lang": "en",
       "status": "reviewed"
@@ -2306,7 +2306,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/napa-valley-wine-route.md",
-      "sha256": "bacff4a7191c4a1e49fab93e2d6489a8fb0a9aac0a8ec17b92b5de0fc8d843ea",
+      "sha256": "fd8c2be0740871c7e3f9881dd41ff1047e34ff86081d6b87077ca294ab446822",
       "id": "route:napa-valley-wine-route",
       "lang": "en",
       "status": "reviewed"
@@ -2370,7 +2370,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/rioja-haro-bodegas.md",
-      "sha256": "b98c1bd3384384feb7eb28e514b025da6d35ce15250b02c0927a805222a38c9e",
+      "sha256": "a093330c5c363aa9118447c8ac62637fdd46c21cf36344bd28563e4589ab5164",
       "id": "route:rioja-haro-bodegas",
       "lang": "en",
       "status": "reviewed"
@@ -2410,7 +2410,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/sonoma-county-wine-route.md",
-      "sha256": "2ff2dd4fba109020083bbdc27348fc904c1a8fb8bf169fafd7bead0d255ecf97",
+      "sha256": "66c50f75ca231449a91030dee77da83d1f10a0aff837fd2bd9a2a93a74c527be",
       "id": "route:sonoma-county-wine-route",
       "lang": "en",
       "status": "reviewed"
@@ -2418,7 +2418,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/speyside-malt-trail.md",
-      "sha256": "950d043b97490f2093ff4c3fc4cb07cf79470a802f6ac6debd622189f9103e18",
+      "sha256": "9d858d042ad331b9112246334acd971d9e3e2389f8f28051e88342849e0d65ed",
       "id": "route:speyside-malt-trail",
       "lang": "en",
       "status": "reviewed"
@@ -2482,7 +2482,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "en/route/willamette-valley-wine-route.md",
-      "sha256": "e15deb349aa4f5d74325d88a4fdcb503384333259d458fc7c9ebb16838fa1985",
+      "sha256": "9721cea8abe0da01a3aad48dcf9231f251de41125d8296ded458a6b8922a5f33",
       "id": "route:willamette-valley-wine-route",
       "lang": "en",
       "status": "reviewed"
@@ -2610,7 +2610,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/event/tsingtao-beer-museum-beer-festival-2026.md",
-      "sha256": "e4d9cde6f04788d7c7a0bcb94ae61d8a815dea598a8eab7fad97163ab09a4222",
+      "sha256": "2c7eaa1324a3a75fe7315082890a925241e1cbae5c2efbedeae7d8dd0080e5e4",
       "id": "event:tsingtao-beer-museum-beer-festival-2026",
       "lang": "zh",
       "status": "reviewed"
@@ -2650,7 +2650,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/al-bicerin-torino.md",
-      "sha256": "d64a22fa0ae73e0e1b4bc44d0f624540c7b95d8130c7f8053445dcd38f88e27c",
+      "sha256": "fd61e05014da44f00ef7ebd045ad51dc1f801e664b2a9ce6014d36549f2fea6c",
       "id": "place:al-bicerin-torino",
       "lang": "zh",
       "status": "reviewed"
@@ -2978,7 +2978,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/caffe-san-carlo-torino.md",
-      "sha256": "f85e70c581b75e6d763ef5c457710e5862e584e1bb7f66700ed84dcc7b9645fa",
+      "sha256": "ab1f49ed6290ba9ae2f28c6538640dcea1bd7f2c5f5fc4d5422924e9dac1953f",
       "id": "place:caffe-san-carlo-torino",
       "lang": "zh",
       "status": "reviewed"
@@ -3130,7 +3130,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/chateau-montelena.md",
-      "sha256": "9f762ae420786a8a92b1b2409a2132f88679ef4ff5b5e505bfed0239594556df",
+      "sha256": "bc072ad6f3889c2017d0a4dc17a5bb76bdd22b723347ebfb27a9fd799ed6946f",
       "id": "place:chateau-montelena",
       "lang": "zh",
       "status": "reviewed"
@@ -3186,7 +3186,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/cloudy-bay.md",
-      "sha256": "30a478a4dc6bb8993552fece7ae691e2ef028f4e3757132cb37f94dc582c864d",
+      "sha256": "015cc23d773a5770f7551f754676d32bddd67400653fe98a634f876388f9af2b",
       "id": "place:cloudy-bay",
       "lang": "zh",
       "status": "reviewed"
@@ -3202,7 +3202,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/coulee-de-serrant.md",
-      "sha256": "5fa64c56c1902cd34675a00addfa98d18c305cbf916931796290fd7d13709b90",
+      "sha256": "fd64331b185fdea1d79b533161f1b84da095b8d7fe796d1713d430655cd6d38c",
       "id": "place:coulee-de-serrant",
       "lang": "zh",
       "status": "reviewed"
@@ -3218,7 +3218,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/dalwhinnie-distillery.md",
-      "sha256": "d5ae3a281e86d5732cd251fb3b4a5758e92d95f4cf519f7107bd5574f37cb191",
+      "sha256": "594f5b058b5db4a07ef8b20a5e69cb790445f05626aad32e8643c1205c054b63",
       "id": "place:dalwhinnie-distillery",
       "lang": "zh",
       "status": "reviewed"
@@ -3290,7 +3290,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/domaine-drouhin-oregon.md",
-      "sha256": "b338eff6d190b54bc6b2ec4b9518a2c611c2ce4fcbba3e1f47a689f08d1f8f49",
+      "sha256": "ac6045935afac6dd260e87f8ac36c9115aa5b76a611059f8e45f4180524c7ecb",
       "id": "place:domaine-drouhin-oregon",
       "lang": "zh",
       "status": "reviewed"
@@ -3322,7 +3322,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/domaine-weinbach.md",
-      "sha256": "2d0a5c76cd4159399206978b4f3adecad190a52f84498281f7dadc40fec3570d",
+      "sha256": "2e8ccb6cf64476d3bbeab8978e8d882291d0ef65ab8d47ee53172f1318a2a979",
       "id": "place:domaine-weinbach",
       "lang": "zh",
       "status": "reviewed"
@@ -3362,7 +3362,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/egon-muller.md",
-      "sha256": "a691d16f2159068de84ae412d913c5f092cf8c2614a9f6e8e536c94a6b3742a5",
+      "sha256": "5a2ac1d03565489d2de24ace5295aad31a405a5e07ddae26085ce86086771e99",
       "id": "place:egon-muller",
       "lang": "zh",
       "status": "reviewed"
@@ -3402,7 +3402,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/eyrie-vineyards.md",
-      "sha256": "25c6cd2fed2ebb11a674abc4e810cd715a57d8fe884f010430e904b749824ceb",
+      "sha256": "8a7dec6b42e06cfec561bb4d86f7cbde65811171fd42e42a2ca3751f0641829e",
       "id": "place:eyrie-vineyards",
       "lang": "zh",
       "status": "reviewed"
@@ -3410,7 +3410,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/fattoria-felsina.md",
-      "sha256": "18ada035ada23bd2bf5f4f524119d12e809eb2ee20c889d65ac8c4fc4ca00cb6",
+      "sha256": "08f24caad5fc21e5726c96b2edff447ef87e83b3ad54bcf74f878b3443305b82",
       "id": "place:fattoria-felsina",
       "lang": "zh",
       "status": "reviewed"
@@ -3418,7 +3418,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/fenjiu-museum.md",
-      "sha256": "f2468014884b01db38980757c65bd78d86ac66bcb0aa7dc8e5234efcd03f864e",
+      "sha256": "01238d9d1c203befaccac4f3bb150e03aef7d04c5ed62892e936f290629c709f",
       "id": "place:fenjiu-museum",
       "lang": "zh",
       "status": "reviewed"
@@ -3490,7 +3490,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/glenfiddich-distillery.md",
-      "sha256": "d4b10bd68a5527f8c6e176a280dbd7a98c94dc4a55b900ef90b6c76cfc9526ca",
+      "sha256": "417355734a768524ce050eb1b8364d627a6ee6cd08bc2fdc57a1e34ff83d67d5",
       "id": "place:glenfiddich-distillery",
       "lang": "zh",
       "status": "reviewed"
@@ -3498,7 +3498,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/glenlivet-distillery.md",
-      "sha256": "1165c91c7c8e43c56ced05e04cb3b1517a2d2f10824e9f6a6a5cd9ef221c6bf9",
+      "sha256": "d2d61c90ac8aa66ea96b88889d35ec788872477221a423f36f2adca04221c339",
       "id": "place:glenlivet-distillery",
       "lang": "zh",
       "status": "reviewed"
@@ -3594,7 +3594,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/harrys-bar-venice.md",
-      "sha256": "fc8b51254692c2ff3d9a199fb0d4b9dbe72741b70dcae0800911456cba075684",
+      "sha256": "0bcab7ab56f77f6adcb94b0a4489a7b20faf9d778ee5fa6643407924178a9fb0",
       "id": "place:harrys-bar-venice",
       "lang": "zh",
       "status": "reviewed"
@@ -3674,7 +3674,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/hugel.md",
-      "sha256": "08c97d53bd886ba9c847bb1bb9558f4b34bc400a55093b46f808edd0a21c9e0b",
+      "sha256": "3f220789d0b327657efac3d25b8d3d154e693f795cb8d561ed4a717deea643e9",
       "id": "place:hugel",
       "lang": "zh",
       "status": "reviewed"
@@ -3722,7 +3722,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/jordan-vineyard.md",
-      "sha256": "6dfd643f292469432383b35802469614af4054317e534277bb0de8e460f092f6",
+      "sha256": "ae2386d4f0dbb2770aab4d35c86c332f61009ac0d5d2723b9261d7a2d5c5678f",
       "id": "place:jordan-vineyard",
       "lang": "zh",
       "status": "reviewed"
@@ -3802,7 +3802,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/la-bodeguita-del-medio.md",
-      "sha256": "24f0bc785d76c1b525a244f20c0db78b2e15cb0f7a6b4bc433feb2f5d72ed923",
+      "sha256": "27d53e44ce66cb8393e41a16471d2b0959b9d4eaf3fe10d4f9700c0f8547f3bd",
       "id": "place:la-bodeguita-del-medio",
       "lang": "zh",
       "status": "reviewed"
@@ -3866,7 +3866,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/leeuwin-estate.md",
-      "sha256": "898ac7587fb22d5c183c7f4ee61adf641e66069ccd29d563335d20a0203c61c5",
+      "sha256": "95c0505e6a9943503bd68813c2a0a68ba1c60bd3135461ec78a1cc7b76e56b76",
       "id": "place:leeuwin-estate",
       "lang": "zh",
       "status": "reviewed"
@@ -3978,7 +3978,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/monastery-of-poblet.md",
-      "sha256": "9e9bdf39fef0be93ab425c75017ad3f3e1fd031a67740237459560918fe1631f",
+      "sha256": "28a54231e52166b580586ddee1036eac5eb92fd2997aad34e945f87f4213e6f2",
       "id": "place:monastery-of-poblet",
       "lang": "zh",
       "status": "reviewed"
@@ -4050,7 +4050,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/opus-one-winery.md",
-      "sha256": "b8d7b606b2ae65a169b0b35bfc150dc03d46512da12ef7a42c2e5db961be5a82",
+      "sha256": "c121665c740a8d41fcebcc8b5eea147bdfd1d17913f3a3f4b9bf6ce544ae1df8",
       "id": "place:opus-one-winery",
       "lang": "zh",
       "status": "reviewed"
@@ -4098,7 +4098,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/quinta-do-crasto.md",
-      "sha256": "f27ac41204e0d8f8511606682be12d09e26499133246b63e7dda373e827583f3",
+      "sha256": "80ad6282391408e202687ee1bed38b8f5decde626947cf40f2369049c4459f81",
       "id": "place:quinta-do-crasto",
       "lang": "zh",
       "status": "reviewed"
@@ -4154,7 +4154,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/schlenkerla.md",
-      "sha256": "fc97b2a1d108d7a316b181f4bd35eb46a6c68b1f0666e7a5ed03d4bf62e64932",
+      "sha256": "2088479ca1281e84573546ee58215db78fbf48f67ecf111b34e8da573bdcf802",
       "id": "place:schlenkerla",
       "lang": "zh",
       "status": "reviewed"
@@ -4274,7 +4274,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/tsingtao-beer-museum.md",
-      "sha256": "833ce9137d0f8060621d181c79131cf168e50efa7579546108b74d8ad59f3dd3",
+      "sha256": "bede9d56402423d56828c52e5042c7be2c5fb413c14be9bfc9e686535a33e813",
       "id": "place:tsingtao-beer-museum",
       "lang": "zh",
       "status": "reviewed"
@@ -4282,7 +4282,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/tsingtao-beer-street.md",
-      "sha256": "1ba0b7520ee76e9cba84f2ee55812c437cb74d7f7a268fe0747dda64790d765f",
+      "sha256": "de207dfb7c185b30ea5b868c9bec39de8365bee6d279ab91343fa86f26f206e2",
       "id": "place:tsingtao-beer-street",
       "lang": "zh",
       "status": "reviewed"
@@ -4338,7 +4338,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/vasse-felix.md",
-      "sha256": "7acdfffca09de6f8a37d4633464e5e403ffe65abf7e5bd923bec964a4ed574b6",
+      "sha256": "064b118cec80d14f0d5fbc732a49e7fbfeb0977acb847699d9aeb1e7ff0040d7",
       "id": "place:vasse-felix",
       "lang": "zh",
       "status": "reviewed"
@@ -4362,7 +4362,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/weihenstephan-brewery.md",
-      "sha256": "36c8a2fc1c2168b77cc0707ab54056dc4e3fe9e645794b5fb793cfc50d16fb2a",
+      "sha256": "790f016b1ceecd7f2494ec63a53931eef1ec128d1202c0c974572821da39f68a",
       "id": "place:weihenstephan-brewery",
       "lang": "zh",
       "status": "reviewed"
@@ -4378,7 +4378,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/williams-selyem.md",
-      "sha256": "54b2074c2d5bb45eeaffd0d21b346ab06e7e74acf145231fa7d1dd52e7d7b5cb",
+      "sha256": "e2cadae12dafbdd6a26c0ba991509b7ba9b3c50ae8b577bf3ab8fdf7e7e46e4c",
       "id": "place:williams-selyem",
       "lang": "zh",
       "status": "reviewed"
@@ -4386,7 +4386,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/wirra-wirra.md",
-      "sha256": "7802d7b0f59d0378a86658798a0e27375fa7a811cf3a2633b914bcaf9508eb67",
+      "sha256": "19a26c31941f15947ee46f997ca87247be57a7c2b3920af643181a2c0ac79763",
       "id": "place:wirra-wirra",
       "lang": "zh",
       "status": "reviewed"
@@ -4474,7 +4474,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/place/yealands.md",
-      "sha256": "a6e06bd1ff1a1204733139dd7b7f3c96817595a23ae4081fefbd7a87037f6ac6",
+      "sha256": "2e5cc399e95cadc0aebf3bcb6117c1d9414790c7656fa6c36cb877ccb4fc2193",
       "id": "place:yealands",
       "lang": "zh",
       "status": "reviewed"
@@ -4498,7 +4498,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/alsace-grand-cru-trail.md",
-      "sha256": "619a2d8f1a71ab1f5d5e13809de6aa3e51925a69cbc9909d8f711136063baf80",
+      "sha256": "b53ac09e727c73c4be6d7db74faa87550b943277f8888ffa35a08de403a46d6d",
       "id": "route:alsace-grand-cru-trail",
       "lang": "zh",
       "status": "reviewed"
@@ -4594,7 +4594,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/cuba-rum-trail.md",
-      "sha256": "1b528d546994a30b507394c7b920207bf8e463800219e4170f5b06cbc88203bc",
+      "sha256": "3624a6740cd152d3d583bcb5b9faaba1df33f3abc83c204448c93a1cccee1a96",
       "id": "route:cuba-rum-trail",
       "lang": "zh",
       "status": "reviewed"
@@ -4698,7 +4698,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/london-gin-route.md",
-      "sha256": "8948f567511f26c38e729e282f4a2654f2f1d08dee820096da022dabd55ffb85",
+      "sha256": "9fa9c1c047f3335684585891a2de76666fd2971369e2de2fd82af1ad96c9fede",
       "id": "route:london-gin-route",
       "lang": "zh",
       "status": "reviewed"
@@ -4730,7 +4730,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/margaret-river-wine-route.md",
-      "sha256": "24b9cc2e4d67e15d31b5ca104a2506ceabe79d7217da385bc1e179c6e338760f",
+      "sha256": "57294695ffb4caef43215c53fc8fe17f6a359b1c903f4fe9685ce6473fe2073d",
       "id": "route:margaret-river-wine-route",
       "lang": "zh",
       "status": "reviewed"
@@ -4738,7 +4738,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/marlborough-wine-trail.md",
-      "sha256": "b2ff314a8948e68be71ce582807119f7a0a830498e0a203f5e11d595de84af5a",
+      "sha256": "6e379fc4a39a6ae515f326d63a1a9b88f3f42d29175643fd7988db8006fbc1b1",
       "id": "route:marlborough-wine-trail",
       "lang": "zh",
       "status": "reviewed"
@@ -4746,7 +4746,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/mclaren-vale-wine-route.md",
-      "sha256": "50e1487a920e7671f35e940766ee0d7e0e99fec365c887bad25ece6ac8c8546f",
+      "sha256": "afedf97f419025391d479a2367bd978e7bf5e4c209213c51c47ef91c7937817e",
       "id": "route:mclaren-vale-wine-route",
       "lang": "zh",
       "status": "reviewed"
@@ -4786,7 +4786,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/napa-valley-wine-route.md",
-      "sha256": "19dd2e10faa934c5f76e0dfb8b2bd0ccea33f259f0f47c46d2caedabae289516",
+      "sha256": "b86d900e2edb04433a5014b44495edcb6f8ee9cafb6fe225483d2ddae3be34f1",
       "id": "route:napa-valley-wine-route",
       "lang": "zh",
       "status": "reviewed"
@@ -4850,7 +4850,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/rioja-haro-bodegas.md",
-      "sha256": "7654f23ee8a26bba40d3be65efa873a9f8fa17b20e047a1eece2867c9b2b882a",
+      "sha256": "085745b24ca3fb0856558a9e48ca8b33dfb9fc755aa46797a7fc4963f055fd69",
       "id": "route:rioja-haro-bodegas",
       "lang": "zh",
       "status": "reviewed"
@@ -4890,7 +4890,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/sonoma-county-wine-route.md",
-      "sha256": "7305852b5ab3c1296cad5f0d822f881ec577bc14b61f10d563d5e04f0ceb0510",
+      "sha256": "96837a6775a4665dc5ef1359e834afb22d39a7cf46134213bea8ae1644919639",
       "id": "route:sonoma-county-wine-route",
       "lang": "zh",
       "status": "reviewed"
@@ -4898,7 +4898,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/speyside-malt-trail.md",
-      "sha256": "7dad000a53cb146c8e535aaf2cac61e6caa785443dc67fa1215f675f1be9ed21",
+      "sha256": "02a99887d4c0f98fae2d552913c3e096d57308a8ec652c7da2413bf3a0d243b7",
       "id": "route:speyside-malt-trail",
       "lang": "zh",
       "status": "reviewed"
@@ -4962,7 +4962,7 @@
     {
       "repository": "world-alcohol-encyclopedia/atlas",
       "path": "zh/route/willamette-valley-wine-route.md",
-      "sha256": "0d01c864cd053e29dd5e857450106849da9698c8b39c577e48b6088f43d04b72",
+      "sha256": "cd1cad9b4dc79cee4950dde9f02a07ed8b71f66f005f68bf4eb4fb496b174150",
       "id": "route:willamette-valley-wine-route",
       "lang": "zh",
       "status": "reviewed"
@@ -5074,7 +5074,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/brand/hongxing.md",
-      "sha256": "7522b1bb7a7bf5ee94a0914d477b4d53e1a18312daa7283cfa584cd96599bbf5",
+      "sha256": "20b74b9899fb23a16e63727d43c30e685f36766e9f60ae6a88a008b373502366",
       "id": "brand:hongxing",
       "lang": "en",
       "status": "reviewed"
@@ -5082,7 +5082,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/brand/huanghelou.md",
-      "sha256": "64ecf67497bdb87de10d90183b1211253d9baa64019a48174f58ad41cab38b6f",
+      "sha256": "ab733bb5ab37169f2549c5f5622645506f0ee2991f33ef56c384ed9d741c93b5",
       "id": "brand:huanghelou",
       "lang": "en",
       "status": "reviewed"
@@ -5162,7 +5162,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/brand/shed.md",
-      "sha256": "263ed5486b91e0259e864fcf66c35d29567cf9a723c20b8f854e8641858e0177",
+      "sha256": "83089425ff1298bc5e8d92d76ac6a36b7d944db3bb98fdedd9f1ea67be3e00f1",
       "id": "brand:shed",
       "lang": "en",
       "status": "reviewed"
@@ -5754,7 +5754,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink-style/bacanora.md",
-      "sha256": "01ef73aa4943042eb273418c9dce8c40757287066bc63668fab41a4d5e0727e7",
+      "sha256": "0311d8489be978b2fca4b66e1fcf1e6e565c28f0c61dda507cc6beb1e185e5b0",
       "id": "drink-style:bacanora",
       "lang": "en",
       "status": "reviewed"
@@ -5874,7 +5874,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink-style/california-common.md",
-      "sha256": "ed548bdad5667bd72d19931a3f8f30363f51327916f79b7364c76669f58a31e4",
+      "sha256": "9e82ada147d9336c4af7f9ffead8e8ec2c9e91a4874c751ed1319cc77faed1e0",
       "id": "drink-style:california-common",
       "lang": "en",
       "status": "reviewed"
@@ -6074,7 +6074,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink-style/gueuze.md",
-      "sha256": "94d5ff585d545101908211cd077143c3f63e7ae8d48a5727885eec3d850f424e",
+      "sha256": "3bbc827d5e6f764cafdbe82c98b5444076720d2fa7827981bd116a7e43a78a7d",
       "id": "drink-style:gueuze",
       "lang": "en",
       "status": "reviewed"
@@ -6122,7 +6122,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink-style/imperial-stout.md",
-      "sha256": "5a5698b379c0849973d95166b5753bc8c5bf1221c7c917142da3ae412923350e",
+      "sha256": "e4411261dce21ffdc80fafae70846c333c4039b530257d575228d674048d7c38",
       "id": "drink-style:imperial-stout",
       "lang": "en",
       "status": "reviewed"
@@ -6186,7 +6186,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink-style/laobaigan-aroma-baijiu.md",
-      "sha256": "fdc87e5b54fc37bf05b9b42bf885b6e03990d50ad678221f9bb7257df0607ac9",
+      "sha256": "5feb8803048b0f1e00379030d91cb1624fb146cd6571ca374a319663622bb3dd",
       "id": "drink-style:laobaigan-aroma-baijiu",
       "lang": "en",
       "status": "reviewed"
@@ -6226,7 +6226,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink-style/low-alcohol-beer.md",
-      "sha256": "35f93a84d8fd83038ecf0bd79045cf1b3a3565d73b640d55d4551e64e73fe42e",
+      "sha256": "2788ce9ecfb69266695ff7c98c8f8e04390973209455a3e510800c63c13971ae",
       "id": "drink-style:low-alcohol-beer",
       "lang": "en",
       "status": "reviewed"
@@ -6290,7 +6290,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink-style/navy-rum.md",
-      "sha256": "cc808fdb8e0276c423e3b6801648477405c03e54d4103a3e0dab52bd4510d22e",
+      "sha256": "3804ad44f49b772556ddca1e5fe08f34b8d7ee463357e03ee27005a633bd65e3",
       "id": "drink-style:navy-rum",
       "lang": "en",
       "status": "reviewed"
@@ -6626,7 +6626,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink-style/stout.md",
-      "sha256": "1fff8dc8f8c20cb11a71be3a8e79e25c0793204e05258b6bddce29f13507fae2",
+      "sha256": "25049d6208415b4577ae26f55d163c4632fa41ff81d013ef554e57f600a4e6ff",
       "id": "drink-style:stout",
       "lang": "en",
       "status": "reviewed"
@@ -6930,7 +6930,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink/france-brouilly.md",
-      "sha256": "dc9bda1f661088b31b017e7dbdd6c19eea564ce4223234978cd2e28b7e3ecf7c",
+      "sha256": "825b081c40cbd7b09b512f85189476ca7a61dd8c4ed399957e37165e647f8247",
       "id": "drink:france-brouilly",
       "lang": "en",
       "status": "reviewed"
@@ -7098,7 +7098,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink/france-cote-de-brouilly.md",
-      "sha256": "1d060b5b8084de7ca553296a048bb37fefb18e169e00b17021ed727e0ece1914",
+      "sha256": "ce14498c72d48a46cd42704ee5e7c8ac2b763f71590f3f96cc7325782bdfa484",
       "id": "drink:france-cote-de-brouilly",
       "lang": "en",
       "status": "reviewed"
@@ -7130,7 +7130,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink/france-cotes-du-jura.md",
-      "sha256": "b162fe7294ced0f4ab6b0612a456d35b92758035f03c1e88540bb447d75f6891",
+      "sha256": "381e55757953ccadc78615093c31ffcd69c3574667929a2fe51244d6180c7e79",
       "id": "drink:france-cotes-du-jura",
       "lang": "en",
       "status": "reviewed"
@@ -7138,7 +7138,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink/france-cremant-du-jura.md",
-      "sha256": "4a47ecf0d092244784effa4a0d31a1809836f04d59819d13629e1249bb19dcbe",
+      "sha256": "61ca2173b559aa3250ceb8732a9a19ec3219507f0d289319b849b93ec170eaac",
       "id": "drink:france-cremant-du-jura",
       "lang": "en",
       "status": "reviewed"
@@ -7306,7 +7306,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink/france-pauillac.md",
-      "sha256": "55c48ae6d427adaf9fa02f60ae1b50366b931375728ff32d1f9739aaf7a4d83c",
+      "sha256": "460440ead0f6c1fd262667ea591061adb940b31e7e5534ec3ab0640c956f1c1c",
       "id": "drink:france-pauillac",
       "lang": "en",
       "status": "reviewed"
@@ -7346,7 +7346,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink/france-regnie.md",
-      "sha256": "040f77be2d158482cc19c622f13eb119aa95134e0f40922e9ecd2c5c15aa75de",
+      "sha256": "49e9132af96fb0fea24ae04202a0de071a966d1979a6aee9d37b2842ed6245b9",
       "id": "drink:france-regnie",
       "lang": "en",
       "status": "reviewed"
@@ -7586,7 +7586,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink/hongxing-erguotou-blue.md",
-      "sha256": "9ab5d2e51d67ffc1be41a84c76d68abfaa7ebfbcce81ecbec31a6bd4705fa0f4",
+      "sha256": "fefcba0438aaff39fd821033e21d427d31f31e61e1be00c4bfc37b5fee851ae9",
       "id": "drink:hongxing-erguotou-blue",
       "lang": "en",
       "status": "reviewed"
@@ -7906,7 +7906,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/drink/shede-zhihui.md",
-      "sha256": "1b1f73f34a7a5ebff0f85a61e4d41c38952037d50f1806e88143ba87dfb336c8",
+      "sha256": "55ddb03bb816d15e30ad3fcda5c00922c136e0fa3e310fe2bb22bff64da01e2d",
       "id": "drink:shede-zhihui",
       "lang": "en",
       "status": "reviewed"
@@ -8290,7 +8290,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/process/fermentation.md",
-      "sha256": "6a5ef6f94754e59e210b2a88f3a1c763be5144130614ea8b508adef88d24b298",
+      "sha256": "267d9f72cb655d36b31608eb7607f05cbd194c78bb41a5588ffc7efe762ddd4f",
       "id": "process:fermentation",
       "lang": "en",
       "status": "reviewed"
@@ -8498,7 +8498,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/producer/huanghelou.md",
-      "sha256": "cfd9983ebadb1b9af509c1f439a94005c819b0f823d03b5f0c8e2d53bf358756",
+      "sha256": "b1fd672fe025aac0c3269d09e543670980abb6a5dd2a33920d796751ac94ce99",
       "id": "producer:huanghelou",
       "lang": "en",
       "status": "reviewed"
@@ -8570,7 +8570,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/producer/niulanshan.md",
-      "sha256": "5a7e5b9e41ab33ea06fda2ebbb72886457b2b701b18cb8f2c500698e485adcfa",
+      "sha256": "1b4c04997e609c6f3c5eef8e24574933293e2a6e879a990af6a9e2ccfc998a96",
       "id": "producer:niulanshan",
       "lang": "en",
       "status": "reviewed"
@@ -8666,7 +8666,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/alentejo.md",
-      "sha256": "cef0d936b0d0ab14d27d8d42ed1201a404d66b42fd1360222c1601ce55f90ac9",
+      "sha256": "4ac92fcba397210f71b0a62e65c99ab949d6dc172882fa95c7de9afe418420d9",
       "id": "region:alentejo",
       "lang": "en",
       "status": "reviewed"
@@ -8762,7 +8762,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/beaujolais.md",
-      "sha256": "0f8272df0c0945a48be143cb54b030dc1970edcf4e1b14579d41374a9c96c8a2",
+      "sha256": "2c458261b038aea851808a580b078a7ea82f1aceb26bac017f27b996ad73d73d",
       "id": "region:beaujolais",
       "lang": "en",
       "status": "reviewed"
@@ -9002,7 +9002,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/fenyang.md",
-      "sha256": "ebbfafb9b0a64798b3fac56d816edd821bf50893eed7414b14209d9b078b6580",
+      "sha256": "8c0992acdda2b5e8c091add69f393799d3f8dfbe893f9a5e463196327cae0e50",
       "id": "region:fenyang",
       "lang": "en",
       "status": "reviewed"
@@ -9218,7 +9218,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/jeju.md",
-      "sha256": "4f4acd3dee16b86b0ce59577f6399a050846b28285109a6711ac274ecd5feff5",
+      "sha256": "babdfae33998fb84affcf17fc064cccddfe105192f80e6464f211b81feafe481",
       "id": "region:jeju",
       "lang": "en",
       "status": "reviewed"
@@ -9410,7 +9410,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/napa-valley.md",
-      "sha256": "096c7b8e390474698293d7de8b7cb8b7ec06a8028034a59ad3f4bedfe00a082d",
+      "sha256": "f1951627e645968c5e874e20c8293d6c2b4310115a5d195c703a047095bf7e6f",
       "id": "region:napa-valley",
       "lang": "en",
       "status": "reviewed"
@@ -9618,7 +9618,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/rioja.md",
-      "sha256": "3174131c3ca6fde9b8fca9e21d8938cd1342b851d10498aa7bcb762d15837ae1",
+      "sha256": "b60d34a2ff9001a9ba6e9d6427015bf2f87dae0b2b0a059aa30de95706347308",
       "id": "region:rioja",
       "lang": "en",
       "status": "reviewed"
@@ -9626,7 +9626,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/rueda.md",
-      "sha256": "7de9bd481dd83ef9f2003a9b28c73e41e2977c7171a93bd89cc5d85ebe2dc01a",
+      "sha256": "d08e5041e200ba8c45b52fc951b6d06cc956aea8fa3ad800fa72cc384f4f7ef1",
       "id": "region:rueda",
       "lang": "en",
       "status": "reviewed"
@@ -9682,7 +9682,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/santorini.md",
-      "sha256": "17ac0f372f6a9fa15f58715a71ae05e403ada8b1486ac0cb716ea04ba618c4e1",
+      "sha256": "d678421b4bb2b95d02b8e979a76e8255843bc864385d931dcf0bda07c4739364",
       "id": "region:santorini",
       "lang": "en",
       "status": "reviewed"
@@ -9842,7 +9842,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/tasmania.md",
-      "sha256": "947aac77fbe94c5ac3ad62b723a9a58033cc5bd66c392890448dcf6fe4254e9e",
+      "sha256": "56524b44a9853229644610f06317d6b1d997c88a7835bb7ba6b7bf4c45418f07",
       "id": "region:tasmania",
       "lang": "en",
       "status": "reviewed"
@@ -9850,7 +9850,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/tennessee.md",
-      "sha256": "961fdf85f1aab5e59b7ed3fd1ac35b3270421d6f155fe999c84d4f7de8eec3c7",
+      "sha256": "fe7e3d723f36dbd7d1c9300024dc90d712db7b526479c3ba06eedf1db622b38f",
       "id": "region:tennessee",
       "lang": "en",
       "status": "reviewed"
@@ -9906,7 +9906,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/region/vaud.md",
-      "sha256": "d47a187cada99fe5003cb40c7ca5b19f6c7c2f1427bc26fc77cf59ba4918f2d1",
+      "sha256": "edb013950086dbba453a733662e0444559d2816ba5088bbbc8d6564ff535cfaa",
       "id": "region:vaud",
       "lang": "en",
       "status": "reviewed"
@@ -10026,7 +10026,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/standard/bordeaux-aoc.md",
-      "sha256": "afc65c66922bd711f253c5e34edf466fc65aadc927c9ba0a23ef93cf95eef762",
+      "sha256": "284fb45a45c4b758b876ef58461d3d16356a2c35c645e375c292d5945e9cac9a",
       "id": "standard:bordeaux-aoc",
       "lang": "en",
       "status": "reviewed"
@@ -10074,7 +10074,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/standard/eu-wine-regulation-1308-2013.md",
-      "sha256": "607341ef55b94d31b7c41b002c1c8202e5b37807c9dd5c321d2e2e3fa5335cf1",
+      "sha256": "5be4ba78a0aa2b4cd6155b2ff5293bebf46fb6bd30ae9efc65b2d3817ffeb558",
       "id": "standard:eu-wine-regulation-1308-2013",
       "lang": "en",
       "status": "reviewed"
@@ -10226,7 +10226,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/standard/reinheitsgebot.md",
-      "sha256": "37e2a37616e34080e035e3b42cb3946297cf13ef7a8c7b7a597e72d038937c52",
+      "sha256": "939b86b39be155fcc0b06cc5c0e6203ec1a9f0680e3bad7a763bbbefb08e8411",
       "id": "standard:reinheitsgebot",
       "lang": "en",
       "status": "reviewed"
@@ -10362,7 +10362,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/term/column-still.md",
-      "sha256": "440333274030efb95eba9db4867c7584f9cdc09b65e1d98c9e2eae04171af926",
+      "sha256": "62a6f5605057386f72c239f71888315c103af13817fa1a7ac83311f4e0a8586e",
       "id": "term:column-still",
       "lang": "en",
       "status": "reviewed"
@@ -10434,7 +10434,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/term/filtration.md",
-      "sha256": "fa6cc42733d864e263ae6d8c7af6ead955f0e35b886c73368cd5afaf6e1bc033",
+      "sha256": "3a0ac5ea7859298994fcde130e32963de62f3a5a20721aedbcdc41f26fe4c624",
       "id": "term:filtration",
       "lang": "en",
       "status": "reviewed"
@@ -10610,7 +10610,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/term/proof-and-abv.md",
-      "sha256": "13ef9729243a6443ddf8a61c7c32c81153543d1f5c26057673964641ea18e80d",
+      "sha256": "37f1c782c2f4992cb6e3d4944bede4775afd3d0ed47fa9f43c9366be8215cfbc",
       "id": "term:proof-and-abv",
       "lang": "en",
       "status": "reviewed"
@@ -11018,7 +11018,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/variety/pais.md",
-      "sha256": "c83669f000b4eb08edd6b79feea4117d9a2cce3c44b7f0333f533848e09732cc",
+      "sha256": "f24ca3b11205241e4a402feba4cabef387e117116c5d48a5ce53aa6a7ee50855",
       "id": "variety:pais",
       "lang": "en",
       "status": "reviewed"
@@ -11226,7 +11226,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "en/variety/trousseau.md",
-      "sha256": "eb005e31f8d88983aa4ba2ef9adb154496fa4819ae7b48950ea4aa80f306cd3a",
+      "sha256": "d2dbf8428647cad6807138831349dbfbe3e1069ee9011674ddd362d4114f94fd",
       "id": "variety:trousseau",
       "lang": "en",
       "status": "reviewed"
@@ -11378,7 +11378,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/brand/hongxing.md",
-      "sha256": "9372c4555d82a68f5d921f3096751f5798e45d441162fbdc7f2fc2a129d506ac",
+      "sha256": "521df7e7db894d5a4107e92ab41abdfed87b71e091a0b4cf521ce96246aa8fc4",
       "id": "brand:hongxing",
       "lang": "zh",
       "status": "reviewed"
@@ -11386,7 +11386,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/brand/huanghelou.md",
-      "sha256": "48953b5fc833eee4d9dfebdab2ee90ca28143742985656afa0065c7757ab15f7",
+      "sha256": "d5fcaa0ee94f230f257bee01575bfa6c8898979fc78607100c6911c15e2b06c0",
       "id": "brand:huanghelou",
       "lang": "zh",
       "status": "reviewed"
@@ -11466,7 +11466,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/brand/shed.md",
-      "sha256": "0626670b8b14abcb847ea78000124d2fdd624ee5afffd020b0b5125d6aa00578",
+      "sha256": "ddbef8c76d4efc3fceabb022779298378965ce5509ff83bcb9b7c1df1b3cccdc",
       "id": "brand:shed",
       "lang": "zh",
       "status": "reviewed"
@@ -12058,7 +12058,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink-style/bacanora.md",
-      "sha256": "2fd8a7d14a7ef0fc5ecb1df7be2626e5225038a68d10534400624f394dd7f1bc",
+      "sha256": "655f0612ab7cb72b617c0eb5ac216ff301781a15ead2c2e6b5485dd7c777452e",
       "id": "drink-style:bacanora",
       "lang": "zh",
       "status": "reviewed"
@@ -12178,7 +12178,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink-style/california-common.md",
-      "sha256": "11720dc03d5e519dece3af3a33a77058d02a1f6b38f57dfabe5727e56307b0e5",
+      "sha256": "2f83c90f041c07fc3fdb7fdde784206988139c144d3558214d8b165b0acb71c9",
       "id": "drink-style:california-common",
       "lang": "zh",
       "status": "reviewed"
@@ -12378,7 +12378,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink-style/gueuze.md",
-      "sha256": "7fd573d5eeee178df09e8d6d5a90de33203647137792f9659870832b9b303ab6",
+      "sha256": "6f129a3b7b9d1a6b8b16137036a89cdb9d9380190745d04bcb7a8adf85cdacce",
       "id": "drink-style:gueuze",
       "lang": "zh",
       "status": "reviewed"
@@ -12426,7 +12426,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink-style/imperial-stout.md",
-      "sha256": "195dd1867dec7201f04e80833cf9bd9bc2619f7b865cc6cdc740653d1e679d8f",
+      "sha256": "aaa0877c197439fd7cfad93a64b763ddd4c76591b40228f9427fca60b53b5ed2",
       "id": "drink-style:imperial-stout",
       "lang": "zh",
       "status": "reviewed"
@@ -12490,7 +12490,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink-style/laobaigan-aroma-baijiu.md",
-      "sha256": "c0e6b9c1a00570ee61955964769bbe82cac639a145dd6a9b9bf31936d8d1fb06",
+      "sha256": "4d812067f5cb10d298597905f2734c95786c6fc7ec25cb65e4f6115bb4dbaeb4",
       "id": "drink-style:laobaigan-aroma-baijiu",
       "lang": "zh",
       "status": "reviewed"
@@ -12530,7 +12530,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink-style/low-alcohol-beer.md",
-      "sha256": "1f1617b9681b81f098729466aec3fc8864b161377e8ee7890f983dad4f90c281",
+      "sha256": "a545c9314cc535259d079c031fdbd5c60b95a5f96f364ddf527fa2d140c7c910",
       "id": "drink-style:low-alcohol-beer",
       "lang": "zh",
       "status": "reviewed"
@@ -12594,7 +12594,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink-style/navy-rum.md",
-      "sha256": "99612987e6e96d52e1a390c2b9bdad25fa8802a05423b2414cac522c42bb3af3",
+      "sha256": "c8f7fb747f57fa93306c21583cfa2df61b18a383b945ab73b578a34f00ee2e0f",
       "id": "drink-style:navy-rum",
       "lang": "zh",
       "status": "reviewed"
@@ -12930,7 +12930,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink-style/stout.md",
-      "sha256": "2e5521252bc13817d1816b2bd27cd3ec030a254594d7af8aea9aabd6654754ce",
+      "sha256": "32aaa40a4e3568058878fc5fca4db19d72e1850281059385e95774851cac842e",
       "id": "drink-style:stout",
       "lang": "zh",
       "status": "reviewed"
@@ -13234,7 +13234,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink/france-brouilly.md",
-      "sha256": "0fe8b6dd6c356287bf533deaf2eae12da891d3316530d85c9801913f5a1a5d22",
+      "sha256": "baebe5ad44657869c40b0a0656b7c729fe1183d7b47139da300e36a079d39f1f",
       "id": "drink:france-brouilly",
       "lang": "zh",
       "status": "reviewed"
@@ -13402,7 +13402,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink/france-cote-de-brouilly.md",
-      "sha256": "3cb495335b2ae31600c3ce5b0433deded632f4ff878a31556a0ea4c11071913d",
+      "sha256": "6548932b2f143afb976e3c0e44b1d17af38f3dcbbf22f4359396f64c1b25a5c9",
       "id": "drink:france-cote-de-brouilly",
       "lang": "zh",
       "status": "reviewed"
@@ -13434,7 +13434,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink/france-cotes-du-jura.md",
-      "sha256": "6230d33ff45767626f8e66d5ae313826c6a38350408e0532804fc6d887f06429",
+      "sha256": "a771a57fa745253044b759ae56636b519b0dd2698b66e28c9a39085ed110a1ce",
       "id": "drink:france-cotes-du-jura",
       "lang": "zh",
       "status": "reviewed"
@@ -13442,7 +13442,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink/france-cremant-du-jura.md",
-      "sha256": "0f1fc9effecd64b3bb7e9a5d6ce4d910979dce8317f7e6193ebd7c06c47c9e9c",
+      "sha256": "c785f58ca7bf7799bf66a62d2eac13e0f8f44bdd26f2b5536965135e5e5a58c9",
       "id": "drink:france-cremant-du-jura",
       "lang": "zh",
       "status": "reviewed"
@@ -13610,7 +13610,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink/france-pauillac.md",
-      "sha256": "37d1c4e7aaefffe7aaf1dae09871e123f26d6ead2fe6b6e956644c1bb9f7e960",
+      "sha256": "7f067f696668bbe775898b274c7a3ddb6bc1ea3dc8a22c9f3a97391d03cc854c",
       "id": "drink:france-pauillac",
       "lang": "zh",
       "status": "reviewed"
@@ -13650,7 +13650,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink/france-regnie.md",
-      "sha256": "f7996101f2a0af9ba31169462ed722d65e78e2ff25707732f5e49b19049fa168",
+      "sha256": "5a5292fb20535668883b30a607c67ba7a1e360907205fe78d46443e35c4b8edc",
       "id": "drink:france-regnie",
       "lang": "zh",
       "status": "reviewed"
@@ -13890,7 +13890,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink/hongxing-erguotou-blue.md",
-      "sha256": "39822dcf173d5581132ad46240e86f311aa3e16cb301f6a21e90b8e6e7eea389",
+      "sha256": "d28b5f6cf09182c2c105b92d38249f50fb388c72b2581c0cdbca64ff754bf251",
       "id": "drink:hongxing-erguotou-blue",
       "lang": "zh",
       "status": "reviewed"
@@ -14210,7 +14210,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/drink/shede-zhihui.md",
-      "sha256": "38fade1a8580fbc47e3bfa670f0d26a7d7f4a60f7121c593b963e7ca1149d181",
+      "sha256": "883afc9d94839d180810876ee1ae04514176488a84c7c73c39dcf46a37ddd0b6",
       "id": "drink:shede-zhihui",
       "lang": "zh",
       "status": "reviewed"
@@ -14594,7 +14594,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/process/fermentation.md",
-      "sha256": "674ac2dae59f0a12719dcee0ac5f914af5c2b795bb1392803d487b16c01c2d85",
+      "sha256": "aeea0b8c0b574c0ea6cfb34bb6c4067c6d848f5ea9f29dbf5160dcd97bf04dcc",
       "id": "process:fermentation",
       "lang": "zh",
       "status": "reviewed"
@@ -14802,7 +14802,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/producer/huanghelou.md",
-      "sha256": "e4e7e5a53962876ad4e934f0761dc15eff08feebaeabf63e686b4956278c9506",
+      "sha256": "cbeb1b459cda8cafcb72c07877fa037f5f8ef736051e0a9df1d76343c609764f",
       "id": "producer:huanghelou",
       "lang": "zh",
       "status": "reviewed"
@@ -14874,7 +14874,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/producer/niulanshan.md",
-      "sha256": "bdaf1e1b7622326e3dbfb81ee00d663d147cd6d68f37345431b04277ce53833e",
+      "sha256": "e57d079c16921e868ece1fe36ccf786f3dc3686b6a83979f5e7a45da02b40564",
       "id": "producer:niulanshan",
       "lang": "zh",
       "status": "reviewed"
@@ -14970,7 +14970,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/alentejo.md",
-      "sha256": "a2bbd2833ddfd8dd291f266e7f5d84014b9f54b5a2c06bcb47df29a5921a24df",
+      "sha256": "28e81a169f52d78645a4b8a32dbf15501e4e61fd7135e6e5783214299f29a4e5",
       "id": "region:alentejo",
       "lang": "zh",
       "status": "reviewed"
@@ -15066,7 +15066,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/beaujolais.md",
-      "sha256": "0da88d3a7d6438c502bb9d10283837d679ece436162288b6be975bd9f5d4fe80",
+      "sha256": "73e59886ae49250de0d0bb20a931c8ec8374aac394b787f870be0c46bed76b7c",
       "id": "region:beaujolais",
       "lang": "zh",
       "status": "reviewed"
@@ -15306,7 +15306,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/fenyang.md",
-      "sha256": "2454b27b4ed53f6fe11d96cf3f241158f2a7b6a389160647a28d0d544649c8dc",
+      "sha256": "381eecc0ae619f72c209cbd111e4e1e79e70787dbebbb5edf23cd3c1bf29ead6",
       "id": "region:fenyang",
       "lang": "zh",
       "status": "reviewed"
@@ -15522,7 +15522,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/jeju.md",
-      "sha256": "c39bd82483f2f228753b7d2a0634f4bc020efc69aacea1ab3446f091b4fbe0e6",
+      "sha256": "e4ffca8f320eb268259104221a5c7c18f2ac7ac644b45d8c9a522732b0dd7302",
       "id": "region:jeju",
       "lang": "zh",
       "status": "reviewed"
@@ -15714,7 +15714,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/napa-valley.md",
-      "sha256": "06933d9881271fe89511a40dace320dfd4f968384cc578b11b9028dc66e8f9b0",
+      "sha256": "9af2b8c0a634dfe52c0702192d7e194d2e87e777117cea39216a32e6a707529f",
       "id": "region:napa-valley",
       "lang": "zh",
       "status": "reviewed"
@@ -15922,7 +15922,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/rioja.md",
-      "sha256": "1b3cd52d89db29a34f973558c599472c88a9f6549cb43230cad07c4788132fb3",
+      "sha256": "3097d63ded5801ca2c25a83c602751571158552baad38c5dce3489ddc10f0b07",
       "id": "region:rioja",
       "lang": "zh",
       "status": "reviewed"
@@ -15930,7 +15930,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/rueda.md",
-      "sha256": "06f8a7d80d343ef11c1f3568da98ff510f2a9678ed9cd13c25d12e974e039e83",
+      "sha256": "7635d105a44cd2a34ba6322d09e713813ca8dbb12197dd87baacba68a2d237da",
       "id": "region:rueda",
       "lang": "zh",
       "status": "reviewed"
@@ -15986,7 +15986,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/santorini.md",
-      "sha256": "04b58f45a8641295c48f17889b434386a34f5db0e154df4e2080cb41f8d37210",
+      "sha256": "dbb788b2bc52f5425a0e7681873b47df56fc77bffc546ce8b6acc80a0823b178",
       "id": "region:santorini",
       "lang": "zh",
       "status": "reviewed"
@@ -16146,7 +16146,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/tasmania.md",
-      "sha256": "9a7eff91b1b59c65f3342f8787408854c2b2b9307d3b8e3dc24122080334bb46",
+      "sha256": "010ccb84a32103a589e6707c88da7497c483a8c9cc6aab9735625f80ed146b1c",
       "id": "region:tasmania",
       "lang": "zh",
       "status": "reviewed"
@@ -16154,7 +16154,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/tennessee.md",
-      "sha256": "c85d682e61d0d393dfcf2ca9fd6e9fda555bf5052d225a5f319928dec45e54e1",
+      "sha256": "20d9844f7ad7300df71fe5e33fbe7ef411a31f7734debc05064406417c168a0a",
       "id": "region:tennessee",
       "lang": "zh",
       "status": "reviewed"
@@ -16210,7 +16210,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/region/vaud.md",
-      "sha256": "4a6c9908b69233cff868966448a8d562e46559b62f1cce410e448c276c1aab1a",
+      "sha256": "9815bae69cbebb4dfabba40e251f71183b344534a63297535d2c19877ec18097",
       "id": "region:vaud",
       "lang": "zh",
       "status": "reviewed"
@@ -16330,7 +16330,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/standard/bordeaux-aoc.md",
-      "sha256": "54c19809771c0639a8559ed155223a8c20ca7361b2c7cba05b36a1e97bc90c04",
+      "sha256": "b0dd85ca62cc8dc11200f68a5f1bcbd7607040b829a731f1a1cc4959d98b70f6",
       "id": "standard:bordeaux-aoc",
       "lang": "zh",
       "status": "reviewed"
@@ -16378,7 +16378,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/standard/eu-wine-regulation-1308-2013.md",
-      "sha256": "950327801d69487dbb4de659e6adda32e1e707ccc9afffb1915613540fbf948d",
+      "sha256": "4d3b7bab75f94458c25a6b69370a8f72844b897fc69628d5287387a3f368d008",
       "id": "standard:eu-wine-regulation-1308-2013",
       "lang": "zh",
       "status": "reviewed"
@@ -16530,7 +16530,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/standard/reinheitsgebot.md",
-      "sha256": "2949cf7fd91398a712246a7a06473f0ebbdd1692826762398923c279c6208433",
+      "sha256": "9cae49a3316152ef3c755c439bb2c33f6179e9feee9ef93e37bde014b1ac4e9e",
       "id": "standard:reinheitsgebot",
       "lang": "zh",
       "status": "reviewed"
@@ -16666,7 +16666,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/term/column-still.md",
-      "sha256": "1f24ec14ab63f136ef886cb04026d6c111497033265eeed9e4fccd1bc6ebf52b",
+      "sha256": "efdc2e7bd71d0e7d89098c5cb6e73db2887583ec59dc92552d69dea2d2415877",
       "id": "term:column-still",
       "lang": "zh",
       "status": "reviewed"
@@ -16738,7 +16738,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/term/filtration.md",
-      "sha256": "7c212839495ef266f45c04851bbe574b1440ea11fc334ec2f9ce2a9845f53947",
+      "sha256": "157445c9b3c3f9123d7c9373fd7e10836c8ee554f7afb52c47f4f6e5a0b3e855",
       "id": "term:filtration",
       "lang": "zh",
       "status": "reviewed"
@@ -16914,7 +16914,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/term/proof-and-abv.md",
-      "sha256": "9e8012599b87598fd1a45d9b39260bc8b985d7a1b810e0c20ae9c23c28270282",
+      "sha256": "2831bd8f084aabd5f64ac6a87938eb3c114a730e6a374d502a85830ae8345049",
       "id": "term:proof-and-abv",
       "lang": "zh",
       "status": "reviewed"
@@ -17322,7 +17322,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/variety/pais.md",
-      "sha256": "28b893a2c91218cb8a13d6e5ca13d6a9dae537e4ddd8771a7ce907fc4a9940d4",
+      "sha256": "e3c81ed70cba16776d45dffcfbc543f9c745721a168a07b30bb5d925b5a8a256",
       "id": "variety:pais",
       "lang": "zh",
       "status": "reviewed"
@@ -17530,7 +17530,7 @@
     {
       "repository": "world-alcohol-encyclopedia/beverages",
       "path": "zh/variety/trousseau.md",
-      "sha256": "b7ce6ec472c1b7d537d196a1186233e8353ac59157b5ad9996452536296da279",
+      "sha256": "708c1436736e8eba67153ab2a1d4db564b5abfead26f43ae1435c8319025eed3",
       "id": "variety:trousseau",
       "lang": "zh",
       "status": "reviewed"
@@ -17626,7 +17626,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/article/history-of-taverns.md",
-      "sha256": "10c9dbc63ba57296b3d5373e508f033d7dd35fc1f85e42f498b34267541ba7c8",
+      "sha256": "a1e342358430029db49888a4a8e29e6553e67a7a7bfd391f571b3bbff5f79b68",
       "id": "culture-article:history-of-taverns",
       "lang": "en",
       "status": "reviewed"
@@ -17674,7 +17674,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/article/prohibition.md",
-      "sha256": "604cd75501a1de7be6372c7b0c317b16aec46bd7d9c960f1312007b6f69fa7c1",
+      "sha256": "e6d4de55a31117af4405947947d5c8df3dbb0954efb2e0a8e03afd6e16687e24",
       "id": "culture-article:prohibition",
       "lang": "en",
       "status": "reviewed"
@@ -17946,7 +17946,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/book/imbibe-book.md",
-      "sha256": "a8760a09f08733899a4bf30069d45546335989d8d5ba084842fcd1a993c61708",
+      "sha256": "9ff5d156f0641724711a37f34a734f92333bb255b423f9a6992e660489a5e9de",
       "id": "book:imbibe-book",
       "lang": "en",
       "status": "reviewed"
@@ -17962,7 +17962,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/book/jiujing.md",
-      "sha256": "7d743caa4f02b4bea0895e8b692cae4252315a65ce83c27cc046787cd76c8373",
+      "sha256": "07aa79efb102ff29a5c0015a68e3246eaf0ddc70db6a7fa6155b161f56bee212",
       "id": "book:jiujing",
       "lang": "en",
       "status": "reviewed"
@@ -18010,7 +18010,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/book/savoy-cocktail-book.md",
-      "sha256": "534622b81deaeeee9cebec5b95412a37ab44be61d09ccd599685e2afa9afdcfa",
+      "sha256": "51f4dd61f5da881eac6689a3e441ee72804ec247f285c59ec597f62056eaa499",
       "id": "book:savoy-cocktail-book",
       "lang": "en",
       "status": "reviewed"
@@ -18082,7 +18082,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/book/world-atlas-of-whisky.md",
-      "sha256": "ace9f70d692bf0140b78191acfa32bdb23b6e6ecdc68a2fc6c00087e0d56285a",
+      "sha256": "5e9187298a95770d654071f9ce41ad3525aef8b14b6bc1036bf120c126191591",
       "id": "book:world-atlas-of-whisky",
       "lang": "en",
       "status": "reviewed"
@@ -18322,7 +18322,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/historical-event/craft-beer-revolution-1978.md",
-      "sha256": "d57f3fca6fe9b9a8f8346855ffc8e40218cedee8bf6e4ebe5ea0634bb22eb7cc",
+      "sha256": "0a2830ff06faa410916198b15434aac9c9d6fc7f5483af5c6824e2fe18d582b4",
       "id": "historical-event:craft-beer-revolution-1978",
       "lang": "en",
       "status": "reviewed"
@@ -18394,7 +18394,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/historical-event/korean-soju-modernization.md",
-      "sha256": "27e62f38b112367b9299dcfd677a163832fb1623aca4989c650e4e17babfaf52",
+      "sha256": "fffd3a5a1a60a7393b0234912e9e4a9bf5912110a8f5ca4ba0e377620b8f8bca",
       "id": "historical-event:korean-soju-modernization",
       "lang": "en",
       "status": "reviewed"
@@ -18458,7 +18458,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/historical-event/qingdao-brewery-founded-1903.md",
-      "sha256": "6f0e492e90f1bbd0878e691c4fb9f64d74928b01f2f32e09413d59e858f11015",
+      "sha256": "14dd7596611655d5204261a933e1896e70a37842da6991d1aa07afbbe2c003ed",
       "id": "historical-event:qingdao-brewery-founded-1903",
       "lang": "en",
       "status": "reviewed"
@@ -18570,7 +18570,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/organization/brewers-association.md",
-      "sha256": "60c6073ef7647fffa5825b84d34147aa58d4189709db67072d13223f179e5e9c",
+      "sha256": "5462ae1d6a222ca9b05ba1dd480cc7899c7301ac3ed61db9dee7fbb04a3fcd2c",
       "id": "organization:brewers-association",
       "lang": "en",
       "status": "reviewed"
@@ -18706,7 +18706,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/organization/scotch-whisky-association.md",
-      "sha256": "124186e27405ed023492401be3914bcf6f3e039defaeecfb07e2a1b4d871a5b4",
+      "sha256": "d3f1e93089817bde60c98923758e80d009311d9bda36ff7061f9c9a9f86526b5",
       "id": "organization:scotch-whisky-association",
       "lang": "en",
       "status": "reviewed"
@@ -18762,7 +18762,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/person/andre-tchelistcheff.md",
-      "sha256": "a3c5e6cfa4201c9a48443eecf6e8352f060308e6aa0f11b847ed77b6987c84ed",
+      "sha256": "7ab84c8f6c0cc5033b59cf46b4e4ffe247f5ee7746cfd32a07ec0cdc52bc28e4",
       "id": "person:andre-tchelistcheff",
       "lang": "en",
       "status": "reviewed"
@@ -18770,7 +18770,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/person/angelo-gaja.md",
-      "sha256": "8f85b03cb75350f277a1e1d7605dd4619ede710dae9fd6b6f84237d4d7e81ca9",
+      "sha256": "b72be0e1588cc8f19edeb1bdcb31d6c6dd72df759a5b90038d21b1f6db3b1fc1",
       "id": "person:angelo-gaja",
       "lang": "en",
       "status": "reviewed"
@@ -18778,7 +18778,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/person/arthur-guinness.md",
-      "sha256": "882c69b58284068cb966c8388cac0fa5dccf0e42d364657b97aa5d2dbef27141",
+      "sha256": "ef6ddcc8f57a3c66bf3607a38f404ebfc88730236b1113d94f90c151beebbbec",
       "id": "person:arthur-guinness",
       "lang": "en",
       "status": "reviewed"
@@ -18930,7 +18930,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/person/giacomo-conterno.md",
-      "sha256": "5f41d28bc0ad8249c2a3e938cf1c0fbbbce879fc5b2e7b30ee3ccabe2df0d099",
+      "sha256": "a5b7a2152ccb4cc97195333bdea5e758939c472dc511111052aec19b7fad36a1",
       "id": "person:giacomo-conterno",
       "lang": "en",
       "status": "reviewed"
@@ -18970,7 +18970,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/person/jack-daniel.md",
-      "sha256": "efd7720eebaa41294eb65e9e2d6860747c44974f3191d4229b3e3fd325b969ac",
+      "sha256": "c50193d4fb1f4d681d0c4036c4e57f7e75692e76a14ef369bf7a3294d5842863",
       "id": "person:jack-daniel",
       "lang": "en",
       "status": "reviewed"
@@ -19170,7 +19170,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/person/philippe-de-rothschild.md",
-      "sha256": "54f25d18330778f1d0170c0f5542f9cc888362bdaef73d4a612fa11d1b068d01",
+      "sha256": "08d0009dbd3150e502f6fc46fa4bea7696b74fd858574f2b055098483a1690e9",
       "id": "person:philippe-de-rothschild",
       "lang": "en",
       "status": "reviewed"
@@ -19186,7 +19186,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/person/qin-hanzhang.md",
-      "sha256": "e3ca7f5b4133893b981b033eda13e3f327001bfc2c4a2e36d13dd8183665580f",
+      "sha256": "7dd654a90e81ad52368343a102442a3de5159c89b0f75fca7ec95b282ed64349",
       "id": "person:qin-hanzhang",
       "lang": "en",
       "status": "reviewed"
@@ -19242,7 +19242,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/person/torii-shinjiro.md",
-      "sha256": "fdb9f7c484b108215f3fb7f982f8ef8e4120e927ef7020636f3107d6527f8448",
+      "sha256": "4a7b9d7a3ab3f3fd73476d16f0524d69ca0ece4699086871bae215d12ca213e6",
       "id": "person:torii-shinjiro",
       "lang": "en",
       "status": "reviewed"
@@ -19410,7 +19410,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/poem/li-qingzhao-ru-meng-ling.md",
-      "sha256": "4091c588feeccb1ca046d89e97f753146c39e03004a240596163f5afe79dd09d",
+      "sha256": "3628a42650a018003f64a77aa3b2d0ff414bc7fe635bc6fac7edf042ba6a76c6",
       "id": "poem:li-qingzhao-ru-meng-ling",
       "lang": "en",
       "status": "reviewed"
@@ -19554,7 +19554,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "en/poem/xin-qiji-xi-jiang-yue-qian-xing.md",
-      "sha256": "3aeafa9c5bd0b45025144640bf2890926db43c406cc66f4393fe3fd373221704",
+      "sha256": "501cb585c591321c3bc4e97d819786c21fd4ec4fc852ecd137f742b6b7e6922f",
       "id": "poem:xin-qiji-xi-jiang-yue-qian-xing",
       "lang": "en",
       "status": "reviewed"
@@ -19602,7 +19602,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/article/history-of-taverns.md",
-      "sha256": "d4a6126cc493676864bd3c8194e1a86f1ffb0e4e849a82f37bdfccd71856963d",
+      "sha256": "d58e76431c81d2064df02d0fab27403c4fb83991077c38aab88ba92ab5af68c3",
       "id": "culture-article:history-of-taverns",
       "lang": "zh",
       "status": "reviewed"
@@ -19650,7 +19650,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/article/prohibition.md",
-      "sha256": "ad4eb1b2aa03df28c1fd990a2298c0f8b09a93c532b0912205e117ad260433a3",
+      "sha256": "8c4b4660b954e31262b19822fc8871b93526d833c341aed76885fb21b41ea194",
       "id": "culture-article:prohibition",
       "lang": "zh",
       "status": "reviewed"
@@ -19922,7 +19922,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/book/imbibe-book.md",
-      "sha256": "a9cf4671ae715d68d6706809b990c42e699496ac8267fd07eb047b855bfc8945",
+      "sha256": "ca293fe4671db30123a77698c4014f1f07a194400879e5728e60844889ab9142",
       "id": "book:imbibe-book",
       "lang": "zh",
       "status": "reviewed"
@@ -19938,7 +19938,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/book/jiujing.md",
-      "sha256": "b26361d98d53aed0ebe61c253ff4ec11608f641367a888a7193a03850eae232a",
+      "sha256": "2dcf8a54d940955ab314cd35768c8c6e5460f851914c847d33c8b93e02cfbf3f",
       "id": "book:jiujing",
       "lang": "zh",
       "status": "reviewed"
@@ -19986,7 +19986,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/book/savoy-cocktail-book.md",
-      "sha256": "317f2dc66a111de9cb3a9c4dd0944963ae4a0997dd7dd21dba13a512dd487b7e",
+      "sha256": "66942ec3e8f4a79430950e412cd4d7e29f890884c0ca25feeeafc5bde8421466",
       "id": "book:savoy-cocktail-book",
       "lang": "zh",
       "status": "reviewed"
@@ -20058,7 +20058,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/book/world-atlas-of-whisky.md",
-      "sha256": "4d824593cfb700d1d106a9295395676f3ebce208e5c39317ffe8ee55c6792fbb",
+      "sha256": "1467cd4399349fc170bb4e9d33113e60d07c0bdca194485ddb7175ef07a8c986",
       "id": "book:world-atlas-of-whisky",
       "lang": "zh",
       "status": "reviewed"
@@ -20298,7 +20298,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/historical-event/craft-beer-revolution-1978.md",
-      "sha256": "d0eaa7661f1b39bedafda97054e5c8d0bc9d0613629c84ad228c1829a09c4736",
+      "sha256": "e612a3f2a166aff45e0d91aa9b510f49d80391ecca5001ebb138d1c406db37dc",
       "id": "historical-event:craft-beer-revolution-1978",
       "lang": "zh",
       "status": "reviewed"
@@ -20370,7 +20370,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/historical-event/korean-soju-modernization.md",
-      "sha256": "fcbb12f741e1f578cb015be0e18efeec42586dcdd7ce35df20143fff1b53d2a1",
+      "sha256": "9c73a7759adb2409bb05d983c6645bdca093a60825d605424aa2bc944cb75f3f",
       "id": "historical-event:korean-soju-modernization",
       "lang": "zh",
       "status": "reviewed"
@@ -20434,7 +20434,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/historical-event/qingdao-brewery-founded-1903.md",
-      "sha256": "68430e6dee1552fee1037bfe392f537081585f4d585f7782b3ef56ff97e7c515",
+      "sha256": "2782f8898e42a605aac95cb4c427b356e0b7dd428d11ec6c1c11e7ae46dd38b9",
       "id": "historical-event:qingdao-brewery-founded-1903",
       "lang": "zh",
       "status": "reviewed"
@@ -20546,7 +20546,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/organization/brewers-association.md",
-      "sha256": "c998bcd2eff61b60a80ab9bec01c001dea7efc3923d5d6192370e435a11150a6",
+      "sha256": "cf5b1e585e2b42dbbfa41b7fd6936a4ca50ffb2e25fba46bbf7af426832baa1a",
       "id": "organization:brewers-association",
       "lang": "zh",
       "status": "reviewed"
@@ -20682,7 +20682,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/organization/scotch-whisky-association.md",
-      "sha256": "1738be49bd663a95348b71171d0a1877a2c2877e2735dc72fc34ca3ee49d3d6d",
+      "sha256": "0416db47fc09555aecc224e3b2ff9a07b08894ff6b2c2ba7c86425d6d35389a4",
       "id": "organization:scotch-whisky-association",
       "lang": "zh",
       "status": "reviewed"
@@ -20738,7 +20738,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/person/andre-tchelistcheff.md",
-      "sha256": "8b8cdf44421df2b66bb07c4d98571d7f85ab2ebb3d077f97a74287d45a535f03",
+      "sha256": "453b4df80ad73eb59cab2ffa6ccfc9febabf631ba40bd697cc82004bb8653ee0",
       "id": "person:andre-tchelistcheff",
       "lang": "zh",
       "status": "reviewed"
@@ -20746,7 +20746,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/person/angelo-gaja.md",
-      "sha256": "241fa3959b2b6f09925a04246e8d4f732e0a468645de0a46eda13cc6a3144c34",
+      "sha256": "43bfd729d62cb6383647da69159abcb470295c468c2f04111f3a21bd4e1a8acb",
       "id": "person:angelo-gaja",
       "lang": "zh",
       "status": "reviewed"
@@ -20754,7 +20754,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/person/arthur-guinness.md",
-      "sha256": "5fb24d1e6ef6cdd85e8246e784655a81af209547cc8aaecdf1e5f398cd892af7",
+      "sha256": "052468fbd51a60d8d72a876679a1e7837ee5d8fa48a06c6096a8a2ba887a1bcf",
       "id": "person:arthur-guinness",
       "lang": "zh",
       "status": "reviewed"
@@ -20906,7 +20906,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/person/giacomo-conterno.md",
-      "sha256": "43a2d75dae2b78d59716885ca4c729f0c0c2b914199ee126742ade146dd05e68",
+      "sha256": "fa0fe708925fa7f897dbb8e2499d63a2b4ba2467ea0450d4b9c099b894b6e42d",
       "id": "person:giacomo-conterno",
       "lang": "zh",
       "status": "reviewed"
@@ -20946,7 +20946,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/person/jack-daniel.md",
-      "sha256": "3b9cdf9a87a3a2f62621fbc6a50123b80610007936d4849322af97c974fa2956",
+      "sha256": "3285e4cfaf28fd1f76b3404f343b5104211fb69133237a246a8d91ddf38f9f6a",
       "id": "person:jack-daniel",
       "lang": "zh",
       "status": "reviewed"
@@ -21146,7 +21146,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/person/philippe-de-rothschild.md",
-      "sha256": "1745e9941ade15a34af92b8242d012683ee16209dc8ad6212bdfe158aa6bc5f7",
+      "sha256": "339ce77e8db244702a1187f203c137f71d23b4ea21597be0c409f78d328e5c72",
       "id": "person:philippe-de-rothschild",
       "lang": "zh",
       "status": "reviewed"
@@ -21162,7 +21162,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/person/qin-hanzhang.md",
-      "sha256": "38884450a048278d1e7fdec4ac4dcef3dcc8b9a223977952e4b65a66c31d239c",
+      "sha256": "d02769359e1e72a1167eaa0332e1b995dcf028614d7c655bbb80a7767b65c621",
       "id": "person:qin-hanzhang",
       "lang": "zh",
       "status": "reviewed"
@@ -21218,7 +21218,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/person/torii-shinjiro.md",
-      "sha256": "b009350ea7af74b2b254c445144f3254a0bef8e47075ab6a4aa90aca79ab5331",
+      "sha256": "7ab71e8797ed0e90f3560d602082b2834d3d5eca03dadbd11c1d486f29781b8e",
       "id": "person:torii-shinjiro",
       "lang": "zh",
       "status": "reviewed"
@@ -21386,7 +21386,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/poem/li-qingzhao-ru-meng-ling.md",
-      "sha256": "34b2e42db31d0a724babbafb55b3f5366f0d71bcd076f15dadbd5e182edb4de7",
+      "sha256": "308d738a345319d376d0eb47a5cb8f05ec23341286ea4e1f976f2d9c9f022ffa",
       "id": "poem:li-qingzhao-ru-meng-ling",
       "lang": "zh",
       "status": "reviewed"
@@ -21530,7 +21530,7 @@
     {
       "repository": "world-alcohol-encyclopedia/culture",
       "path": "zh/poem/xin-qiji-xi-jiang-yue-qian-xing.md",
-      "sha256": "2df73f58783bccfc6a6c58ca25d183fa3727d2e9a2861c2739c2303934a7719c",
+      "sha256": "f1b868c70c9d624615f5e9725f0d33f00d6d6d8252d1fb518b0a283b70226ba4",
       "id": "poem:xin-qiji-xi-jiang-yue-qian-xing",
       "lang": "zh",
       "status": "reviewed"
@@ -21586,7 +21586,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/guide/craft-beer-freshness.md",
-      "sha256": "382e0710fcedda0805d913599ecbe04ff0a9215f41df8c24c5d707d08a390f0a",
+      "sha256": "29e60e70eb37fdda47141054305baa84d859009619bb17a4c9a9af8223ada2c3",
       "id": "guide:craft-beer-freshness",
       "lang": "en",
       "status": "reviewed"
@@ -22026,7 +22026,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/blind-tasting.md",
-      "sha256": "2e54fb86551bf2438c529640ef41f893c23ff605ae5201269446fa4591adb7d8",
+      "sha256": "3b275a8a15ebecbe20d0c04c4a6834128cf3bd5602349938961562d1a5ac9102",
       "id": "technique:blind-tasting",
       "lang": "en",
       "status": "reviewed"
@@ -22130,7 +22130,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/technique/sabrage.md",
-      "sha256": "8830cb5f8617777f0a79a593b245ba262026a9d7e457145007dadac94c3694eb",
+      "sha256": "280ab63ea0efae469bc5c2bc8cd5e094652141a8f732fd2e1e3c1886926c8f8c",
       "id": "technique:sabrage",
       "lang": "en",
       "status": "reviewed"
@@ -22242,7 +22242,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/tool/hydrometer.md",
-      "sha256": "8df56afc27b05091edf6479c503d609e673a4e2c3e875015ff3e6524cfb56175",
+      "sha256": "1befcc6dc490a265e5fd014e9e4ce2f0aa5eaa0972c19c621309a5080c17f720",
       "id": "tool:hydrometer",
       "lang": "en",
       "status": "reviewed"
@@ -22354,7 +22354,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/decanter.md",
-      "sha256": "c4ee013f17b4ba26b5109352de2c4869949cb9c577c623dea132097a301ebe68",
+      "sha256": "6e9d061bb1b9dbbb96b3e8b83a9d91caca2b4434234e1e9fcb128e4073ffeb2d",
       "id": "vessel:decanter",
       "lang": "en",
       "status": "reviewed"
@@ -22418,7 +22418,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/red-wine-glass.md",
-      "sha256": "995bfbe23e764d429b00017af5294708b0eabd4ff9b32412978e3f09f9aec39e",
+      "sha256": "aef4cd5aebd8d8c8abf15bbd012cb81d84506bd975e560c12dc834aa95d27c1c",
       "id": "vessel:red-wine-glass",
       "lang": "en",
       "status": "reviewed"
@@ -22482,7 +22482,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "en/vessel/white-wine-glass.md",
-      "sha256": "7cf52c9e85bf4870b30c7974b65976041e245c5691e501434760e3cf23c820d7",
+      "sha256": "a4259b19ebe73c02f1ecb5a0e0bf157f16b3587119fdaf4112d37e9b498de5e9",
       "id": "vessel:white-wine-glass",
       "lang": "en",
       "status": "reviewed"
@@ -22530,7 +22530,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "zh/guide/craft-beer-freshness.md",
-      "sha256": "8f7937caa77f588261cf606ca998dd9e35248160033867eeb60d7c7c07d734a0",
+      "sha256": "8bad2ec7e81dbfcf8d009b0aa079e8ec4c5306a41f72ae092410af7e7ae9eb0d",
       "id": "guide:craft-beer-freshness",
       "lang": "zh",
       "status": "reviewed"
@@ -22970,7 +22970,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "zh/technique/blind-tasting.md",
-      "sha256": "4403757976f603762fd4c3ae841725b65f86d5263940f646632ae004d7428648",
+      "sha256": "3f91fe0d84e0d6765ae5aff83380c59477715803298d13a5b53e359a8db5d638",
       "id": "technique:blind-tasting",
       "lang": "zh",
       "status": "reviewed"
@@ -23074,7 +23074,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "zh/technique/sabrage.md",
-      "sha256": "803c6337e97fd8505b4f260e1bb02affe2379a189cef1cb70ca8b2607fd0f123",
+      "sha256": "ffad6296cceed649227b7d8e61cf841bdc623868b6ba931897faea143a3c8971",
       "id": "technique:sabrage",
       "lang": "zh",
       "status": "reviewed"
@@ -23186,7 +23186,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "zh/tool/hydrometer.md",
-      "sha256": "10a1fa8ee227daf8bf944223d6e371d1bd88ef2dca1b8f68aed5af9d9fba65ef",
+      "sha256": "759dae25c411cd12b7b1f705a60bd6c4d94dd712dac376df6b41525eb70640e2",
       "id": "tool:hydrometer",
       "lang": "zh",
       "status": "reviewed"
@@ -23298,7 +23298,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "zh/vessel/decanter.md",
-      "sha256": "4b4bca85203f1d4a739096eb5a347be58632592f6df194c3e643619e930857d9",
+      "sha256": "3538b5b2a76d4ff53199d19b3040e8bd7673b7859b8df17e127f90336eaba430",
       "id": "vessel:decanter",
       "lang": "zh",
       "status": "reviewed"
@@ -23362,7 +23362,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "zh/vessel/red-wine-glass.md",
-      "sha256": "b962a3f66fde06262e47ed0962efd1442684b59101ae20fa743978a3e4db724a",
+      "sha256": "895edeae099bf28c94c9f63a908c4ae539e616268a5f45c26e7122886a8f68b1",
       "id": "vessel:red-wine-glass",
       "lang": "zh",
       "status": "reviewed"
@@ -23426,7 +23426,7 @@
     {
       "repository": "world-alcohol-encyclopedia/guide",
       "path": "zh/vessel/white-wine-glass.md",
-      "sha256": "75fbf11e6011a073cde8b07611984e266d4efbdbb6dd75697f72a7f09e01761f",
+      "sha256": "7009aae5ac5c8f746e71163b29bfbac1127e4ba527b59192084184df01ff033d",
       "id": "vessel:white-wine-glass",
       "lang": "zh",
       "status": "reviewed"
@@ -25573,7 +25573,7 @@
     "aggregateSource": ".hejiu/published/main.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "9c6f0781391d74aa0c7d1510366c0b4e2f03ea5ac6b65a76c7e754096eed643b",
+  "distTreeSha256ExcludingManifest": "da0623bb74be85b5acd6c4e5b2c219c66e6b0fbbd297c930287b1b2d347b2518",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
