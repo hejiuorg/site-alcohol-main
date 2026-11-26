@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T01:23:09.379Z",
-  "contentTreeSha256": "2f66438ab55fe1050b1b834717b4ac853d83cd829be9530989d0ac06c77c859e",
+  "generatedAt": "2026-11-26T07:09:07.103Z",
+  "contentTreeSha256": "f9c80967ba57bfa045d20aaa9e9bbae46b850609297f83ab911cf3bc9fccd3b4",
   "counts": {
-    "records": 2924,
-    "entities": 1462,
-    "publishedPages": 2924,
+    "records": 2936,
+    "entities": 1468,
+    "publishedPages": 2936,
     "previewPages": 0,
-    "sourceRecords": 2926,
-    "sourceEntities": 1463
+    "sourceRecords": 2938,
+    "sourceEntities": 1469
   },
   "entities": [
     {
@@ -1583,7 +1583,7 @@
           "path": "/brands/gujing-gongjiu/",
           "url": "https://beverages.hejiu.org/brands/gujing-gongjiu/",
           "title": "古井贡酒",
-          "summary": "产自安徽亳州的浓香型白酒品牌，以“年份原浆”系列知名，产品覆盖多个酒精度。",
+          "summary": "产自安徽亳州古井镇的浓香型白酒品牌，以“年份原浆”系列知名；产品覆盖古井贡酒、黄鹤楼等，常见度数从 38 度到 52 度，礼赠与宴席场景都常见。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
@@ -3473,7 +3473,7 @@
           "path": "/cocktails/paper-plane/",
           "url": "https://beverages.hejiu.org/cocktails/paper-plane/",
           "title": "纸飞机",
-          "summary": "以波本、阿佩罗、阿玛罗与柠檬汁等量摇制的现代经典，苦甜与柑橘平衡，呈粉橙色。",
+          "summary": "以波本、阿佩罗、阿玛罗与柠檬汁等量摇制的现代经典，苦甜与柑橘平衡，呈粉橙色；2008 年由纽约 Milk & Honey 的 Sam Ross 创作，是苦甜鸡尾酒的代表。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
@@ -13253,7 +13253,7 @@
           "path": "/drinks/sichuan-langjiu/",
           "url": "https://beverages.hejiu.org/drinks/sichuan-langjiu/",
           "title": "郎酒",
-          "summary": "产自四川古蔺赤水河畔的白酒品牌，兼有酱香与浓香产品，青花郎等酱香产品较为知名。",
+          "summary": "产自四川古蔺赤水河畔的白酒品牌，兼有酱香与浓香产品；青花郎、红花郎是酱香主线，郎牌特曲等覆盖浓香与宴席场景，产地与茅台镇隔河相望。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
@@ -14292,6 +14292,36 @@
       }
     },
     {
+      "id": "guide:baijiu-gift-1000-plus",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "baijiu-gift-1000-plus",
+          "path": "/guides/baijiu-gift-1000-plus/",
+          "url": "https://hejiu.org/guides/baijiu-gift-1000-plus/",
+          "title": "白酒送礼 1000 元以上怎么选",
+          "summary": "把千元以上的白酒送礼拆成关系、场景、价格带、酒体与渠道五个判断：先定送给谁、什么场合，再把预算放在可核验的酒体与来源上，而不是盒子或“内部酒”说法。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "baijiu-gift-1000-plus",
+          "path": "/en/guides/baijiu-gift-1000-plus/",
+          "url": "https://hejiu.org/en/guides/baijiu-gift-1000-plus/",
+          "title": "白酒送礼 1000 元以上怎么选",
+          "summary": "把千元以上的白酒送礼拆成关系、场景、价格带、酒体与渠道五个判断：先定送给谁、什么场合，再把预算放在可核验的酒体与来源上，而不是盒子或“内部酒”说法。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:baijiu-gift-300-800",
       "type": "guide",
       "siteKey": "main",
@@ -14682,6 +14712,36 @@
       }
     },
     {
+      "id": "guide:huangjiu-warm-serving",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "huangjiu-warm-serving",
+          "path": "/guides/huangjiu-warm-serving/",
+          "url": "https://hejiu.org/guides/huangjiu-warm-serving/",
+          "title": "黄酒怎么温、怎么喝",
+          "summary": "把黄酒温饮拆成温度、器皿、类型、配菜与保存五个判断：温到 40–50°C 左右而不是煮沸，按干型、半干、半甜、甜型调整，附水浴做法、加料与开瓶后保存。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "huangjiu-warm-serving",
+          "path": "/en/guides/huangjiu-warm-serving/",
+          "url": "https://hejiu.org/en/guides/huangjiu-warm-serving/",
+          "title": "黄酒怎么温、怎么喝",
+          "summary": "把黄酒温饮拆成温度、器皿、类型、配菜与保存五个判断：温到 40–50°C 左右而不是煮沸，按干型、半干、半甜、甜型调整，附水浴做法、加料与开瓶后保存。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:ice-and-temperature",
       "type": "guide",
       "siteKey": "main",
@@ -14832,6 +14892,36 @@
       }
     },
     {
+      "id": "guide:rum-categories-shopping",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "rum-categories-shopping",
+          "path": "/guides/rum-categories-shopping/",
+          "url": "https://hejiu.org/guides/rum-categories-shopping/",
+          "title": "朗姆酒分类与选购",
+          "summary": "把朗姆酒选购拆成原料、颜色、陈年、糖分与用途五个判断：白朗姆适合调酒，金朗姆与陈年朗姆适合纯饮，农业朗姆看甘蔗汁，海军与高度朗姆看强度与场合。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "rum-categories-shopping",
+          "path": "/en/guides/rum-categories-shopping/",
+          "url": "https://hejiu.org/en/guides/rum-categories-shopping/",
+          "title": "朗姆酒分类与选购",
+          "summary": "把朗姆酒选购拆成原料、颜色、陈年、糖分与用途五个判断：白朗姆适合调酒，金朗姆与陈年朗姆适合纯饮，农业朗姆看甘蔗汁，海军与高度朗姆看强度与场合。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:rum-intro",
       "type": "guide",
       "siteKey": "main",
@@ -14915,6 +15005,36 @@
           "url": "https://hejiu.org/en/guides/sake-kura-visit/",
           "title": "Visiting a Sake Brewery: Booking and Etiquette",
           "summary": "A sake brewery visit is not a walk-in attraction: distinguish a museum, a brewery tour and a tasting event, then check booking, access, language and tasting arrangements. Prepare in the order booking, arrival, what to see, what to buy and how to return, so you do not make a wasted trip.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:sake-storage-after-opening",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "sake-storage-after-opening",
+          "path": "/guides/sake-storage-after-opening/",
+          "url": "https://hejiu.org/guides/sake-storage-after-opening/",
+          "title": "清酒开瓶后怎么保存",
+          "summary": "把清酒开瓶后的保存拆成温度、光线、空气、类型与饮用窗口五个判断：冷藏避光、尽量少空气，纯米与吟酿通常 2–4 周内喝完，生酒与低酒精度更短。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "sake-storage-after-opening",
+          "path": "/en/guides/sake-storage-after-opening/",
+          "url": "https://hejiu.org/en/guides/sake-storage-after-opening/",
+          "title": "清酒开瓶后怎么保存",
+          "summary": "把清酒开瓶后的保存拆成温度、光线、空气、类型与饮用窗口五个判断：冷藏避光、尽量少空气，纯米与吟酿通常 2–4 周内喝完，生酒与低酒精度更短。",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -15042,6 +15162,36 @@
       }
     },
     {
+      "id": "guide:whisky-gift-budget",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "whisky-gift-budget",
+          "path": "/guides/whisky-gift-budget/",
+          "url": "https://hejiu.org/guides/whisky-gift-budget/",
+          "title": "威士忌送礼预算怎么分",
+          "summary": "把威士忌送礼拆成预算、类型、年份、包装与渠道五个判断：300 到 3000 元各有合适的选择，先看收礼人怎么喝，再决定单一麦芽、调和、桶强还是礼盒。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "whisky-gift-budget",
+          "path": "/en/guides/whisky-gift-budget/",
+          "url": "https://hejiu.org/en/guides/whisky-gift-budget/",
+          "title": "威士忌送礼预算怎么分",
+          "summary": "把威士忌送礼拆成预算、类型、年份、包装与渠道五个判断：300 到 3000 元各有合适的选择，先看收礼人怎么喝，再决定单一麦芽、调和、桶强还是礼盒。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
       "id": "guide:whisky-intro",
       "type": "guide",
       "siteKey": "main",
@@ -15065,6 +15215,36 @@
           "url": "https://hejiu.org/en/guides/whisky-intro/",
           "title": "Whisky for beginners",
           "summary": "A beginner's route into whisky, starting with single malt versus blended Scotch, a decision table for a first bottle, and notes on age, strength, serving and common myths.",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": "reviewed"
+        }
+      }
+    },
+    {
+      "id": "guide:wine-gift-budget",
+      "type": "guide",
+      "siteKey": "main",
+      "typePath": "guides",
+      "translations": {
+        "zh": {
+          "lang": "zh",
+          "slug": "wine-gift-budget",
+          "path": "/guides/wine-gift-budget/",
+          "url": "https://hejiu.org/guides/wine-gift-budget/",
+          "title": "葡萄酒送礼预算怎么分",
+          "summary": "把葡萄酒送礼拆成收礼人、预算、产区、年份与运输五个判断：200 到 3000 元各有合适的选择，先确认对方喝不喝，再决定红、白、起泡与包装。",
+          "status": "reviewed",
+          "published": true,
+          "translationStatus": null
+        },
+        "en": {
+          "lang": "en",
+          "slug": "wine-gift-budget",
+          "path": "/en/guides/wine-gift-budget/",
+          "url": "https://hejiu.org/en/guides/wine-gift-budget/",
+          "title": "葡萄酒送礼预算怎么分",
+          "summary": "把葡萄酒送礼拆成收礼人、预算、产区、年份与运输五个判断：200 到 3000 元各有合适的选择，先确认对方喝不喝，再决定红、白、起泡与包装。",
           "status": "reviewed",
           "published": true,
           "translationStatus": "reviewed"
@@ -21473,7 +21653,7 @@
           "path": "/places/cafe-central/",
           "url": "https://atlas.hejiu.org/places/cafe-central/",
           "title": "中央咖啡馆",
-          "summary": "维也纳历史悠久的文学咖啡馆，1876 年开业，以咖啡、蛋糕和知识分子顾客闻名。",
+          "summary": "维也纳历史悠久的文学咖啡馆，1876 年开业，位于市中心圣斯蒂芬大教堂附近；以咖啡、蛋糕和知识分子顾客闻名，是维也纳咖啡文化的代表场所之一。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
@@ -23363,7 +23543,7 @@
           "path": "/places/el-floridita/",
           "url": "https://atlas.hejiu.org/places/el-floridita/",
           "title": "小佛罗里达酒馆",
-          "summary": "哈瓦那老城的传奇酒吧，1817 年创立，以海明威、冷冻代基里和海鲜吧闻名。",
+          "summary": "哈瓦那老城的传奇酒吧，1817 年创立，以海明威、冷冻代基里和海鲜吧闻名；现为两层空间，吧台与餐厅分开，是古巴莫吉托与代基里文化的标志。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
@@ -24983,7 +25163,7 @@
           "path": "/places/la-bodeguita-del-medio/",
           "url": "https://atlas.hejiu.org/places/la-bodeguita-del-medio/",
           "title": "半途小酒馆",
-          "summary": "哈瓦那老城的著名小酒馆，1942 年开业，以莫吉托和文人顾客的墙面签名闻名。",
+          "summary": "哈瓦那老城的著名小酒馆，1942 年开业，以莫吉托和文人顾客的墙面签名闻名；店面狭小、常年拥挤，是游客体验哈瓦那夜生活的地标之一。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
@@ -25493,7 +25673,7 @@
           "path": "/places/mcsorleys-old-ale-house/",
           "url": "https://atlas.hejiu.org/places/mcsorleys-old-ale-house/",
           "title": "麦克索利老麦酒馆",
-          "summary": "纽约东村的历史酒馆，1854 年开业，以只供应淡色和深色艾尔、历史陈设闻名。",
+          "summary": "纽约东村的历史酒馆，1854 年开业，以只供应淡色和深色艾尔、历史陈设闻名；没有酒单、只收现金的传统保留至今，是纽约最老的连续经营酒馆之一。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
@@ -26303,7 +26483,7 @@
           "path": "/places/schlenkerla/",
           "url": "https://atlas.hejiu.org/places/schlenkerla/",
           "title": "施伦克拉烟熏啤酒馆",
-          "summary": "德国班贝格的历史烟熏啤酒酒馆，以 Rauchbier 和传统法兰肯菜闻名。",
+          "summary": "德国班贝格的历史烟熏啤酒酒馆，以 Rauchbier 和传统法兰肯菜闻名；酒馆建筑可追溯到 17 世纪，自酿烟熏啤酒是班贝格城市味觉的代表。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
@@ -27113,7 +27293,7 @@
           "path": "/places/white-horse-tavern/",
           "url": "https://atlas.hejiu.org/places/white-horse-tavern/",
           "title": "白马酒馆",
-          "summary": "纽约格林威治村的历史酒馆，1880 年开业，因诗人迪伦·托马斯等文人顾客闻名。",
+          "summary": "纽约格林威治村的历史酒馆，1880 年开业，因诗人迪伦·托马斯等文人顾客闻名；木质内饰与老式酒馆氛围保留至今，是村内代表性的文学地标。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
@@ -27413,7 +27593,7 @@
           "path": "/places/ye-olde-cheshire-cheese/",
           "url": "https://atlas.hejiu.org/places/ye-olde-cheshire-cheese/",
           "title": "柴郡奶酪酒馆",
-          "summary": "伦敦舰队街的历史酒馆，现建筑 1667 年重建，以木结构内饰和传统英式菜闻名。",
+          "summary": "伦敦舰队街的历史酒馆，现建筑 1667 年重建，以木结构内饰和传统英式菜闻名；据传是伦敦最古老的酒馆之一，也是狄更斯读者常去的文学地标。",
           "status": "reviewed",
           "published": true,
           "translationStatus": null
