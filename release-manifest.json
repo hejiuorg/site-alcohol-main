@@ -6,7 +6,7 @@
   "host": "hejiu.org",
   "siteUrl": "https://hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-26T13:33:03.950Z",
+  "generatedAt": "2026-11-27T00:26:38.435Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -26077,7 +26077,7 @@
     "aggregateSource": ".hejiu/published/main.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "96a21fbffdc9aee4893deddb23c3c3fab58dd3226a94e0bc9226c8f158ad9a9c",
+  "distTreeSha256ExcludingManifest": "2fbcf74a9cc0a7bf12508dbbb7c1e06982a7cfc53f666d787e059a36d8d2ec41",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
